@@ -43,7 +43,7 @@
     "correctIndex": 2,
     "description": "Patanjali Maharshi compiled the Yoga Sutras, which are foundational texts of Yoga."
   },
-    {
+  {
     "question": "How manay limbs are there in Yoga as per Patanjali Yoga Sutras?",
     "options": [
       "8",
@@ -53,5 +53,16 @@
     ],
     "correctIndex": 0,
     "description": "There are 8 limbs in Yoga as per Patanjali Yoga Sutras, known as Ashtanga Yoga. List of limbs: Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, Samadhi."
+  },
+  {
+    "question": "How manay Sutras are there in Patanjali Yoga Sutras?",
+    "options": [
+      "198",
+      "197",
+      "199",
+      "193"
+    ],
+    "correctIndex": 0,
+    "description": "There are 198 Sutras in Patanjali Yoga Sutras."
   }
 ]
