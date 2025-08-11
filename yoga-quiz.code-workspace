@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.json": "json"
+		},
+		"liveServer.settings.port": 5500,
+		"liveServer.settings.root": "/"
+	}
+}

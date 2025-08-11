@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "correctIndex": 2,
+    "description": "Paris is the capital and most populous city of France."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctIndex": 2,
+    "description": "Mars is called the Red Planet due to its reddish appearance."
+  },
+  {
+    "question": "Q3",
+    "options": [
+      "O1",
+      "O2",
+      "O3",
+      "O4"
+    ],
+    "correctIndex": 2,
+    "description": "O2"
+  },
+  {
+    "question": "Who is father of Yoga?",
+    "options": [
+      "Swami Vivekananda",
+      "Yogacharya B.K.S. Iyengar",
+      "Patanjali Maharshi",
+      "Baba Ramdev"
+    ],
+    "correctIndex": 2,
+    "description": "Patanjali Maharshi compiled the Yoga Sutras, which are foundational texts of Yoga."
+  }
+]

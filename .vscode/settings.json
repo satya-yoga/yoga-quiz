@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "*.json": "json"
+    },
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "/"
+}
