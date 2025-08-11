@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* small custom tweaks */
-html, body, #root {
-  height: 100%;
-}
