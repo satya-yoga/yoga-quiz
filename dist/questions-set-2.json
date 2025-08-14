@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "correctIndex": 2,
+    "description": "Paris is the capital and most populous city of France."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctIndex": 2,
+    "description": "Mars is called the Red Planet due to its reddish appearance."
+  },
+  {
+    "question": "Q3",
+    "options": [
+      "O1",
+      "O2",
+      "O3",
+      "O4"
+    ],
+    "correctIndex": 2,
+    "description": "O2"
+  },
+  {
+    "question": "Who is father of Yoga?",
+    "options": [
+      "Swami Vivekananda",
+      "Yogacharya B.K.S. Iyengar",
+      "Patanjali Maharshi",
+      "Baba Ramdev"
+    ],
+    "correctIndex": 2,
+    "description": "Patanjali Maharshi compiled the Yoga Sutras, which are foundational texts of Yoga."
+  },
+  {
+    "question": "How manay limbs are there in Yoga as per Patanjali Yoga Sutras?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "3"
+    ],
+    "correctIndex": 0,
+    "description": "There are 8 limbs in Yoga as per Patanjali Yoga Sutras, known as Ashtanga Yoga. List of limbs: Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, Samadhi."
+  },
+  {
+    "question": "How manay Sutras are there in Patanjali Yoga Sutras?",
+    "options": [
+      "198",
+      "197",
+      "199",
+      "193"
+    ],
+    "correctIndex": 0,
+    "description": "There are 198 Sutras in Patanjali Yoga Sutras."
+  }
+]

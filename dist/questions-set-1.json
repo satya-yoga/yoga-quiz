@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the origin of the word \"Yoga\"?",
+    "options": [
+      "Yuj",
+      "Yujir",
+      "Yog",
+      "Yogasya"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Yuj Samyoga means",
+    "options": [
+      "To unite",
+      "To integrate",
+      "To restrain",
+      "To discriminate"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "\"Yoga-chitta-vritti-nirodah\" - this definition of Yoga is given by",
+    "options": [
+      "Bhagavad Gita",
+      "Patanjali",
+      "Ved Vyasa",
+      "Lord Shiva"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "___ yoga uchyate",
+    "options": [
+      "Karmah",
+      "Samatvam",
+      "Kaushlam",
+      "Chitta"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  }
+]

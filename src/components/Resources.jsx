@@ -4,7 +4,9 @@ export default function Resources() {
   // Example books and links
   const books = [
     { title: "Light on Yoga", author: "B.K.S. Iyengar", file: "books/Light on Yoga - B.K.S. Iyengar.pdf" },
-    { title: "Hatha Yoga Pradipika", author: "Swami Muktibodhananda", file: "books/Hatha Yoga Pradipika.pdf" }
+    { title: "Hatha Yoga Pradipika", author: "Swami Muktibodhananda", file: "books/Hatha Yoga Pradipika.pdf" },
+    { title: "Yogic Management of Common Diseases", author: "Dr. Swami Karmananda", file: "books/Yogic Management of Common Diseases.pdf" }
+    
   ]
   const websites = [
     { name: "Shlokam", url: "https://shlokam.org/" },
