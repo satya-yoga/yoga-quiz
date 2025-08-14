@@ -1,6 +1,13 @@
 ## To run the application locally:
 ```npm run dev``` 
 
+## To push the application:
+```npm run build```
+
+```npm run deploy```
+
+
+
 ## To update the MCQs
 Go to <b>Admin</b> page and enter the credentials
 

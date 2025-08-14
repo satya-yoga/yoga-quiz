@@ -2,3 +2,7 @@ node_modules/
 *.log
 .DS_Store
 .env
+.vscode/
+public/books/*.pdf
+dist/assets/index-*.js
+dist/assets/index-*.css
