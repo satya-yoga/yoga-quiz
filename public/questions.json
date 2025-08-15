@@ -1,3 +1,552 @@
 [
-  
+  {
+    "question": "What is the origin of the word \"Yoga\"?",
+    "options": [
+      "Yuj",
+      "Yujir",
+      "Yog",
+      "Yogasya"
+    ],
+    "correctIndex": 0,
+    "description": "The word Yoga originates from the Sanskrit root \"Yuj\", meaning to yoke, join, or unite - symbolizing the union of individual consciousness with universal consciousness."
+  },
+  {
+    "question": "Yuj Samyoga means-",
+    "options": [
+      "To unite",
+      "To integrate",
+      "To restrain",
+      "To discriminate"
+    ],
+    "correctIndex": 0,
+    "description": "Yuj Samyoga means \"To unite\" - it refers to joining or bringing together, especially the union of self with the higher reality."
+  },
+  {
+    "question": "\"Yoga-chitta-vritti-nirodhah\" This definition of Yoga is given by",
+    "options": [
+      "Bhagwad Gita",
+      "Patanjali",
+      "Ved Vyasa",
+      "Lord Shiva"
+    ],
+    "correctIndex": 1,
+    "description": "This definition appears in Patanjali Yoga Sutra (1.2), meaning Yoga is the cessation of the fluctuations of the mind."
+  },
+  {
+    "question": "\"___ yoga uchyate”",
+    "options": [
+      "Karmah",
+      "Samatvam",
+      "Kaushlam",
+      "Chitta"
+    ],
+    "correctIndex": 1,
+    "description": "From Bhagavad Gita 2.48 — Samatvam Yoga Uchyate means “Equanimity is called Yoga.”"
+  },
+  {
+    "question": "\"duddhi-yukto jahātīha ubhe sukṛita-duṣhkṛite, tasmād yogāya yujyasva yogaḥ karmasu kauśhalam\" This shloka is from which chapter of Bhagavad Gita?",
+    "options": [
+      "2.50",
+      "2.48",
+      "2.45",
+      "2.40"
+    ],
+    "correctIndex": 0,
+    "description": "In Bhagavad Gita 2.50, Krishna explains that one endowed with wisdom (buddhi-yukta) rises above both good and bad deeds, and therefore one should be established in Yoga - Yoga is skill in action."
+  },
+  {
+    "question": "yuktāhāra-vihārasya yukta-cheṣhṭasya (BG 6.17). What is the meaning of the word \"yukta”?",
+    "options": [
+      "Moderate",
+      "Limitless",
+      "Less",
+      "Very less"
+    ],
+    "correctIndex": 0,
+    "description": "In Bhagavad Gita 6.17, yukta means balanced or moderate - referring to moderation in eating, recreation, and activities as essential for Yoga practice."
+  },
+  {
+    "question": "As per the texts, the ultimate objective of Yoga is –",
+    "options": [
+      "Samadhi",
+      "Health",
+      "Spirituality",
+      "Moral values"
+    ],
+    "correctIndex": 0,
+    "description": "According to classical texts like Patanjali Yoga Sutra, the ultimate goal of Yoga is Samadhi - the complete absorption of the mind, leading to liberation (kaivalya)."
+  },
+  {
+    "question": "Yoga is physical exercise -",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Yoga is not merely physical exercise - it is a holistic discipline that integrates body, mind, and spirit for self-realization and well-being."
+  },
+  {
+    "question": "Panini was a -",
+    "options": [
+      "Grammarian",
+      "Yoga Guru",
+      "Shiva's disciple",
+      "Patanjali's Guru"
+    ],
+    "correctIndex": 0,
+    "description": "Pāṇini was an ancient Sanskrit grammarian, best known for his work Ashtadhyayi, a foundational text on Sanskrit grammar."
+  },
+  {
+    "question": "The union of the Jeevatma (individual self) with the Paramatma (the universal self) is referred as",
+    "options": [
+      "Samadhi",
+      "Yog",
+      "Bliss",
+      "Santosha"
+    ],
+    "correctIndex": 1,
+    "description": "Yog means the union of Jeevatma (individual self) with Paramatma (universal self), which is the central aim of Yoga philosophy."
+  },
+  {
+    "question": "According to Katha Upanishad, what is the definition of Yoga?",
+    "options": [
+      "Sthiram-indriyam-dharanam",
+      "Samatvam yoga uchyate",
+      "Yogah Karmasu Kauśhalam",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "According to Katha Upanishad (6.11), Yoga is defined as the steady control of the senses and concentration of the mind."
+  },
+  {
+    "question": "Samyoga Yoga Ityukto?",
+    "options": [
+      "Jeevatmana Parmatmana",
+      "Yuj Samadhau",
+      "Yuj Samymane",
+      "chitta-vritti-nirodhah"
+    ],
+    "correctIndex": 0,
+    "description": "Samyoga Yoga Ityuktaḥ means Yoga is the union of the individual self (Jeevatma) with the universal self (Paramatma)."
+  },
+  {
+    "question": "Samkhya and Yoga understand the Yoga as -",
+    "options": [
+      "Separation of Purusha from Prakriti",
+      "Union of Purusha and Prakriti",
+      "Skill in action",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "n Sāṁkhya and Yoga philosophy, liberation is attained when the pure consciousness (Purusha) realizes its distinction from material nature (Prakriti) and remains separate from it."
+  },
+  {
+    "question": "Yoga is understood as",
+    "options": [
+      "Sadhya & Sadhna",
+      "Means and Method",
+      "A & B both",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "description": "Yoga is understood as both Sādhya (the goal to be achieved) and Sādhana (the means or method to achieve it)."
+  },
+  {
+    "question": "Who is referred to as the Father of Yoga?",
+    "options": [
+      "Adi Yogi",
+      "Maharishi Patanjali",
+      "Adi Shankaracharya",
+      "T. Krishnamacharya"
+    ],
+    "correctIndex": 1,
+    "description": "Maharishi Patanjali is called the Father of Yoga for systematically compiling and codifying yogic knowledge in the Patanjali Yoga Sutras. Adi Yogi refers to Lord Shiva. In yogic tradition, Shiva is revered as the first yogi, the originator of Yoga, who imparted the science of self-realization to the Saptarishis (seven sages)."
+  },
+  {
+    "question": "The earliest known record of Yoga is Bhagavad Gita",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "The earliest known records of Yoga are found in the Rigveda and Upanishads, long before the Bhagavad Gita was composed."
+  },
+  {
+    "question": "Ayurveda is part of -",
+    "options": [
+      "Rig Veda",
+      "Sama Veda",
+      "Yajur Veda",
+      "Atharva Veda"
+    ],
+    "correctIndex": 3,
+    "description": "Ayurveda, the ancient science of life and health, is considered an Upaveda of the Atharva Veda."
+  },
+  {
+    "question": "Jnana Kanda is also known as",
+    "options": [
+      "Up-Veda",
+      "Upanishad",
+      "Vedanga",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Jnana Kanda refers to the knowledge portion of the Vedas, which is primarily contained in the Upanishads."
+  },
+  {
+    "question": "The knowledge of Yoga didn't exist before the Vedic period.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Yogic knowledge is believed to be pre-Vedic, existing as an oral tradition even before it was recorded in the Vedas."
+  },
+  {
+    "question": "Which statement is correct?",
+    "options": [
+      "Upanishads are stand-alone scripture",
+      "Upanishads are part of Vedas",
+      "Both",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Upanishads form the concluding portion of the Vedas (Vedānta) and are not independent scriptures separate from them."
+  },
+  {
+    "question": "The commentary of PYS by Veda Vyasa is known as",
+    "options": [
+      "Yoga Sutra",
+      "Yoga Bhashya",
+      "Yoga Rahasya",
+      "Sutra"
+    ],
+    "correctIndex": 1,
+    "description": "The Yoga Bhāṣya is the authoritative commentary on Patanjali Yoga Sutras written by Veda Vyasa."
+  },
+  {
+    "question": "Patanjali Yoga Sutra is the contemporary text of",
+    "options": [
+      "Bhagavad Gita",
+      "Upanishad",
+      "Hatha Yoga Pradipika",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The Patanjali Yoga Sutras and the Bhagavad Gita are generally considered to be from a similar historical period - around the early centuries BCE to CE."
+  },
+  {
+    "question": "Adi Yogi imparted the yogic knowledge to",
+    "options": [
+      "Patanjali",
+      "Lord Krishna",
+      "Sapta-Rishi",
+      "Nath Yogi"
+    ],
+    "correctIndex": 2,
+    "description": "According to tradition, Adi Yogi (Lord Shiva) transmitted the science of Yoga to the seven sages (Sapta Rishi), who then carried it across different regions of the world."
+  },
+  {
+    "question": "\"Viniyog Hatha Yoga\" lineage is started by",
+    "options": [
+      "Shri Krishnamacharya",
+      "Jiddu Krishna Murti",
+      "BKS Iyengar",
+      "Pattabhi Jois"
+    ],
+    "correctIndex": 0,
+    "description": "Viniyoga Hatha Yoga lineage traces back to T. Krishnamacharya, often called the father of modern Yoga, who emphasized adapting Yoga practices to individual needs."
+  },
+  {
+    "question": "Parliament of Religion was held in",
+    "options": [
+      "1894",
+      "1893",
+      "1890",
+      "1895"
+    ],
+    "correctIndex": 1,
+    "description": "The Parliament of Religions was held in Chicago in 1893, where Swami Vivekananda delivered his historic address beginning with “Sisters and Brothers of America.”"
+  },
+  {
+    "question": "The collection of Mantra in the Veda is referred as",
+    "options": [
+      "Samhita",
+      "Aranyaka",
+      "Vedanga",
+      "Upanishad"
+    ],
+    "correctIndex": 0,
+    "description": "Samhita is the section of the Vedas that contains the collection of mantras and hymns used for rituals and worship."
+  },
+  {
+    "question": "Which of these is not a Vedanga?",
+    "options": [
+      "Siksha",
+      "Kalpa",
+      "Nirukta",
+      "Brahmana"
+    ],
+    "correctIndex": 3,
+    "description": "Brahmana is a Vedic text explaining rituals, while Vedangas are six auxiliary disciplines (Siksha, Kalpa, Nirukta, Vyakarana, Chandas, Jyotisha) that support the understanding and practice of the Vedas."
+  },
+  {
+    "question": "Which of these are Upavedas?",
+    "options": [
+      "Rig Veda",
+      "Sama Veda",
+      "Yajurveda",
+      "Dhanurveda"
+    ],
+    "correctIndex": 3,
+    "description": "Upavedas are secondary Vedic texts associated with practical sciences. Dhanurveda (science of warfare) is an Upaveda, whereas Rig, Sama, and Yajur Veda are the primary Vedas."
+  },
+  {
+    "question": "Who is referred to as the Father of Modern Yoga?",
+    "options": [
+      "T. Krishnamacharya",
+      "Swami Vivekananda",
+      "Patanjali",
+      "Sapta Rishi"
+    ],
+    "correctIndex": 0,
+    "description": "T. Krishnamacharya is considered the Father of Modern Yoga for systematizing Hatha Yoga practices and training many influential modern yogis like B.K.S. Iyengar and Pattabhi Jois."
+  },
+  {
+    "question": "Adi-Shankaracharya was a popular teacher of",
+    "options": [
+      "Non-Dualism",
+      "Yoga",
+      "Veda",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Adi Shankaracharya was a prominent teacher of Advaita Vedanta (Non-Dualism), emphasizing the oneness of Atman (self) and Brahman (ultimate reality)."
+  },
+  {
+    "question": "Match the following:\nIsha Vasya, Mundaka, Katha, Talavakra\nKrishna Yajurveda, Sama Veda, Shukla Yajurveda, Atharva Veda",
+    "options": [
+      " a-c, b-d, c-a, d-b",
+      "a-d, b-c, c-a, d-b",
+      "a-a, b-d, c-c, d-b",
+      "a-c, b-d, c-b, d-a"
+    ],
+    "correctIndex": 0,
+    "description": "Isha Upanishad → Shukla Yajurveda; Mundaka Upanishad → Atharva Veda;  Katha Upanishad → Krishna Yajurveda; Taittiriya (Talavakra) → Sama Veda"
+  },
+  {
+    "question": "Which one is the shortest Upanishad?",
+    "options": [
+      "Mandukya",
+      "Mundaka",
+      "Isha",
+      "Aitreya"
+    ],
+    "correctIndex": 0,
+    "description": "Mandukya Upanishad is the shortest Upanishad, consisting of only 12 verses, yet it gives a complete description of the nature of reality and the self (Atman)."
+  },
+  {
+    "question": "Atman is motionless yet faster than the mind, ___ cannot overtake it as it runs before them.",
+    "options": [
+      "Senses",
+      "Soul",
+      "Intellect",
+      "Brahman"
+    ],
+    "correctIndex": 0,
+    "description": "According to the Upanishads, the Atman is motionless yet subtler and swifter than the mind, and even the senses cannot overtake it because it is the innermost essence of consciousness."
+  },
+  {
+    "question": "Avidya empowers man to overcome death while Vidya empowers him with immortality.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 0,
+    "description": "The Katha Upanishad, the verse (2.2.13) contrasts Avidya and Vidya:  Avidya: worldly knowledge or ignorance, which leads to temporary gains like overcoming death in a limited sense (through rituals or merit).  Vidya: higher spiritual knowledge, which grants true immortality by realizing the Self."
+  },
+  {
+    "question": "The word \"Kena\" refers to",
+    "options": [
+      "Whom",
+      "How",
+      "Why",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "In Kena Upanishad, the word Kena can be interpreted as “by whom,” “how,” or “why”, reflecting the inquiry into the ultimate source behind all actions, senses, and knowledge."
+  },
+  {
+    "question": "Father of Nachiketa was",
+    "options": [
+      "Vajashrava (Also known as Uddalaka)",
+      "Yam Raj",
+      "Yajnavalkya",
+      "Pippalada"
+    ],
+    "correctIndex": 0,
+    "description": "Nachiketa’s father, Vajashrava (Uddalaka), in a moment of irritation during a fire sacrifice, tells his son to go to Yama, the god of death. This remark leads Nachiketa to meet Yama, who then imparts spiritual knowledge about life, death, and immortality."
+  },
+  {
+    "question": "The higher vidya is referred as",
+    "options": [
+      "Avidya",
+      "Para Vidya",
+      "Apara Vidya",
+      "Veda"
+    ],
+    "correctIndex": 1,
+    "description": "In Upanishadic terminology:  Para Vidya → higher knowledge, spiritual knowledge leading to liberation.  Apara Vidya → lower knowledge, worldly or ritualistic knowledge."
+  },
+  {
+    "question": "Mundaka Upanishad explains the popular concept of the Bow and arrow concept. In this concept, Bow and arrow refers to",
+    "options": [
+      "Pranava and the self",
+      "Atman and the Brahman",
+      "Purusha and Prakriti",
+      "Pranava and Brahman."
+    ],
+    "correctIndex": 0,
+    "description": "In the Mundaka Upanishad, the bow symbolizes Pranava (Om) and the arrow symbolizes the individual Self (Atman). When the bow (Om) is aligned with the arrow (Self), it reaches the target - the realization of Brahman."
+  },
+  {
+    "question": "Turiya literally means",
+    "options": [
+      "Fourth",
+      "Jagrat Avastha",
+      "Vaiśvānara",
+      "Taijasa"
+    ],
+    "correctIndex": 0,
+    "description": "Turiya literally means “the Fourth” and refers to the transcendental state of consciousness beyond waking (Jagrat), dreaming (Svapna), and deep sleep (Sushupti)."
+  },
+  {
+    "question": "Shandilya Vidya is explained in",
+    "options": [
+      "Chhandogya",
+      "Aitreya",
+      "Shvetashvatra",
+      "Prashnopanishad"
+    ],
+    "correctIndex": 0,
+    "description": "Shandilya Vidya, found in the Chandogya Upanishad, teaches that the Self (Atman) pervades everything and emphasizes meditation on this truth to realize the unity of the individual self with Brahman."
+  },
+  {
+    "question": "Meditation on the syllable Om is referred as",
+    "options": [
+      "Udgitha",
+      "Pratyahara",
+      "Dhyan",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "In Vedic and Upanishadic tradition, Udgitha refers to the meditation or chanting of the syllable Om, considered the primal sound representing Brahman."
+  },
+  {
+    "question": "The concept of Neti- Neti is mentioned in",
+    "options": [
+      "Brihadaranyaka",
+      "Chhandogya",
+      "Mundaka",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The Neti-Neti (“not this, not this”) method is described in the Brihadaranyaka Upanishad as a way to understand the Self (Atman) by negating all limited or impermanent identifications."
+  },
+  {
+    "question": "Mahavakya \"Prajnanam Brahma\" is taken from",
+    "options": [
+      "Aitreya Upanishad",
+      "Brihadaranyaka",
+      "Mandukya",
+      "Chhandogya"
+    ],
+    "correctIndex": 0,
+    "description": "The Mahāvākya “Prajñānam Brahma” (“Consciousness is Brahman”) is found in the Aitareya Upanishad, highlighting that pure consciousness (Prajñāna) is the ultimate reality, Brahman."
+  },
+  {
+    "question": "As per Guru-Shishya Parampara, the knowledge of Brahman was taught by Satyavaha to",
+    "options": [
+      "Angir",
+      "Angiras",
+      "Atharvan",
+      "Nachiketa"
+    ],
+    "correctIndex": 1,
+    "description": "According to the Guru-Śiṣya Paramparā, the sage Angiras taught the knowledge of Brahman, passing it down through the lineage of teachers and disciples."
+  },
+  {
+    "question": "In the Upanishad world is referred to as Urdhvamula Vriksha,  which means",
+    "options": [
+      "Roots are up and branches are down",
+      "It's a myth",
+      "Roots are  levitating from the ground due to gravity",
+      "Prakriti is the root"
+    ],
+    "correctIndex": 0,
+    "description": "In the Upanishads, the world is described as an Urdhvamula Vṛkṣa, symbolizing a cosmic tree whose roots are upward in the divine realm and branches extend downward into the material world."
+  },
+  {
+    "question": "People who believe that effect pre-exist in the cause are called",
+    "options": [
+      "Satkaryavadins",
+      "Asatkaryavadins",
+      "Astika",
+      "Nastika"
+    ],
+    "correctIndex": 0,
+    "description": "Satkāryavādins hold that the effect already exists in the cause in a potential form, and creation is the manifestation of that inherent potential."
+  },
+  {
+    "question": "In the context of Bhartiya Darshan, the term Astika refers to",
+    "options": [
+      "People who believe in God",
+      "People who believe in idol worshipping",
+      "People who believe in Nirguna Brahman",
+      "None of the above"
+    ],
+    "correctIndex": 3,
+    "description": "In Bhāratīya Darśana, Āstika refers to those who accept the authority of the Vedas, not necessarily their belief in God or idol worship."
+  },
+  {
+    "question": "The philosophy of the Atom is given by",
+    "options": [
+      "Rishi Kanad",
+      "Rishi Gautama",
+      "Rishi Kapila",
+      "Rishi Yajnavalkya"
+    ],
+    "correctIndex": 0,
+    "description": "Rishi Kanada, the founder of the Vaisheshika Darshana, proposed the philosophy of the atom (Anu), describing the material world as composed of indivisible atoms."
+  },
+  {
+    "question": "Charvak Darshan is also known as",
+    "options": [
+      "Lokāyata",
+      "Ajnanai",
+      "Adharmi",
+      "Ajivika"
+    ],
+    "correctIndex": 0,
+    "description": "Cārvāka Darśana, a materialistic and atheistic school of thought, is also called Lokāyata, emphasizing worldly, empirical experience as the only valid source of knowledge."
+  },
+  {
+    "question": "Which of these is not the accepted means valid knowledge as per  Nyaya Darshan?",
+    "options": [
+      "Pratyaksha",
+      "Anumāna",
+      "Upamāna",
+      "Empiricism"
+    ],
+    "correctIndex": 3,
+    "description": "In Nyāya Darśana, the accepted means of valid knowledge (Pramāṇa) are:  Pratyakṣa (perception)  Anumāna (inference)  Upamāna (comparison)  Śabda (verbal testimony)  Empiricism as a philosophical term is not listed as a Pramāṇa in Nyāya."
+  }
 ]
