@@ -6,11 +6,11 @@ import Resources from './components/Resources'
 export default function App() {
   return (
     <Router>
-      <div className="min-h-screen flex flex-col">
+      <div className="min-h-screen flex flex-col bg-gray-50">
         <header className="bg-white shadow">
-          <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-            <h1 className="text-xl font-semibold">Yoga Vidya – YCB Exam Practice App</h1>
-            <nav className="space-x-2">
+          <div className="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between">
+            <h1 className="text-xl font-semibold mb-2 md:mb-0 text-center md:text-left">Yoga Vidya – YCB Exam Practice App</h1>
+            <nav className="space-x-2 flex flex-wrap justify-center">
               <Link
                 to="/yoga-quiz/"
                 className="px-3 py-1 rounded bg-gray-100 hover:bg-blue-600 hover:text-white"
@@ -23,12 +23,11 @@ export default function App() {
               >
                 Resources
               </Link>
-              {/* No Admin button here */}
             </nav>
           </div>
         </header>
 
-        <main className="flex-1 container mx-auto px-4 py-8">
+        <main className="flex-1 container mx-auto px-2 py-4">
           <Routes>
             <Route path="/yoga-quiz/" element={<Quiz />} />
             <Route path="/yoga-quiz/resources" element={<Resources />} />
@@ -37,7 +36,7 @@ export default function App() {
         </main>
 
         <footer className="bg-white border-t py-3">
-          <div className="container mx-auto text-center text-sm text-gray-600">
+          <div className="container mx-auto text-center text-sm text-gray-600 px-2">
             Built with React + Tailwind — free to host on GitHub Pages / Netlify
           </div>
         </footer>
