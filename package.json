@@ -2,7 +2,7 @@
   "name": "yoga-quiz",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://satya-yoga.github.io/yoga-quiz",
+  "homepage": "https://satyoga.github.io/quiz",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

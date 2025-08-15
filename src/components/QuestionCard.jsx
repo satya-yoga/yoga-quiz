@@ -7,13 +7,21 @@ export default function QuestionCard({ q, qIndex, savedAnswer, onSelect }) {
       <div className="grid gap-3">
         {q.options.map((opt, idx) => {
           const isSelected = savedAnswer === idx
+          const isCorrect = q.correctIndex === idx
+          const btnBase = "p-3 rounded text-left border w-full"
+          let classes = btnBase + " bg-gray-50 border-gray-200"
+          if (savedAnswer != null) {
+            if (isCorrect) classes = btnBase + " bg-green-100 border-green-400"
+            else if (isSelected && !isCorrect) classes = btnBase + " bg-red-100 border-red-400"
+          } else if (isSelected) {
+            classes = btnBase + " bg-blue-50 border-blue-300"
+          }
           return (
             <button
               key={idx}
-              className={`p-3 rounded text-left border w-full transition ${
-                isSelected ? 'bg-blue-100 border-blue-500' : 'bg-gray-50 border-gray-200'
-              }`}
               onClick={() => onSelect(idx)}
+              className={classes}
+              aria-pressed={isSelected}
             >
               {opt}
             </button>

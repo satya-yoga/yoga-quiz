@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import Quiz from './components/Quiz'
 import Admin from './components/Admin'
 import Resources from './components/Resources'
@@ -12,13 +12,13 @@ export default function App() {
             <h1 className="text-xl font-semibold mb-2 md:mb-0 text-center md:text-left">Yoga Vidya – YCB Exam Practice App</h1>
             <nav className="space-x-2 flex flex-wrap justify-center">
               <Link
-                to="/yoga-quiz/"
+                to="/"
                 className="px-3 py-1 rounded bg-gray-100 hover:bg-blue-600 hover:text-white"
               >
                 Quiz
               </Link>
               <Link
-                to="/yoga-quiz/resources"
+                to="/resources"
                 className="px-3 py-1 rounded bg-gray-100 hover:bg-blue-600 hover:text-white"
               >
                 Resources
@@ -29,8 +29,8 @@ export default function App() {
 
         <main className="flex-1 container mx-auto px-2 py-4">
           <Routes>
-            <Route path="/yoga-quiz/" element={<Quiz />} />
-            <Route path="/yoga-quiz/resources" element={<Resources />} />
+            <Route path="/" element={<Quiz />} />
+            <Route path="/resources" element={<Resources />} />
             <Route path="/yoga-quiz/admin" element={<Admin />} />
           </Routes>
         </main>
