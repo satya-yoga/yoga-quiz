@@ -31,7 +31,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Quiz />} />
             <Route path="/resources" element={<Resources />} />
-            <Route path="/yoga-quiz/admin" element={<Admin />} />
+            <Route path="/admin" element={<Admin />} />
           </Routes>
         </main>
 

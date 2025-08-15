@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/yoga-quiz/',
+  base: '/quiz/',
   server: {
     port: 5173
   }

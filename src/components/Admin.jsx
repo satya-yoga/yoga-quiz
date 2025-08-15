@@ -80,7 +80,25 @@ export default function Admin() {
     setMessage('Saved answers reset in localStorage.')
   }
 
-const correctPassword = 'mySecret123'; // Change this
+  const handleLogin = async () => {
+    try {
+      const res = await fetch('http://localhost:3001/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password }),
+      });
+
+      if (res.ok) {
+        setAuthenticated(true);
+      } else {
+        const data = await res.json();
+        alert(data.message || 'Login failed');
+      }
+    } catch (err) {
+      console.error(err);
+      alert('Error connecting to server');
+    }
+  };
 
 if (!authenticated) {
     return (
@@ -93,13 +111,7 @@ if (!authenticated) {
           className="border p-2 rounded mb-2"
         />
         <button
-          onClick={() => {
-            if (password === correctPassword) {
-              setAuthenticated(true);
-            } else {
-              alert('Wrong password');
-            }
-          }}
+          onClick={handleLogin}
           className="bg-blue-500 text-white px-4 py-2 rounded"
         >
           Login
