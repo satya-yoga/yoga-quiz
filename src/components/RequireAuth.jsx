@@ -3,11 +3,13 @@ import { useAuth0 } from '@auth0/auth0-react'
 export default function RequireAuth({ children }) {
   const { isAuthenticated, isLoading, loginWithRedirect } = useAuth0()
 
-  if (isLoading) return <div className="text-center mt-10">Loading...</div>
-
-  // if (!isAuthenticated) {
-  //   loginWithRedirect({ redirectUri: window.location.origin + "/yoga-quiz/"});
-  // }
+  if (isLoading) {
+    return (
+      <div className="flex items-center justify-center h-screen">
+        <div className="text-lg text-gray-500">Loading...</div>
+      </div>
+    )
+  }
 
   if (!isAuthenticated) {
     return (

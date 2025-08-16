@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom'
 import Quiz from './components/Quiz'
 import Admin from './components/Admin'
 import Resources from './components/Resources'
@@ -7,7 +7,6 @@ import AuthButtons from './components/AuthButtons'
 
 export default function App() {
   return (
-    <Router>
       <div className="h-screen flex flex-col bg-gray-50">
         <header className="bg-white shadow">
           <div className="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between">
@@ -46,6 +45,5 @@ export default function App() {
           </div>
         </footer> */}
       </div>
-    </Router>
   )
 }
