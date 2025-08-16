@@ -6,7 +6,7 @@ import Resources from './components/Resources'
 export default function App() {
   return (
     <Router>
-      <div className="min-h-screen flex flex-col bg-gray-50">
+      <div className="h-screen flex flex-col bg-gray-50">
         <header className="bg-white shadow">
           <div className="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between">
             <h1 className="text-xl font-semibold mb-2 md:mb-0 text-center md:text-left">Yoga Vidya – YCB Exam Practice App</h1>
@@ -27,7 +27,7 @@ export default function App() {
           </div>
         </header>
 
-        <main className="flex-1 container mx-auto px-2 py-4">
+        <main className="flex-1 container mx-auto px-2 py-4 overflow-auto">
           <Routes>
             <Route path="/" element={<Quiz />} />
             <Route path="/resources" element={<Resources />} />
@@ -35,11 +35,11 @@ export default function App() {
           </Routes>
         </main>
 
-        <footer className="bg-white border-t py-3">
+        {/* <footer className="bg-white border-t py-3">
           <div className="container mx-auto text-center text-sm text-gray-600 px-2">
             Built with React + Tailwind — free to host on GitHub Pages / Netlify
           </div>
-        </footer>
+        </footer> */}
       </div>
     </Router>
   )

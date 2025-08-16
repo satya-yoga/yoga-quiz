@@ -3,6 +3,7 @@ node_modules/
 .DS_Store
 .env
 .vscode/
+package-lock.json
 public/books/*.pdf
 dist/assets/index-*.js
 dist/assets/index-*.css

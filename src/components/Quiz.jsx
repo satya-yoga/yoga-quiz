@@ -42,7 +42,7 @@ export default function Quiz() {
   }, [answers, setFile])
 
   return (
-    <div className="flex flex-col items-center  min-h-screen bg-gray-50 px-2 py-4">
+<div className="h-full flex flex-col items-center bg-gray-50 px-2 py-4">
       <div className="w-full max-w-xl mb-6">
         <label htmlFor="set-select" className="block mb-2 font-semibold text-gray-700">
           Select Question Set

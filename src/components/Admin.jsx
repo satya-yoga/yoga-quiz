@@ -1,7 +1,9 @@
+import { useAuth0 } from '@auth0/auth0-react'
 import React, { useEffect, useState } from 'react'
 
 export default function Admin() {
-  const [authenticated, setAuthenticated] = useState(false);
+  const { isAuthenticated, loginWithRedirect, user, logout } = useAuth0()
+  
   const [password, setPassword] = useState('');
 
   const [questions, setQuestions] = useState([])
@@ -12,6 +14,34 @@ export default function Admin() {
     description: ''
   })
   const [message, setMessage] = useState('')
+
+  const allowedEmails = ['satyamera21@gmail.com']
+  
+  if (!isAuthenticated) {
+    return (
+      <div className="flex flex-col items-center justify-center h-screen">
+        <button
+          onClick={() => loginWithRedirect()}
+          className="bg-blue-500 text-white px-4 py-2 rounded"
+        >
+          Login to Access Admin
+        </button>
+      </div>
+    )
+  }
+  if (!allowedEmails.includes(user?.email)) {
+    return (
+      <div className="flex flex-col items-center justify-center h-screen">
+        <div className="text-red-600 mb-4">Access denied.</div>
+        <button
+          onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}
+          className="bg-gray-500 text-white px-4 py-2 rounded"
+        >
+          Logout
+        </button>
+      </div>
+    )
+  }
 
   useEffect(() => {
     // Load questions.json initially
@@ -80,48 +110,9 @@ export default function Admin() {
     setMessage('Saved answers reset in localStorage.')
   }
 
-  const handleLogin = async () => {
-    try {
-      const res = await fetch('http://localhost:3001/login', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ password }),
-      });
-
-      if (res.ok) {
-        setAuthenticated(true);
-      } else {
-        const data = await res.json();
-        alert(data.message || 'Login failed');
-      }
-    } catch (err) {
-      console.error(err);
-      alert('Error connecting to server');
-    }
-  };
-
-if (!authenticated) {
-    return (
-      <div className="flex flex-col items-center justify-center h-screen">
-        <input
-          type="password"
-          placeholder="Enter password"
-          value={password}
-          onChange={e => setPassword(e.target.value)}
-          className="border p-2 rounded mb-2"
-        />
-        <button
-          onClick={handleLogin}
-          className="bg-blue-500 text-white px-4 py-2 rounded"
-        >
-          Login
-        </button>
-      </div>
-    );
-  }  
-
   return (
     <div className="space-y-6">
+      <div>Welcome, {user?.name}!</div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="bg-white p-4 rounded shadow">
           <h2 className="font-semibold mb-2">Add Question</h2>
