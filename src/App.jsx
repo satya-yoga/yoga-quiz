@@ -2,6 +2,8 @@ import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import Quiz from './components/Quiz'
 import Admin from './components/Admin'
 import Resources from './components/Resources'
+import RequireAuth from './components/RequireAuth'
+import AuthButtons from './components/AuthButtons'
 
 export default function App() {
   return (
@@ -23,16 +25,19 @@ export default function App() {
               >
                 Resources
               </Link>
+              <AuthButtons/>
             </nav>
           </div>
         </header>
 
         <main className="flex-1 container mx-auto px-2 py-4 overflow-auto">
-          <Routes>
-            <Route path="/" element={<Quiz />} />
-            <Route path="/resources" element={<Resources />} />
-            <Route path="/admin" element={<Admin />} />
-          </Routes>
+          <RequireAuth>
+            <Routes>
+              <Route path="/" element={<Quiz />} />
+              <Route path="/resources" element={<Resources />} />
+              <Route path="/admin" element={<Admin />} />
+            </Routes>
+            </RequireAuth>
         </main>
 
         {/* <footer className="bg-white border-t py-3">

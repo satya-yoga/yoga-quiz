@@ -1,5 +1,6 @@
 import { useAuth0 } from '@auth0/auth0-react'
 import React, { useEffect, useState } from 'react'
+const adminMail = import.meta.env.VITE_email;
 
 export default function Admin() {
   const { isAuthenticated, loginWithRedirect, user, logout } = useAuth0()
@@ -15,7 +16,7 @@ export default function Admin() {
   })
   const [message, setMessage] = useState('')
 
-  const allowedEmails = ['satyamera21@gmail.com']
+  const allowedEmails = [adminMail]
   
   if (!isAuthenticated) {
     return (
@@ -32,9 +33,11 @@ export default function Admin() {
   if (!allowedEmails.includes(user?.email)) {
     return (
       <div className="flex flex-col items-center justify-center h-screen">
-        <div className="text-red-600 mb-4">Access denied.</div>
+        <div className="text-red-600 mb-4">Access denied. You are not Admin.</div>
         <button
-          onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}
+          onClick={() => logout({ 
+            returnTo: window.location.origin + "/yoga-quiz/"
+          })}
           className="bg-gray-500 text-white px-4 py-2 rounded"
         >
           Logout
