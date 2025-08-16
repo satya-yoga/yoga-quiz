@@ -1,68 +1,123 @@
 [
   {
-    "question": "What is the capital of France?",
+    "question": "Accepted means of Valid Knowledge for Vaisheshika Darshana are",
     "options": [
-      "Berlin",
-      "Madrid",
-      "Paris",
-      "Rome"
+      "Pratyaksha",
+      "Anumāna",
+      "Upamāna",
+      "A & B Both"
     ],
-    "correctIndex": 2,
-    "description": "Paris is the capital and most populous city of France."
+    "correctIndex": 3,
+    "description": "In Vaiśeṣika Darśana, the accepted means of valid knowledge (Pramāṇa) are:  Pratyakṣa (perception)  Anumāna (inference)"
   },
   {
-    "question": "Which planet is known as the Red Planet?",
+    "question": "Sankhya is popularly referred to as Uncompromising ___ , Atheistic ___, and Pluralistic ___",
     "options": [
-      "Earth",
-      "Venus",
-      "Mars",
-      "Jupiter"
-    ],
-    "correctIndex": 2,
-    "description": "Mars is called the Red Planet due to its reddish appearance."
-  },
-  {
-    "question": "Q3",
-    "options": [
-      "O1",
-      "O2",
-      "O3",
-      "O4"
-    ],
-    "correctIndex": 2,
-    "description": "O2"
-  },
-  {
-    "question": "Who is father of Yoga?",
-    "options": [
-      "Swami Vivekananda",
-      "Yogacharya B.K.S. Iyengar",
-      "Patanjali Maharshi",
-      "Baba Ramdev"
-    ],
-    "correctIndex": 2,
-    "description": "Patanjali Maharshi compiled the Yoga Sutras, which are foundational texts of Yoga."
-  },
-  {
-    "question": "How manay limbs are there in Yoga as per Patanjali Yoga Sutras?",
-    "options": [
-      "8",
-      "7",
-      "9",
-      "3"
+      "Dualism, Realism and Spiritualism",
+      "Prakriti, Purusha, and Self",
+      "Dualism, Non-realism, and Self",
+      "None of the above"
     ],
     "correctIndex": 0,
-    "description": "There are 8 limbs in Yoga as per Patanjali Yoga Sutras, known as Ashtanga Yoga. List of limbs: Yama, Niyama, Asana, Pranayama, Pratyahara, Dharana, Dhyana, Samadhi."
+    "description": "Sāṅkhya Darśana is:  Uncompromising Dualism – distinguishes Purusha (consciousness) and Prakriti (matter)  Atheistic Realism – explains the world without invoking a creator God  Pluralistic Spiritualism – recognizes multiple Purushas (individual consciousnesses) alongside material reality."
   },
   {
-    "question": "How manay Sutras are there in Patanjali Yoga Sutras?",
+    "question": "The total number of Tattva mentioned in Samkhya Darshan is",
     "options": [
-      "198",
-      "197",
-      "199",
-      "193"
+      "16",
+      "25",
+      "3",
+      "5"
+    ],
+    "correctIndex": 1,
+    "description": "In Sāṅkhya Darśana, there are 25 tattvas (principles):  Purusha – 1  Prakriti – 1  Mahat (Buddhi) – 1  Ahamkara (Ego) – 1  Mind (Manas) – 1  Five sense organs – 5  Five action organs – 5  Five subtle elements (Tanmatras) – 5  Five gross elements (Mahabhutas) – 5  Total = 25."
+  },
+  {
+    "question": "Tanmatra Roopa is related to",
+    "options": [
+      "Apa",
+      "Vayu",
+      "Agni",
+      "Ether"
+    ],
+    "correctIndex": 2,
+    "description": "In Sāṅkhya philosophy, Tanmātras are subtle elements corresponding to sensory qualities:  Shabda (Sound) → Ether (Akasha)  Sparsha (Touch) → Vayu  Rupa (Form / Sight) → Agni / Tejas  Rasa (Taste) → Jala (Water)  Gandha (Smell) → Prithvi (Earth)"
+  },
+  {
+    "question": "How many sutras are there in Vibhuti Pada?",
+    "options": [
+      "55",
+      "34",
+      "51",
+      "None of the above"
     ],
     "correctIndex": 0,
-    "description": "There are 198 Sutras in Patanjali Yoga Sutras."
+    "description": "Chapter 1 (Samadhi Pada): 51 sutras  Chapter 2 (Sadhana Pada): 55 sutras  Chapter 3 (Vibhuti Pada): 55 sutras  Chapter 4 (Kaivalya Pada): 34 sutras"
+  },
+  {
+    "question": "The bridge between Antaranga and Bahiranga yoga is referred  as",
+    "options": [
+      "Pratyahara",
+      "Asana",
+      "Pranayama",
+      "Dharna"
+    ],
+    "correctIndex": 0,
+    "description": "Pratyāhāra (withdrawal of the senses) acts as the bridge between Antaranga Yoga (inner practices like Dharana, Dhyana, Samadhi) and Bahiranga Yoga (outer practices like Asana and Pranayama), preparing the mind for deeper meditation."
+  },
+  {
+    "question": "Occasional obligatory duties are referred as",
+    "options": [
+      "Nitya Karma",
+      "Naimittika Karma",
+      "Kamya Karma",
+      "Prayaschitta Karma"
+    ],
+    "correctIndex": 1,
+    "description": "Naimittika Karma refers to occasional or duty-based actions that arise due to specific situations or events, such as mourning rituals or annual ceremonies, as opposed to daily obligatory duties (Nitya Karma)."
+  },
+  {
+    "question": "Which is the forbidden action?",
+    "options": [
+      "Ashukla Karma",
+      "Krishna Karma",
+      "Nishiddha Karma",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "description": "Niṣiddha Karma refers to forbidden actions in Hindu philosophy - acts that are prohibited by dharma or moral law."
+  },
+  {
+    "question": "The inquiry on the Jnana Kanda part of the Veda is referred as",
+    "options": [
+      "Vedanta",
+      "Uttara Mimamsa",
+      "Upanishad",
+      "Purva Mimamsa"
+    ],
+    "correctIndex": 1,
+    "description": "The Jnana Kanda of the Vedas, which deals with knowledge of the Self and Brahman, is studied under Uttara Mimamsa (also called Vedanta), in contrast to Purva Mimamsa, which focuses on rituals."
+  },
+  {
+    "question": "The first Theerthankar of Jainism is",
+    "options": [
+      "Vardhman Mahaveer",
+      "Rishabhdeva",
+      "Acharya Mahapragya",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "In Jainism, Rishabhdeva (also called Adinatha) is considered the first Tīrthaṅkara, who established the path of righteousness and spiritual practice."
+  },
+  {
+    "question": "Which one is not part of Panch Mahavratas of Jainism?",
+    "options": [
+      "Ahimsa",
+      "Asteya",
+      "Aparigraha",
+      "Tapa"
+    ],
+    "correctIndex": 3,
+    "description": "The Pañca Mahāvratas (five great vows) of Jainism are:  Ahimsā – Non-violence  Satya – Truthfulness  Asteya – Non-stealing  Brahmacharya – Celibacy  Aparigraha – Non-possessiveness  Tapa (austerity) is an important practice in Jainism but not one of the five Mahavratas."
   }
 ]
