@@ -75,13 +75,7 @@ export default function Quiz() {
               />
             </div>
           </div>
-          <QuestionCard
-            q={questions[current]}
-            qIndex={current}
-            savedAnswer={answers[current]}
-            onSelect={idx => setAnswers(prev => ({ ...prev, [current]: idx }))}
-          />
-          <div className="flex flex-col md:flex-row justify-between mt-4 gap-2">
+          <div className="flex justify-between mt-4">
             <button
               onClick={() => setCurrent(c => Math.max(0, c - 1))}
               disabled={current === 0}
@@ -89,6 +83,23 @@ export default function Quiz() {
             >
               Previous
             </button>
+            
+            <button
+              onClick={() => setCurrent(c => Math.min(questions.length - 1, c + 1))}
+              disabled={current === questions.length - 1}
+              className="px-4 py-2 rounded bg-blue-500 text-white disabled:opacity-50"
+            >
+              Next
+            </button>
+          </div>
+          <QuestionCard
+            q={questions[current]}
+            qIndex={current}
+            savedAnswer={answers[current]}
+            onSelect={idx => setAnswers(prev => ({ ...prev, [current]: idx }))}
+          />
+          
+          <div className="flex flex-col md:flex-row justify-between mt-4 gap-2">
             <button
               onClick={() => {
                 setAnswers(prev => {
@@ -101,13 +112,7 @@ export default function Quiz() {
             >
               Clear answer
             </button>
-            <button
-              onClick={() => setCurrent(c => Math.min(questions.length - 1, c + 1))}
-              disabled={current === questions.length - 1}
-              className="px-4 py-2 rounded bg-blue-600 text-white disabled:opacity-50"
-            >
-              Next
-            </button>
+
           </div>
         </div>
       )}
