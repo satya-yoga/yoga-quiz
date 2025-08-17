@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Bhakti Yoga is not for householders. It is a path for Sannyasins.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Bhakti Yoga (the path of devotion) is open to everyone, including householders, renunciates, and seekers of all walks of life. The essence of Bhakti Yoga is love and surrender to the Divine, which can be practiced while performing daily duties."
+  },
+  {
+    "question": "Which of the following is not a part of Navavidha Bhakti",
+    "options": [
+      "Archanam",
+      "Kirtanam",
+      "Danam",
+      "Pada-Sevanam"
+    ],
+    "correctIndex": 2,
+    "description": "In the Bhagavata Purana (7.5.23–24), Prahlāda Mahārāja enumerates the nine forms of devotion (Navavidha Bhakti) as follows: 1. Śravaṇam: Listening to the Lord's glories; 2. Kīrtanam: Chanting or singing the Lord's name; 3. Smaraṇam: Remembering the Lord; 4. Pāda-sevanam: Serving the Lord's feet; 5. Arcanam: Worshiping the Lord with sixteen types of paraphernalia; 6. Vandanam: Offering prayers to the Lord; 7. Dāsyam: Considering oneself the servant of the Lord; 8. Sākhyam: Considering oneself the friend of the Lord; 9. Ātma-nivedanam: Surrendering oneself completely to the Lord"
+  },
+  {
+    "question": "Navavidha Bhakti is mentioned in",
+    "options": [
+      "Narada Bhakti Sutra",
+      "Bhagwad Gita",
+      "Ramayana",
+      "Bhagavat Purana"
+    ],
+    "correctIndex": 3,
+    "description": "Navavidha Bhakti (Nine Forms of Devotion) is described in Śrīmad Bhāgavatam, 7.5.23–24, where Prahlāda Mahārāja explains the nine ways a devotee can serve and love the Lord. These nine forms include Śravaṇam (listening), Kīrtanam (chanting), Smaraṇam (remembering), Pāda-sevanam (serving the Lord’s feet), Archanam (worship), Vandanam (obeisance), Dāsyam (servitude), Sākhyam (friendship), and Ātma-nivedanam (self-surrender)."
+  },
+  {
+    "question": "The desirer of the wealth is referred as which type of bhakta?",
+    "options": [
+      "Arthārthī",
+      "Ārta",
+      "Greedy",
+      "Jijñāsu"
+    ],
+    "correctIndex": 0,
+    "description": "In Bhagavad Gita 7.16, Lord Krishna explains four types of devotees: 1. Ārta – Those in distress; 2. Jijñāsu – Seekers of knowledge; 3. Arthārthī – Seekers of wealth or material benefits; 4. Jñānī – Wise devotees established in knowledge"
+  },
+  {
+    "question": "Which type of devotee is considered best by Shri Krishna?",
+    "options": [
+      "Jnani",
+      "Jigyasu",
+      "Artharthee",
+      "Arta"
+    ],
+    "correctIndex": 0,
+    "description": "In Bhagavad Gita 7.16, Krishna describes four types of devotees: Ārta (distressed), Jijñāsu (seeker of knowledge), Arthārthī (seeker of wealth), and Jñānī (wise devotee). Among these, the Jñānī devotee is considered the best, as they are firmly established in knowledge and wisdom, worshipping Krishna without selfish desires."
+  },
+  {
+    "question": "Mirabai was part of the",
+    "options": [
+      "Bhakti Yoga Path",
+      "Karma Yoga Path",
+      "Jnana Yoga Path",
+      "Hatha Yoga Path"
+    ],
+    "correctIndex": 0,
+    "description": "Mirabai (1498–1547) was a celebrated devotee of Lord Krishna and is renowned for her unconditional devotion and love. Her life and poetry exemplify the Bhakti Yoga path, focusing on surrender, love, and devotion to God rather than ritualistic or intellectual approaches."
+  },
+  {
+    "question": "Poorak is",
+    "options": [
+      "Inhalation",
+      "Exhalation",
+      "Retention",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "In Prāṇāyāma terminology: 1. Pooraka (Poorak) – Inhalation of air into the lungs. 2. Rechaka (Rechak) – Exhalation of air. 3. Kumbhaka – Retention of breath (either after inhalation or exhalation)."
+  },
+  {
+    "question": "Yoga is",
+    "options": [
+      "Union of the individual self and supreme self",
+      "Exercise",
+      "Spiritual movement",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The word Yoga comes from the Sanskrit root “Yuj”, meaning to unite or join. In classical texts like Patanjali Yoga Sutras, Yoga is defined as “Yogaḥ citta-vṛtti-nirodhaḥ” – the restraint of mental fluctuations – which ultimately leads to the union of the individual self (Jīvatma) with the Supreme Self (Paramatma). Yoga is much more than just physical exercise; it is a holistic practice of spiritual integration."
+  },
+  {
+    "question": "Patanjali defines yoga as",
+    "options": [
+      "Yogaś-chitta-vrtti-nirodhaḥ",
+      "Samatvam Yogah Uchyate",
+      "ogah Karmasu Kauśhalam",
+      "Union of the individual self and supreme self"
+    ],
+    "correctIndex": 0,
+    "description": "Patanjali Yoga Sutra 1.2 defines Yoga as: “Yogaḥ citta-vṛtti-nirodhaḥ” – Yoga is the cessation of the fluctuations of the mind. This means that by controlling the mind and its modifications, one can experience inner stillness and ultimately the union of the individual self with the supreme self."
+  },
+  {
+    "question": "Which path is suggested as the surest way to achieve liberation in Kali Yuga?",
+    "options": [
+      "Bhakti Yoga",
+      "Karma Yoga",
+      "Jnana Yoga",
+      "Raja Yoga"
+    ],
+    "correctIndex": 0,
+    "description": "In Kali Yuga, due to the difficulty of performing strict austerities or intense meditation, the path of devotion (Bhakti Yoga) is considered the surest and most accessible way to attain liberation. Bhakti involves surrender, love, and constant remembrance of God, which purifies the heart and leads to spiritual progress."
+  },
+  {
+    "question": "What is the Beeja Mantra for Vayu?",
+    "options": [
+      "Yam",
+      "Ram",
+      "Tham",
+      "Lam"
+    ],
+    "correctIndex": 0,
+    "description": "In Tantra and yogic practices, each element (Tattva) has a corresponding Beeja (seed) mantra. Vayu (air element) is associated with the mantra “Yam”, which helps in activating and balancing the air element in the body. Lam -> Prithvi; Vam -> Jala; Ram -> Agni; Ham -> Akasha"
+  },
+  {
+    "question": "According to the Bhagavad Gita, people should aspire to do which type of Karma?",
+    "options": [
+      " Shukla - Karma",
+      "Krishna - Karma",
+      "Shukla - Krishna",
+      "Ashukla - Akrishna"
+    ],
+    "correctIndex": 0,
+    "description": "1. Shukla-Karma → Pure, selfless action, performed according to dharma, without attachment to results. (BG 2.47, 3.8–9). 2. Krishna-Karma → Actions performed with selfish motives or attachment to results. 3. Shukla-Krishna-Karma → Mixed actions, containing both righteous intent and self-interest. 4. Ashukla-Akrishna-Karma → Completely impure or harmful actions, violating dharma."
+  },
+  {
+    "question": "Karma yoga is the path for students only.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Karma Yoga is the path of selfless action and can be practiced by anyone at any stage of life, not just students. It involves performing duties without attachment to results and is especially suitable for householders who have responsibilities."
+  },
+  {
+    "question": "Which is the prime scripture of Karma Yoga?",
+    "options": [
+      "Bhagwad Gita",
+      "Bhagavat Purana",
+      "HYP",
+      "GS"
+    ],
+    "correctIndex": 0,
+    "description": "The Bhagavad Gita is considered the primary scripture of Karma Yoga, as it teaches how to perform selfless action without attachment to the results. Key teachings include: Perform your duty, but renounce attachment to the fruits of action (BG 2.47). Act according to dharma with equanimity (BG 3.8–9)."
+  },
+  {
+    "question": "The prime concept of Karma Yoga is to",
+    "options": [
+      "Stay detached from the consequences of your actions",
+      "Take responsibility of your actions",
+      "Always do good karma",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Karma Yoga teaches: Perform duties without attachment to results. Perform your dharma sincerely). Act ethically and righteously. The Bhagavad Gita (BG 2.47; 3.8–9) emphasizes this combination as the path to spiritual progress."
+  },
+  {
+    "question": "Yogah ___ kauśhalam.",
+    "options": [
+      "Karmasu",
+      "Samatvam",
+      "Chitta",
+      "Uparati"
+    ],
+    "correctIndex": 0,
+    "description": "The shloka from Bhagavad Gita 2.50: “Yoga is skill in action (Kauśalam) in performing one’s duties (Karmasu).” This emphasizes performing actions with awareness, efficiency, and detachment, which is the essence of Karma Yoga."
+  },
+  {
+    "question": "The concept of Karma teaches that you are the reason of your  action.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "One has full right to actions but is not entitled to the fruits of actions.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 0,
+    "description": "This is the central teaching of Karma Yoga in the Bhagavad Gita 2.47: You have the right to perform your duties, but not to the fruits of your actions. Do not let the results be your motive, nor be attached to inaction. It emphasizes selfless action and detachment from outcomes, which is the essence of Karma Yoga."
+  },
+  {
+    "question": "Krishan says that the path of inaction is superior.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "In Bhagavad Gita 3.4–5, Krishna explains: Not by abstaining from action can one achieve freedom from action; everyone is forced to act according to their nature. The superior path is Karma Yoga – performing duties selflessly, without attachment to results. So, Krishna advocates right action, not inaction. "
+  },
+  {
+    "question": "Which is correct in the context of Karma Yoga?",
+    "options": [
+      "Human beings are bound to act due to their inherent nature",
+      "Inaction is a superior way",
+      "One should take responsibility for their actions and the consequences",
+      "You are sometimes entitled to the fruits of your action"
+    ],
+    "correctIndex": 0,
+    "description": "Bhagavad Gita 3.5 teaches that: Everyone is compelled to act by the qualities (Gunas) born of their nature; no one can refrain from action entirely. Inaction is impossible – humans naturally perform actions. Karma Yoga focuses on performing these actions selflessly and without attachment to the results."
+  },
+  {
+    "question": "Karma Yoga may be hard to implement in today’s time but once implemented it is the easiest way to let go of the ego and attain mental peace.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 0,
+    "description": "Karma Yoga teaches performing actions selflessly, without attachment to results. In today’s fast-paced world, it can be challenging to detach from outcomes. However, practicing Karma Yoga reduces ego, stress, and anxiety, leading to inner peace and mental stability."
+  },
+  {
+    "question": "Sukshma Vyayama was designed and propagated by",
+    "options": [
+      "Maharishi Kartikeya Maharaj of Himalaya",
+      "DheerendraBrahmachari",
+      "Sage Swatmaram",
+      "Sage Gherand"
+    ],
+    "correctIndex": 0,
+    "description": "Sukshma Vyayama refers to gentle, subtle exercises designed to prepare the body for higher yoga practices. Maharishi Kartikeya Maharaj of Himalaya designed and propagated these exercises to enhance flexibility, circulation, and overall body awareness. It is widely used in Yoga therapy and daily practice as a warm-up for Sthula (gross) Vyayama or Asanas."
+  },
+  {
+    "question": "Sukshma Vyayama is only applicable to senior practitioners.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Sukshma Vyayama consists of gentle, subtle exercises suitable for all age groups. Improve flexibility, joint mobility, and circulation. Serve as a warm-up before Asanas or as a standalone practice. While it is especially helpful for seniors, it is not limited to them; beginners and younger practitioners can also benefit."
+  },
+  {
+    "question": "Sthula Vyayama can be understood as",
+    "options": [
+      "Isolated movements",
+      "Compound movements",
+      "Cardio movements",
+      "B & C"
+    ],
+    "correctIndex": 3,
+    "description": "Sthula Vyayama refers to gross or large-scale physical exercises. Compound movements: involve multiple joints and muscle groups. Cardio movements: enhance circulation, stamina, and strength. It is generally practiced after Sukshma Vyayama to prepare the body for more intensive activity."
+  },
+  {
+    "question": "In traditional Surya Namaskara which Asana is done only once per leg",
+    "options": [
+      "Ashtanga Namaskara",
+      "Bhujangasana",
+      "Parvatasana",
+      "A & B both"
+    ],
+    "correctIndex": 1,
+    "description": "Bhujangasana (Cobra Pose) is performed once per leg, typically after lowering the body from Ashtanga Namaskara."
+  },
+  {
+    "question": "Surya Namaskara originates from Hatha Yoga Pradipika.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Surya Namaskara (Sun Salutation) predates Hatha Yoga Pradipika and is not originally mentioned in classical Hatha Yoga texts. Surya Namaskara was popularized in modern times as a structured practice by teachers like Krishnamacharya and later integrated into Hatha Yoga."
+  },
+  {
+    "question": "The mantra for “Prostration to him who produces everything”.",
+    "options": [
+      "Om Savitre Namah",
+      "Om Pushne Namah",
+      "Om Hiranyagarbhaya Namah",
+      "Om Suryaya Namah"
+    ],
+    "correctIndex": 2,
+    "description": "Hiranyagarbha literally means “Golden Womb” or “Cosmic Creator”. The mantra “Om Hiranyagarbhaya Namah” is a salutation to the creator who produces everything in the universe."
+  },
+  {
+    "question": "Would you recommend Surya Namaskar to a practitioner with back pain?",
+    "options": [
+      " Not at all",
+      "A variation can be suggested",
+      "Yes, Surya Namaskar has no relation with back pain",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Surya Namaskar involves forward bends, backbends, and transitions that may strain the back if done incorrectly. For practitioners with back pain, standard sequence may be risky. Modified or gentle variations can be taught to reduce strain while still promoting flexibility, circulation, and joint mobility."
+  },
+  {
+    "question": "Om Ravaye Namah means",
+    "options": [
+      "Prostration to him who is the cause of all changes",
+      "Prostration to him who diffuses light",
+      "Prostration to him who is fit to be worshiped",
+      "Prostration to him who is the cause of all lustre."
+    ],
+    "correctIndex": 1,
+    "description": "Om Ravaye Namah is a mantra dedicated to Ravi (the Sun): “Salutations to the one who spreads light and brilliance”. Om Suryaya Namah → general salutation to the Sun. Om Hiranyagarbhaya Namah → the creator of all. Om Savitre Namah → the vivifier or inspirer."
+  },
+  {
+    "question": "What is the most suggested set of movements for injury rehabilitation?",
+    "options": [
+      "Sukshma Vyayama",
+      "Sthula Vyayama",
+      "Surya Namaskara",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": ""
+  },
+  {
+    "question": "Sukshma Vyayama consists of",
+    "options": [
+      "50 movements",
+      "48 movements",
+      "47 movements",
+      "52 movements"
+    ],
+    "correctIndex": 1,
+    "description": "Sukshma Vyayama is a set of 48 subtle, gentle movements designed to: Loosen joints, Stimulate circulation,  Prepare the body for asanas or daily activities. It is especially beneficial for beginners, seniors, or injury rehabilitation."
+  },
+  {
+    "question": "Which mudra is performed in Basti Kriya?",
+    "options": [
+      "Pashini Mudra",
+      "Khechari Mudra",
+      "Ashwini Mudra",
+      "Moola Bandha"
+    ],
+    "correctIndex": 2,
+    "description": "Basti Kriya is a yogic cleansing technique focused on the lower abdomen and rectal region. Ashwini Mudra involves rhythmic contraction and relaxation of the anal sphincter, which Stimulates bowel function, Strengthens pelvic muscles, Supports the effects of Basti Kriya and other shatkarmas."
+  },
+  {
+    "question": "Laukiki is",
+    "options": [
+      "Another name of Nauli",
+      "Another name of Basti",
+      "Kriya mentioned in Hatha Ratnavali",
+      "Trataka"
+    ],
+    "correctIndex": 0,
+    "description": "Nauli involves rolling and churning the abdominal muscles to massage internal organs and improve digestion. This technique is a classic Hatha Yoga cleansing practice for strengthening the core and stimulating internal organs."
+  },
+  {
+    "question": "One of the major contraindications for Kapalbhati is",
+    "options": [
+      "Gastric Ulcer",
+      "Detached Retina",
+      "Epilepsy",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Kapalbhati Pranayama involves forceful exhalations and active abdominal contractions, which can increase intra-abdominal and intra-cranial pressure. It is contraindicated in: Gastric ulcers – may worsen internal irritation. Detached retina – pressure changes can aggravate the condition. Epilepsy – may trigger seizures due to rapid breathing and stimulation."
+  },
+  {
+    "question": "The length of the cloth in Dhauti Kriya is",
+    "options": [
+      "One and a half meters",
+      "One meter",
+      "At Least 2 meters",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Dhauti Kriya is a cleansing technique for the stomach and esophagus. It involves swallowing a long, thin strip of cloth to clean the digestive tract."
+  },
+  {
+    "question": "In Dhauti kriya, the cloth can be left in the stomach for",
+    "options": [
+      "3 minutes",
+      "3-5 minutes",
+      "5-20 minutes",
+      "Minimum 30 minutes"
+    ],
+    "correctIndex": 2,
+    "description": "In Vastra Dhauti (using a cloth), the cloth is swallowed slowly and allowed to remain in the stomach for a short period. This 5–20 minute duration allows the stomach to contract and cleanse itself safely. Leaving it longer can cause discomfort or harm, so timing is important."
+  },
+  {
+    "question": "Another name for Shankha Prakshalana is",
+    "options": [
+      "Varisara",
+      "Vatsara",
+      "Vanisara",
+      "Plavini"
+    ],
+    "correctIndex": 0,
+    "description": "Shankha Prakshalana is a complete intestinal cleansing technique using water and specific movements. It is also traditionally called Varisara Dhauti in Hatha Yoga texts. The practice flushes the entire digestive tract, improving digestion and eliminating toxins."
+  },
+  {
+    "question": "The asana used in Shankha Prakshalana Kriya is",
+    "options": [
+      "Ardha Chakrasana",
+      "Pada Hastasana",
+      "Matsyendrasana",
+      "Udarakarshanasana"
+    ],
+    "correctIndex": 3,
+    "description": "Shankha Prakshalana involves drinking saline water followed by performing specific stretching and twisting asanas to help the water move through the intestines. Udarakarshanasana (stomach-pulling pose) is the primary asana used, as it stimulates intestinal movement and facilitates effective cleansing."
+  },
+  {
+    "question": "For best results Shatkarma should be done first thing in the  morning after Pranayama.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "Which Kriya is referred to as \"Goddess of creation\"?",
+    "options": [
+      "Nauli",
+      "Trataka",
+      "Plavini",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Nauli Kriya involves churning and massaging the abdominal muscles and internal organs, especially the digestive system. It is called the “Goddess of Creation” because it stimulates digestive fire (Agni) and revitalizes the internal organs, supporting overall vitality and health."
+  },
+  {
+    "question": "Twenty kinds of disease caused by excess mucus are destroyed through the effect of which karma?",
+    "options": [
+      "Dhauti",
+      "Basti",
+      "Kapalbhati",
+      "Nauli"
+    ],
+    "correctIndex": 0,
+    "description": "Dhauti Kriya is a cleansing practice that removes excess mucus (Kapha) and toxins from the digestive tract. Classical texts mention that around twenty types of diseases caused by excess mucus are destroyed through Dhauti, as it cleanses the stomach and intestines, improving digestive and respiratory health."
+  },
+  {
+    "question": "As per the Hatha Text Asana practice brings",
+    "options": [
+      "Sthirta (Stability)",
+      "Dhridhta (Strength)",
+      "Shithilta (Flexibility)",
+      "Laghatvam (Lightness)"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "As per Patanjali, dualities can be overcome by practicing",
+    "options": [
+      "Pranayama",
+      "Karma Yoga",
+      "Asana",
+      "Chitta Prasadanam"
+    ],
+    "correctIndex": 3,
+    "description": "In Patanjali Yoga Sutras, the mind (chitta) is often disturbed by dualities -pleasure/pain, success/failure, heat/cold, etc. Chitta Prasādanam refers to clearing, calming, and purifying the mind through meditation, detachment, and self-discipline, which helps overcome these dualities. While Asana, Pranayama, and Karma Yoga support the practice, the direct method to transcend dualities is mental purification and steadiness."
+  },
+  {
+    "question": "In total, there are",
+    "options": [
+      "32 Asana",
+      "84 Lakhs Asana",
+      "15 Asana",
+      "84 Asana"
+    ],
+    "correctIndex": 1,
+    "description": "Traditional texts mention that there are 84 lakh (8.4 million) Asanas in total, but only a few are commonly practiced. Of these, 32 or so are considered most important, which are described in classical Hatha Yoga texts."
+  },
+  {
+    "question": "In Yoga Sutra, Asanas have been given importance because",
+    "options": [
+      "It would prepare the practitioner to sit in meditation for a longer duration",
+      "It would help the practitioner to overcome dualities",
+      "It is the prime eligibility for pratyahara",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "In Patanjali Yoga Sutra (2.46–2.48), Asana is defined as \"sthira-sukham asanam\" -  a posture that is steady and comfortable. The purpose of Asana is twofold: 1. Prepare the body and mind for prolonged meditation. 2. Help the practitioner overcome dualities like pain and pleasure, restlessness, or discomfort."
+  },
+  {
+    "question": "In Hatha Yoga, Asana is treated as important because",
+    "options": [
+      "Only when the body is healthy, Raja yoga can be achieved",
+      "Only when the body is healthy, control of the mind can be achieved",
+      "It's not given importance, Dhyan is given much more importance than Asana",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": ""
+  },
+  {
+    "question": "Mastering the asana is only possible in Kumbhakas",
+    "options": [
+      "True",
+      "False, one should not hold their breath unless otherwise instructed.",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Mastery of an asana does not depend solely on performing Kumbhakas (breath retention). Holding the breath should only be done when explicitly instructed, and most asanas can be mastered through proper alignment, awareness, and coordinated breathing without forced breath retention."
+  },
+  {
+    "question": "Asana is a very recent aspect of Yoga practice.",
+    "options": [
+      "True",
+      "False, Asanas are one of the core aspects of Yoga Practice.",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "Asanas are not a recent invention; they have been an integral part of Yoga practice for centuries. While their popularity in modern times has increased, classical texts like Patanjali’s Yoga Sutras and Hatha Yoga texts emphasize asanas as essential for preparing the body for meditation, maintaining health, and achieving steadiness."
+  },
+  {
+    "question": "Just like Surya Namaskara, every asana should be accompanied by respective mantras.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "While Surya Namaskara traditionally includes specific mantras for each posture, not every asana requires mantras. Mantras can be used to enhance focus, awareness, and energy flow, but in general practice, asanas can be performed without reciting mantras, especially in modern yoga sessions."
+  },
+  {
+    "question": "What are the 5 commonly accepted parameters of fitness?",
+    "options": [
+      "Cardiovascular fitness, Strength, Stamina, Flexibility, Body balance",
+      "Cardiovascular fitness, Lungs Health, Blood Quality, Bone Health, Hormonal Health",
+      "Agility, Strength, Fat content, Muscle content, Stamina",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "These five parameters are widely recognized in exercise science and yoga for overall physical fitness: Cardiovascular fitness – efficiency of heart and lungs.  Strength – ability of muscles to exert force. Stamina / Endurance – ability to sustain activity over time. Flexibility – range of motion of joints and muscles. Body balance – stability and coordination of the body."
+  }
+]
