@@ -5,6 +5,7 @@ const QUESTION_SETS = [
   { name: 'Set 1', file: 'questions-set-1.json' },
   { name: 'Set 2', file: 'questions-set-2.json' },
   { name: 'Set 3', file: 'questions-set-3.json' },
+  { name: 'Set 4', file: 'questions-set-4.json' }
   // Add more sets as needed
 ]
 

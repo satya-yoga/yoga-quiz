@@ -1,0 +1,536 @@
+[
+  {
+    "question": "Hatha Yoga Pradipika (HYP) mentions",
+    "options": [
+      "15 Asana",
+      "32 Asana",
+      "84 Asana",
+      "As many Asanas as there are species"
+    ],
+    "correctIndex": 0,
+    "description": "These are the 15 specific postures described in detail in HYP (Chapter 1, verses 17–18)."
+  },
+  {
+    "question": "The word \"Ayama\" in Pranayama means",
+    "options": [
+      "To stretch",
+      "To hold",
+      "To breathe",
+      "To let go"
+    ],
+    "correctIndex": 0,
+    "description": "In Prāṇāyāma, “Āyāma” literally means extension or stretching, referring to the regulation and expansion of the breath."
+  },
+  {
+    "question": "Prana can be understood as oxygen!",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "Prāṇa is not just oxygen; it is the vital life force or energy that pervades the body and the universe. While oxygen is one aspect of physical sustenance, Prāṇa encompasses the broader concept of energy, vitality, and life itself."
+  },
+  {
+    "question": "\"Ascension\" is a function of",
+    "options": [
+      "Udana",
+      "Apana",
+      "Samana",
+      "Vyana"
+    ],
+    "correctIndex": 0,
+    "description": "Udāna is the upward-moving prāṇa, responsible for speech, growth, spiritual ascension, and upward movements of energy in the body. It governs actions like standing, speaking, and awakening consciousness."
+  },
+  {
+    "question": "The Prana responsible for Yawning is",
+    "options": [
+      "Naga",
+      "Devdutta",
+      "Dhananjaya",
+      "Kurma"
+    ],
+    "correctIndex": 1,
+    "description": "Devadatta is one of the Upa-Prāṇas and is responsible for yawning, sneezing, and belching, helping in the release of gases and other natural expulsions from the body."
+  },
+  {
+    "question": "Dhyana is actually a transcendental stage that happens as a result of the continuous practice of Pratyahara and Dharna.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "Dhyana (Meditation) is the state of uninterrupted focus and inner absorption. It arises naturally when Pratyahara (withdrawal of senses) and Dharana (concentration) are practiced consistently. Without the control of senses and steady concentration, one cannot reach the deep, transcendental state of Dhyana."
+  },
+  {
+    "question": "The hunger-inhibiting hormone is",
+    "options": [
+      "Leptin",
+      "Insulin",
+      "Glucagon",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Leptin is a hormone produced primarily by adipose (fat) tissue. It signals the hypothalamus in the brain to suppress appetite and increase energy expenditure. In other words, higher leptin levels tell your body that it has enough energy stored, reducing hunger. Insulin: Regulates blood glucose; has some indirect effect on appetite. Glucagon: Raises blood sugar levels; does not directly inhibit hunger."
+  },
+  {
+    "question": "As per Swatmaram, regular practice of Nadi Shodhan can purify the nadis within",
+    "options": [
+      "3 months",
+      "3 years",
+      "2 months",
+      "2-3 months"
+    ],
+    "correctIndex": 0,
+    "description": "According to Swatmaram in the HYP, regular practice of Nadi Shodhana Pranayama helps to purify the nadis (energy channels) and balance prana. With consistent daily practice, the purification of nadis can be achieved in approximately 3 months. This purification is considered essential for pranayama, meditation, and higher yogic practices, as it ensures smooth flow of prana throughout the body."
+  },
+  {
+    "question": "Which is the most suggested Asana for Pranayama as per HYP?",
+    "options": [
+      "Padmasana",
+      "Siddhasana",
+      "Vajrasana",
+      "Ardha Padmasana"
+    ],
+    "correctIndex": 1,
+    "description": "According to the Hatha Yoga Pradipika (HYP), Siddhasana is considered the most suitable asana for pranayama and meditation. It provides stability, straight spine, and minimal effort, allowing uninterrupted flow of prana and comfortable long-duration practice."
+  },
+  {
+    "question": "Kapalbhati is a",
+    "options": [
+      "Pranayama",
+      "Kriya ",
+      "Asana",
+      "Bandha"
+    ],
+    "correctIndex": 1,
+    "description": "Kapalbhati is primarily a Shatkarmic cleansing technique (Kriya), though it involves active breathing. It focuses on forceful exhalation to cleanse the respiratory system and energize the body, rather than the slow, controlled inhalation/exhalation patterns typical of pranayama."
+  },
+  {
+    "question": "The elements of Pranayama are",
+    "options": [
+      "Puraka, Rechaka, Kevala",
+      "Puraka, Rechaka, Kumbhaka",
+      "Puraka, Bahya Kumbhaka, Antar Kumbhaka",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Pranayama consists of three main elements: Puraka – Inhalation; Rechaka – Exhalation; Kumbhaka – Retention of breath (can be internal/Antar or external/Bahya)."
+  },
+  {
+    "question": "Dhyan is referred to as a state of Thoughtlessness.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "Dhyan is focused meditation, not full thoughtlessness. Thoughtlessness occurs in Samadhi, not Dhyan"
+  },
+  {
+    "question": "Dhyan is ___ flow of mind towards the chosen object.",
+    "options": [
+      "Random",
+      "Uninterrupted",
+      "Interrupted",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "In Yoga philosophy, Dhyan (Dhyana) is the uninterrupted flow of mind and awareness toward the chosen object. It is a deep meditative state following Dharana (concentration), where the mind becomes fully absorbed and continuously focused."
+  },
+  {
+    "question": "Breath Observation can be a Dhyana Technique.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "Observing the breath (Anapanasati) is a classic Dhyana (meditation) technique. By continuously watching the natural flow of inhalation and exhalation, the mind becomes calm, focused, and gradually detaches from distractions, leading to deeper states of meditation."
+  },
+  {
+    "question": "Dhyana is which limb of Ashtanga Yoga?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "8"
+    ],
+    "correctIndex": 0,
+    "description": "In Patanjali’s Ashtanga Yoga, Dhyana (meditation) is the 7th limb. It comes after Dharana (concentration) and precedes Samadhi (absorption). Dhyana represents a continuous, uninterrupted flow of awareness toward the chosen object, leading the practitioner closer to self-realization."
+  },
+  {
+    "question": "Dharana meansa., b., c. , d. ",
+    "options": [
+      "Concentration",
+      "Meditation",
+      "Withdrawal of unwanted senses",
+      "Transcendental State"
+    ],
+    "correctIndex": 0,
+    "description": "Dharana is the 6th limb of Patanjali’s Ashtanga Yoga. It refers to the focused concentration of the mind on a single object, idea, or point. This steady focus prepares the mind for Dhyana (meditation), where concentration becomes continuous and effortless."
+  },
+  {
+    "question": "Dhyan and Dharana are interchangeable terms. They mean the same thing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "Dharana = Concentration (6th limb of Ashtanga Yoga). It is the effortful focusing of the mind on a single object. Dhyana = Meditation (7th limb). It is the uninterrupted, effortless flow of mind toward the chosen object. So, Dharana leads to Dhyana, but they are not the same."
+  },
+  {
+    "question": "Consciously inducing the opposite of the thought is referred as",
+    "options": [
+      "Mindfulness Meditation",
+      "Pratipaksha Bhavana",
+      "Aparigraha",
+      "Ishwara Pranidhana"
+    ],
+    "correctIndex": 1,
+    "description": "Pratipaksha Bhavana is a Yogic technique mentioned in the Yoga Sutras of Patanjali. It involves consciously cultivating the opposite of negative or unwholesome thoughts (e.g., replacing anger with compassion, jealousy with contentment). This helps in purifying the mind and aligning it toward positive tendencies."
+  },
+  {
+    "question": "The theme of the first International Yoga Day was",
+    "options": [
+      "Yoga for Harmony & Peace",
+      "Yoga for Heath",
+      "Yoga for Peace",
+      "Yoga for Heart"
+    ],
+    "correctIndex": 0,
+    "description": "The first International Yoga Day was celebrated on 21st June 2015. The theme chosen by the United Nations was “Yoga for Harmony & Peace”, highlighting yoga’s ability to bring physical, mental, and spiritual balance and promote global well-being. The theme for International Yoga Day 2025 is \"Yoga for One Earth, One Health,\" which emphasizes the interconnectedness of individual well-being and planetary health."
+  },
+  {
+    "question": "Which is true in the context of thoughts?",
+    "options": [
+      "Once you pay no attention to a thought it dissolute on its own",
+      "Thoughts give birth to the corresponding emotion",
+      "Once you gain voluntary control over the thought, you will be able to consciously choose what to think and what not to think",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Ignoring unnecessary thoughts can make them naturally fade away. Thoughts are powerful - they can generate corresponding emotions (e.g., anger, joy, fear). Developing conscious control over thoughts allows you to choose which thoughts to nurture and which to let go, a key aspect of mental discipline in yoga and meditation."
+  },
+  {
+    "question": "Dhyana helps in",
+    "options": [
+      "Improving Intuitions",
+      "Relaxing Mind",
+      "Being Observant",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Improving intuition: Regular Dhyana (meditation) sharpens inner awareness, helping in intuitive decision-making. Relaxing mind: It calms mental chatter, reduces stress, and promotes mental peace. Being observant: Dhyana enhances focus and mindfulness, making one more attentive to surroundings and internal states."
+  },
+  {
+    "question": "Dhyana is contra-indicatory practice for",
+    "options": [
+      "Pregnancy",
+      "HBP",
+      "Epilepsy",
+      "Depression"
+    ],
+    "correctIndex": 3,
+    "description": ""
+  },
+  {
+    "question": "What is Prasthantrayi?",
+    "options": [
+      "The Upanishads, the Bhagavad Gita and the Brahma Sutras",
+      "The Upanishads, the Bhagavad Gita, and the Vedas",
+      "The Upanishads, Shad Darshana and the Brahma Sutras",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Prasthantrayi literally means “the three sources” and refers to the three foundational texts of Vedanta philosophy: Śruti Prasthāna – The Upanishads (revealed knowledge); Smriti Prasthāna – The Bhagavad Gita (practical teaching); Nyaya Prasthāna – The Brahma Sutras (philosophical treatise, logical analysis)."
+  },
+  {
+    "question": "Which one is known as Sruti Prasthan?",
+    "options": [
+      "The Brahma Sutra",
+      "The Upanishad",
+      "Samkhya",
+      "Shad Darshana"
+    ],
+    "correctIndex": 1,
+    "description": "Śruti Prasthāna literally means \"the source from what is heard (revealed).\" It refers to the Upanishads, which are considered divinely revealed knowledge"
+  },
+  {
+    "question": "Which is known as Yukti Prasthan?",
+    "options": [
+      "Bhagavad Gita",
+      "Nyaya Darshana",
+      "Vedanta",
+      "None of the above"
+    ],
+    "correctIndex": 3,
+    "description": ""
+  },
+  {
+    "question": "In the context of Prasthan Trayi, Bhagavad Gita is also referred as",
+    "options": [
+      "Shruti Prasthana",
+      "Smriti Prasthana",
+      "Yukti Prasthana",
+      "Karma Yoga Shastra"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "Which is part of Purushartha Chatushthya?",
+    "options": [
+      "Viveka",
+      "Vairagya",
+      "Dharma",
+      "Sama"
+    ],
+    "correctIndex": 2,
+    "description": "Purushartha Chatushtaya (the fourfold qualifications for spiritual progress) consists of: Dharma – Righteousness, duty, ethical conduct; Artha – Wealth or means to live; Kama – Desires or enjoyment; Moksha – Liberation"
+  },
+  {
+    "question": "Dharma means",
+    "options": [
+      "Duty",
+      "Religion",
+      "Culture",
+      "Family values"
+    ],
+    "correctIndex": 0,
+    "description": "Dharma in the context of Indian philosophy primarily refers to duty, righteousness, and moral obligations that guide one’s actions in life. It is about performing what is ethically and socially right, aligned with universal order."
+  },
+  {
+    "question": "Dharma is to be followed by Sanyasis only.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "Dharma (duty/righteousness) is universal and applies to all stages of life - householder (Grihastha), student (Brahmachari), hermit (Vanaprastha), and renunciate (Sannyasi). Even Sanyasis follow a form of dharma, but the duties differ from those of householders. It is not exclusive to Sanyasis."
+  },
+  {
+    "question": "Which activities are co-dependent?",
+    "options": [
+      "Artha and Kama",
+      "Dharma and Kama",
+      "Moksha and Kama",
+      "Dharma and Artha"
+    ],
+    "correctIndex": 0,
+    "description": "Artha (wealth, material prosperity) and Kama (desires, pleasures) are co-dependent because: To fulfill desires (Kama), one often needs resources (Artha). Properly earned Artha gives the means to pursue Kama in a balanced and ethical way."
+  },
+  {
+    "question": "Which stage of human life is referred to as Vanprastha?",
+    "options": [
+      "25-50 years",
+      "50-75 years",
+      "75-100 years",
+      "50-65 years"
+    ],
+    "correctIndex": 1,
+    "description": "Traditionally, the four Ashramas are divided roughly as follows for a full 100-year lifespan: 1. Brahmacharya (Student life): 0–25 years; 2. Grihastha (Householder life): 25–50 years; 3. Vanaprastha (Retired/Forest dweller life): 50–75 years; 4. Sannyasa (Renunciation): 75–100 years."
+  },
+  {
+    "question": "The meaning of Purusha in the context of Purushartha  Chatushthya is",
+    "options": [
+      "All males",
+      "Self",
+      "Every species on this planet",
+      "None of the  above"
+    ],
+    "correctIndex": 1,
+    "description": "In the context of Purushartha Chatushtya, Purusha refers to the Self, the conscious individual who aspires for the four goals of life (Dharma, Artha, Kama, Moksha)."
+  },
+  {
+    "question": "Kathopnishad is part of which Veda?",
+    "options": [
+      "Krishna Yajurveda",
+      "Shukla Yajurveda",
+      "Rigveda",
+      "Atharvaveda"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "As per Kathopnishad, Yoga is",
+    "options": [
+      "The stillness of the senses",
+      "Union of the Individual self with the supreme self",
+      "Samadhi",
+      "Dhyana"
+    ],
+    "correctIndex": 0,
+    "description": "As per Katha Upanishad (2.3.1–2.3.5), Yoga is described as the stillness of the senses, controlling the mind and withdrawing it from external objects so that the Self can be realized."
+  },
+  {
+    "question": "Prashnopnishad is part of which Veda?",
+    "options": [
+      "Atharva Veda",
+      "Rigveda",
+      "Yajurveda",
+      "Samaveda"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "What is the name of the sage who was approached for the questions in Prashnopnishad?",
+    "options": [
+      "Sage Pipalada",
+      "Sage Yajnavalkya",
+      "Sage Nachiketa",
+      "Sage Ved Vyasa"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "“As a king commands his officers, saying to them, Reside in and govern these or those villages, so does this Prana dispose of the other Pranas each for their separate work.” This statement is in the context of which concept?",
+    "options": [
+      "Panch Prana",
+      "Aum",
+      "Nadis",
+      "Atman"
+    ],
+    "correctIndex": 0,
+    "description": "This statement refers to the Panch Prana concept, where Prana (the main life force) directs the other four subordinate pranas (Apana, Samana, Udana, Vyana), each assigned specific functions in the body."
+  },
+  {
+    "question": "Tattirya Upanishad is part of which Veda?",
+    "options": [
+      "Atharva Veda",
+      "Rigveda",
+      "Yajurveda",
+      "Samaveda"
+    ],
+    "correctIndex": 2,
+    "description": "The Taittiriya Upanishad is part of the Krishna (Black) Yajurveda."
+  },
+  {
+    "question": "Match the following - a. Kathopnishad --- a. Sage Gautama b. Tattiryaopnishad --- b. Nachiketa c. Prashnopinishad --- c. Sage Pipalada d. Samkhya --- d. Sage Yajnavalkya",
+    "options": [
+      "a-b, b-d, c-c, d-a",
+      "a-d, b-b, c-c, d-a",
+      "a-a, b-b, c-c, d-d",
+      "a-c, b-a, c-d, d-b"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Which Kosha is made of panch Mahabhutas?",
+    "options": [
+      "Annamaya Kosha",
+      "Pranamaya Kosha",
+      "Vijnanamaya Kosha",
+      "Anandamaya Kosha"
+    ],
+    "correctIndex": 0,
+    "description": "The Annamaya Kosha (a) is made of Panch Mahabhutas (the five elements: earth, water, fire, air, ether). This is the physical or gross body layer, which is nourished by food (Anna)."
+  },
+  {
+    "question": "The inquiry into the bliss is referred as",
+    "options": [
+      "Anand Mimamsa",
+      "Pancha Kosha Viveka",
+      "Bhakti",
+      "Ishwara Pranidhana"
+    ],
+    "correctIndex": 0,
+    "description": "In Taittirīya Upaniṣad (Ānanda Valli), the systematic inquiry into the nature of bliss/happiness is called Ānanda Mīmāṁsā."
+  },
+  {
+    "question": "As per Anand Mimamsa, the happiness felt in Brahma Loka (The highest heaven) is the same as",
+    "options": [
+      "One unit of Human happiness",
+      "Happiness felt by the follower of Veda who is unattached by desires",
+      "Unparallel to anything",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "As per Anandamīmāṃsā, the happiness felt in Brahmaloka (the highest heaven) is considered comparable to the happiness of a Vedic practitioner who is unattached to desires."
+  },
+  {
+    "question": "karmaṇy-evādhikāras te mā ___ kadāchana",
+    "options": [
+      "Phaleṣhu",
+      "Karmeshu",
+      "Akarmani",
+      "Yoga"
+    ],
+    "correctIndex": 0,
+    "description": "BG 2.47: You have the right to work (adhikāra) in your actions (karma), but not to the results (phale). Do not let the results be your motive, and do not be attached to inaction."
+  },
+  {
+    "question": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya siddhi-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate - This shloka is from which chapter of Bhagavad Gita?",
+    "options": [
+      "2.48",
+      "2.47",
+      "2.50",
+      "2.49"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Skill in ___ is yoga",
+    "options": [
+      "Action",
+      "Balance",
+      "Success",
+      "Equanimity"
+    ],
+    "correctIndex": 0,
+    "description": "The Bhagavad Gītā (2.50) says: “yogaḥ karmasu kauśalam” → Yoga is skill in action."
+  },
+  {
+    "question": "The first International Yoga Day was celebrated in",
+    "options": [
+      "New Delhi",
+      "Lucknow",
+      "Dehradun",
+      "Ranchi"
+    ],
+    "correctIndex": 0,
+    "description": "The first International Day of Yoga was celebrated on 21st June 2015 at New Delhi (Rajpath)."
+  },
+  {
+    "question": "“Samatvam Yog Uchyate” means",
+    "options": [
+      "Not be attached to action",
+      "Equanimity is called Yog",
+      "This is called  Yog",
+      "None of the above "
+    ],
+    "correctIndex": 1,
+    "description": "In Bhagavad Gita 2.48: \"siddhy-asiddhyoḥ samo bhūtvā, samatvaṁ yoga uchyate\" - Krishna tells Arjuna that equanimity in success and failure is called Yoga."
+  },
+  {
+    "question": "The core teaching of the Bhagavad Gita remains to overcome the duality of pleasure/pain, success/failure, Profit /Loss, etc.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "The core teaching of the Bhagavad Gita is samatva (equanimity), rising above dualities like pleasure–pain, success–failure, profit–loss and performing one’s duty without attachment to results."
+  },
+  {
+    "question": "mā te saṅgo ’stv-___., b., c., d. ",
+    "options": [
+      "Akarmaṇi",
+      "Karmani",
+      "Karmeshu",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "This is from Bhagavad Gita 2.47: You have a right only to action, never to its fruits. Do not let the fruits of action be your motive, nor let your attachment be to inaction (akarmaṇi)."
+  },
+  {
+    "question": "As per Bhagavad Gita, one should discard reward seeking behaviour. As this will bind the individual with the results, good or bad.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "As per Bhagavad Gita (2.47–2.51, Karma Yoga), one is advised to perform action without attachment to the results (niṣkāma karma). Seeking rewards binds the individual to karma-phala (fruits of action), whether good or bad, and thus perpetuates the cycle of bondage (saṁsāra)."
+  }
+]
