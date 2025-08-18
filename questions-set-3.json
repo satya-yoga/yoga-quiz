@@ -3,9 +3,7 @@
     "question": "Bhakti Yoga is not for householders. It is a path for Sannyasins.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Bhakti Yoga (the path of devotion) is open to everyone, including householders, renunciates, and seekers of all walks of life. The essence of Bhakti Yoga is love and surrender to the Divine, which can be practiced while performing daily duties."
@@ -135,9 +133,7 @@
     "question": "Karma yoga is the path for students only.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Karma Yoga is the path of selfless action and can be practiced by anyone at any stage of life, not just students. It involves performing duties without attachment to results and is especially suitable for householders who have responsibilities."
@@ -179,9 +175,7 @@
     "question": "The concept of Karma teaches that you are the reason of your  action.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": ""
@@ -190,9 +184,7 @@
     "question": "One has full right to actions but is not entitled to the fruits of actions.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "This is the central teaching of Karma Yoga in the Bhagavad Gita 2.47: You have the right to perform your duties, but not to the fruits of your actions. Do not let the results be your motive, nor be attached to inaction. It emphasizes selfless action and detachment from outcomes, which is the essence of Karma Yoga."
@@ -201,9 +193,7 @@
     "question": "Krishan says that the path of inaction is superior.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "In Bhagavad Gita 3.4–5, Krishna explains: Not by abstaining from action can one achieve freedom from action; everyone is forced to act according to their nature. The superior path is Karma Yoga – performing duties selflessly, without attachment to results. So, Krishna advocates right action, not inaction. "
@@ -223,9 +213,7 @@
     "question": "Karma Yoga may be hard to implement in today’s time but once implemented it is the easiest way to let go of the ego and attain mental peace.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "Karma Yoga teaches performing actions selflessly, without attachment to results. In today’s fast-paced world, it can be challenging to detach from outcomes. However, practicing Karma Yoga reduces ego, stress, and anxiety, leading to inner peace and mental stability."
@@ -245,9 +233,7 @@
     "question": "Sukshma Vyayama is only applicable to senior practitioners.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Sukshma Vyayama consists of gentle, subtle exercises suitable for all age groups. Improve flexibility, joint mobility, and circulation. Serve as a warm-up before Asanas or as a standalone practice. While it is especially helpful for seniors, it is not limited to them; beginners and younger practitioners can also benefit."
@@ -278,9 +264,7 @@
     "question": "Surya Namaskara originates from Hatha Yoga Pradipika.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Surya Namaskara (Sun Salutation) predates Hatha Yoga Pradipika and is not originally mentioned in classical Hatha Yoga texts. Surya Namaskara was popularized in modern times as a structured practice by teachers like Krishnamacharya and later integrated into Hatha Yoga."
@@ -421,9 +405,7 @@
     "question": "For best results Shatkarma should be done first thing in the  morning after Pranayama.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": ""
@@ -509,9 +491,7 @@
     "question": "Mastering the asana is only possible in Kumbhakas",
     "options": [
       "True",
-      "False, one should not hold their breath unless otherwise instructed.",
-      "NA",
-      "NA"
+      "False, one should not hold their breath unless otherwise instructed."
     ],
     "correctIndex": 1,
     "description": "Mastery of an asana does not depend solely on performing Kumbhakas (breath retention). Holding the breath should only be done when explicitly instructed, and most asanas can be mastered through proper alignment, awareness, and coordinated breathing without forced breath retention."
@@ -520,9 +500,7 @@
     "question": "Asana is a very recent aspect of Yoga practice.",
     "options": [
       "True",
-      "False, Asanas are one of the core aspects of Yoga Practice.",
-      "NA",
-      "NA"
+      "False, Asanas are one of the core aspects of Yoga Practice."
     ],
     "correctIndex": 1,
     "description": "Asanas are not a recent invention; they have been an integral part of Yoga practice for centuries. While their popularity in modern times has increased, classical texts like Patanjali’s Yoga Sutras and Hatha Yoga texts emphasize asanas as essential for preparing the body for meditation, maintaining health, and achieving steadiness."
@@ -531,9 +509,7 @@
     "question": "Just like Surya Namaskara, every asana should be accompanied by respective mantras.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "While Surya Namaskara traditionally includes specific mantras for each posture, not every asana requires mantras. Mantras can be used to enhance focus, awareness, and energy flow, but in general practice, asanas can be performed without reciting mantras, especially in modern yoga sessions."

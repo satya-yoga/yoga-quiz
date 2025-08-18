@@ -80,9 +80,7 @@
     "question": "Yoga is physical exercise -",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Yoga is not merely physical exercise - it is a holistic discipline that integrates body, mind, and spirit for self-realization and well-being."
@@ -168,9 +166,7 @@
     "question": "The earliest known record of Yoga is Bhagavad Gita",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "The earliest known records of Yoga are found in the Rigveda and Upanishads, long before the Bhagavad Gita was composed."
@@ -201,9 +197,7 @@
     "question": "The knowledge of Yoga didn't exist before the Vedic period.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Yogic knowledge is believed to be pre-Vedic, existing as an oral tradition even before it was recorded in the Vedas."
@@ -366,9 +360,7 @@
     "question": "Avidya empowers man to overcome death while Vidya empowers him with immortality.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "The Katha Upanishad, the verse (2.2.13) contrasts Avidya and Vidya:  Avidya: worldly knowledge or ignorance, which leads to temporary gains like overcoming death in a limited sense (through rituals or merit).  Vidya: higher spiritual knowledge, which grants true immortality by realizing the Self."

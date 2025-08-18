@@ -25,9 +25,7 @@
     "question": "Prana can be understood as oxygen!",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Prāṇa is not just oxygen; it is the vital life force or energy that pervades the body and the universe. While oxygen is one aspect of physical sustenance, Prāṇa encompasses the broader concept of energy, vitality, and life itself."
@@ -58,9 +56,7 @@
     "question": "Dhyana is actually a transcendental stage that happens as a result of the continuous practice of Pratyahara and Dharna.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "Dhyana (Meditation) is the state of uninterrupted focus and inner absorption. It arises naturally when Pratyahara (withdrawal of senses) and Dharana (concentration) are practiced consistently. Without the control of senses and steady concentration, one cannot reach the deep, transcendental state of Dhyana."
@@ -103,8 +99,8 @@
     "options": [
       "Pranayama",
       "Kriya ",
-      "NA",
-      "NA"
+      "Asana",
+      "Bandha"
     ],
     "correctIndex": 1,
     "description": "Kapalbhati is primarily a Shatkarmic cleansing technique (Kriya), though it involves active breathing. It focuses on forceful exhalation to cleanse the respiratory system and energize the body, rather than the slow, controlled inhalation/exhalation patterns typical of pranayama."
@@ -124,9 +120,7 @@
     "question": "Dhyan is referred to as a state of Thoughtlessness.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Dhyan is focused meditation, not full thoughtlessness. Thoughtlessness occurs in Samadhi, not Dhyan"
@@ -146,9 +140,7 @@
     "question": "Breath Observation can be a Dhyana Technique.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "Observing the breath (Anapanasati) is a classic Dhyana (meditation) technique. By continuously watching the natural flow of inhalation and exhalation, the mind becomes calm, focused, and gradually detaches from distractions, leading to deeper states of meditation."
@@ -179,9 +171,7 @@
     "question": "Dhyan and Dharana are interchangeable terms. They mean the same thing.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Dharana = Concentration (6th limb of Ashtanga Yoga). It is the effortful focusing of the mind on a single object. Dhyana = Meditation (7th limb). It is the uninterrupted, effortless flow of mind toward the chosen object. So, Dharana leads to Dhyana, but they are not the same."
@@ -311,9 +301,7 @@
     "question": "Dharma is to be followed by Sanyasis only.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Dharma (duty/righteousness) is universal and applies to all stages of life - householder (Grihastha), student (Brahmachari), hermit (Vanaprastha), and renunciate (Sannyasi). Even Sanyasis follow a form of dharma, but the duties differ from those of householders. It is not exclusive to Sanyasis."
@@ -520,9 +508,7 @@
     "question": "The core teaching of the Bhagavad Gita remains to overcome the duality of pleasure/pain, success/failure, Profit /Loss, etc.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "The core teaching of the Bhagavad Gita is samatva (equanimity), rising above dualities like pleasure–pain, success–failure, profit–loss and performing one’s duty without attachment to results."
@@ -542,9 +528,7 @@
     "question": "As per Bhagavad Gita, one should discard reward seeking behaviour. As this will bind the individual with the results, good or bad.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "As per Bhagavad Gita (2.47–2.51, Karma Yoga), one is advised to perform action without attachment to the results (niṣkāma karma). Seeking rewards binds the individual to karma-phala (fruits of action), whether good or bad, and thus perpetuates the cycle of bondage (saṁsāra)."

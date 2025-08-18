@@ -333,9 +333,7 @@
     "question": "Taking a bath immediately after yoga is highly recommended.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "After āsana and prāṇāyāma, the body is warm, pores are open, and prāṇa (energy) is actively flowing. Sudden bathing, especially with cold water, can cause an abrupt energy shift and disturb circulation. Traditional guidelines suggest waiting at least 20–30 minutes after yoga before taking a bath, to allow the body and mind to settle."
@@ -355,9 +353,7 @@
     "question": "Bhujangasana is a relaxing posture and a yoga class can end with Bhujangasana.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "Bhujangasana (Cobra Pose) is not a relaxing posture; it is an active backward-bending asana. It strengthens the spine, opens the chest, and stimulates energy; so it’s invigorating, not calming. Yoga sessions usually end with relaxing / cooling postures such as Śavāsana or Makarasana, not Bhujangasana."
@@ -399,9 +395,7 @@
     "question": "Interest is the best motivation for learning.",
     "options": [
       "Yes",
-      "No",
-      "NA",
-      "NA"
+      "No"
     ],
     "correctIndex": 0,
     "description": "Interest creates natural curiosity and involvement, which makes learning enjoyable and effective. When a student is genuinely interested, they put in more effort, retain knowledge longer, and apply it better. In Yoga teaching also, generating interest in practice is considered a key factor for discipline (abhyāsa)."
@@ -498,9 +492,7 @@
     "question": "Subheccha is the first step to developing detachment in a Jnana  Yogi.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "In Jnana Yoga (the path of knowledge), the journey towards liberation begins with Ṣaṭsampatti (six virtues) and Mumukṣutva (desire for liberation) - but even before that, the aspirant develops Subheccha (the noble desire for Truth / good desire). It means a sincere longing for liberation, turning away from worldly attachments, and developing detachment (Vairagya). Without Subheccha, the quest for Self-knowledge cannot even begin."
