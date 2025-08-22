@@ -3,10 +3,11 @@ import React from 'react'
 export default function Resources() {
   // Example books and links
   const books = [
-    { title: "Light on Yoga", author: "B.K.S. Iyengar", file: "books/Light%20on%20Yoga%20-%20B.K.S.%20Iyengar.pdf" },
+    { title: "Light on Yoga", author: "B.K.S. Iyengar", file: "books/Light%20on%20Yoga.pdf" },
     { title: "Hatha Yoga Pradipika", author: "Swami Muktibodhananda", file: "books/Hatha%20Yoga%20Pradipika.pdf" },
     { title: "Yogic Management of Common Diseases", author: "Dr. Swami Karmananda", file: "books/Yogic%20Management%20of%20Common%20Diseases.pdf" },
-    { title: "Patanjali Yoga Sutra", author: "Swami Vivekananda", file: "books/Patanjali%20Yoga%20Sutra%20by%20Swami%20Vivekananda.pdf" },
+    { title: "Patanjali Yoga Sutra", author: "Swami Vivekananda", file: "books/Patanjali%20Yoga%20Sutra.pdf" },
+    {title: "Gheranda Samhita", author: "Swami Niranjanananda Saraswati", file: "books/Gheranda%20Samhita.pdf"}
 
   ]
   const websites = [
