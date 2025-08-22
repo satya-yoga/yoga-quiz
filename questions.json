@@ -1,552 +1,431 @@
 [
   {
-    "question": "How many chapters are there in Bhagavad Gita?",
+    "question": "Tremors in the body mean",
     "options": [
-      "16",
-      "18",
-      "12",
-      "20"
-    ],
-    "correctIndex": 1,
-    "description": "The Bhagavad Gita has 18 chapters (700 shlokas in total). Each chapter is called a Yoga, showing a specific path or aspect of Yoga (like Karma Yoga, Bhakti Yoga, Jnana Yoga, etc.)."
-  },
-  {
-    "question": "Bhagavad Gita is a conversation between",
-    "options": [
-      "Shri Krishna and Arjuna",
-      "Sanjaya and Dhritarashtra",
-      "Shri Krishna and the world",
-      "Shri Krishna and the Abhimanyu"
-    ],
-    "correctIndex": 0,
-    "description": "The Bhagavad Gita is primarily the dialogue between Shri Krishna (the Supreme Being / Guru) and Arjuna (the disciple). However, it is narrated by Sanjaya to Dhritarashtra, because Sanjaya (blessed with divine vision) describes the entire battlefield conversation to the blind king."
-  },
-  {
-    "question": "Sthita Prajna refers to",
-    "options": [
-      "Steady wisdom",
-      "Balanced mind",
-      "Satvik mind",
-      "A & C"
-    ],
-    "correctIndex": 0,
-    "description": "In Bhagavad Gita (Chapter 2, verses 54–72), Sthita Prajña refers to a person of steady wisdom — one who is: Unshaken by pleasure and pain, Free from attachment, fear, and anger and Content within, independent of external circumstances. While such a person naturally has a balanced mind and acts mostly from a sattvic state, the precise definition given by Gita is “one of steady wisdom” (sthita = established, prajñā = wisdom)."
-  },
-  {
-    "question": "As per Bhagwad Gita, what leads to clouding of judgment?",
-    "options": [
-      "Anger",
-      "Attachment",
-      "Aversion",
-      "Mental fluctuations"
-    ],
-    "correctIndex": 0,
-    "description": "In Bhagavad Gita 2.62–63, Shri Krishna explains the chain of downfall:1. Attachment (saṅgaḥ) to objects arises from constant thinking. 2. From attachment arises desire (kāmaḥ). 3. From unfulfilled desire arises anger (krodhaḥ). 4. Anger leads to delusion (saṁmohaḥ). 5. Delusion causes clouding of memory. 6. Memory confusion leads to loss of discrimination (buddhi-nāśaḥ). 7. With discrimination destroyed, one perishes. So while attachment is the root, it is anger that directly causes clouding of judgment."
-  },
-  {
-    "question": "yā ___ sarva-bhūtānāṁ tasyāṁ ___ sanyamī",
-    "options": [
-      "Nisha, jagrati",
-      "Prabhata, Sussupti",
-      "Sthita, Prajna",
+      "Angamejayatva",
+      "Svasa-Prasvasa",
+      "Anavasthitattva",
       "None of the above"
     ],
     "correctIndex": 0,
-    "description": "This line comes from Bhagavad Gita 2.69: What is night for all beings is the time of wakefulness for the self-controlled (saṁyamī). And what is day for all beings, is like night for the wise sage (muni). It refers to the Sthita Prajña state, where the realized person is awake to the higher truth, while ordinary people are absorbed in worldly things."
+    "description": "In Patanjali Yoga Sutra (Antarāyas), Angamejayatva refers to tremors or instability in the body. It is considered one of the obstacles (antarayas) in yoga practice."
   },
   {
-    "question": "One should learn to withdraw their senses just as",
+    "question": "Which of these is Pramana Vritti?",
     "options": [
-      "Tortoise withdrawals their limbs",
-      "The dog hides his food",
-      "Kuckoo gives up her eggs",
-      "Elephant hides their real teeth"
-    ],
-    "correctIndex": 0,
-    "description": "This is from Bhagavad Gita 2.58: Just as a tortoise withdraws its limbs into the shell, a wise person withdraws the senses from sense objects. Such a person’s wisdom is firmly established."
-  },
-  {
-    "question": "Which all qualities can be considered under Sthita Prajna?",
-    "options": [
-      "Situational Stability",
-      "Emotional stability",
-      "Control over the sense",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "The qualities of a Sthita Prajña (person of steady wisdom) as per Bhagavad Gita, Ch 2 (54–72) include: Situational Stability → Unshaken by pleasure/pain, success/failure (2.56). Emotional Stability → Free from attachment, fear, anger (2.56). Control over the senses → Withdraws senses like a tortoise (2.58). Freedom from desires → Content in the Self (2.55, 2.71). Equanimity → Balanced in all situations (2.48, 2.57). Established in Self → Sees Atman as the source of bliss (2.72)."
-  },
-  {
-    "question": "The theme \"Yoga for Humanity\" for IDY was held in",
-    "options": [
-      "Mysore",
-      "Homes",
-      "Ranchi",
-      "Dehradun"
-    ],
-    "correctIndex": 0,
-    "description": "The 8th International Day of Yoga (IDY) in 2022 had the theme “Yoga for Humanity” and was led by Prime Minister Narendra Modi in Mysuru (Mysore), Karnataka."
-  },
-  {
-    "question": "How many shlokas are in Bhagwad-Gita?",
-    "options": [
-      "700",
-      "18000",
-      "1100",
-      "2100"
-    ],
-    "correctIndex": 0,
-    "description": "The Bhagavad Gita consists of 700 shlokas (verses) spread across 18 chapters. 18000 actually refers to the total number of verses in the Mahabharata (approx)."
-  },
-  {
-    "question": "The Chapter Vishva rupa Darshan is about",
-    "options": [
-      "Vision of the Universal form",
-      "Yajna",
-      "Bhakti Yoga",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "description": "The Vishvarupa Darshana Yoga is Chapter 11 of the Bhagavad Gita, where Shri Krishna grants Arjuna divine vision (divya chakshu) to behold His cosmic universal form (Vishvarupa). This chapter highlights the infinite, timeless, and all-encompassing nature of the Divine."
-  },
-  {
-    "question": "The Chapter Kshetra-Kshetrajan Vibhaga is about",
-    "options": [
-      "Path of Distinguishing Fields and Knower of The Fields",
-      "Path of  Imperishable Brahman",
-      "Path of Discerning Divine & Demoniac  Qualities",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "description": "The Kṣetra-Kṣetrajña Vibhāga Yoga is Chapter 13 of the Bhagavad Gita. Kṣetra = the field (body, matter, prakṛti). Kṣetrajña = the knower of the field (soul, puruṣa, consciousness). This chapter explains the distinction between the body and the Self, and ultimately the relation to Paramātman (Supreme Consciousness)."
-  },
-  {
-    "question": "The Chapter Shradhatrayi-Vibhag is about",
-    "options": [
-      "Path of 3 Divisions of Faith",
-      "Path of 3 Divisions of Modes",
-      "None of the above",
-      "A & C"
-    ],
-    "correctIndex": 0,
-    "description": "The Śraddhātraya Vibhāga Yoga is Chapter 17 of the Bhagavad Gita. It classifies faith (śraddhā) into three kinds based on the three guṇas: 1. Sāttvic Faith → leads to clarity, harmony, liberation. 2. Rājasic Faith → desire-driven, materialistic. 3. Tāmasic Faith → deluded, destructive. It also discusses food, yajña (sacrifice), tapas (austerity), and dāna (charity) under the same threefold classification."
-  },
-  {
-    "question": "The chapter Vishad Yoga is about",
-    "options": [
-      "Path of dejection",
-      "Path of Renunciation",
-      "Path of Renunciation & Liberation",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "description": "The first chapter of the Bhagavad Gita is Arjuna Viṣāda Yoga. Viṣāda means sorrow, grief, or dejection. In this chapter, Arjuna is overwhelmed with sorrow and confusion on the battlefield of Kurukshetra, refusing to fight. This sets the stage for the teachings of Krishna that follow."
-  },
-  {
-    "question": "Bhagawad Gita is part of",
-    "options": [
-      "Veda",
-      "Darshan",
-      "Shashtra",
-      "None of the above"
-    ],
-    "correctIndex": 3,
-    "description": "The Gita is part of the Mahābhārata (Bhishma Parva, 700 shlokas)."
-  },
-  {
-    "question": "The main concepts discussed in Bhagawad Gita are",
-    "options": [
-      "Karma Yoga",
-      "Stability of senses",
-      "Moderate eating",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "Karma Yoga, stability of senses = Sthitaprajña, moderate eating = yukta āhāra viharasya are all taught."
-  },
-  {
-    "question": "Gita says that its okay to take up other people’s duty every now and then.",
-    "options": [
-      "True",
-      "False",
-      "NA",
-      "NA"
-    ],
-    "correctIndex": 1,
-    "description": "BG 3.35 — śreyān sva-dharmo viguṇaḥ paradharmāt sv-anuṣṭhitāt — better to follow one’s own duty, even imperfectly, than another’s duty well."
-  },
-  {
-    "question": "Bhagwad Gita is written by",
-    "options": [
-      "Shri Krishna",
-      "Sanjaya",
-      "Valmiki",
-      "Veda-Vyasa"
-    ],
-    "correctIndex": 3,
-    "description": "Veda Vyāsa composed Mahābhārata, in which Gita is included."
-  },
-  {
-    "question": "Yoga Vashistha is written by",
-    "options": [
-      "Valmiki",
-      "Rishi Vashishtha",
-      "Veda Vyasa",
-      "Patanjali"
-    ],
-    "correctIndex": 0,
-    "description": "Rishi Vāsiṣṭha is the teacher, but the scripture was composed in verse form by Maharshi Vālmīki."
-  },
-  {
-    "question": "Maha Ramayana is",
-    "options": [
-      "Yoga Vashishtha",
-      "Sundarkand",
-      "Lanka Kanda",
-      "Ram-Charit Manas"
-    ],
-    "correctIndex": 0,
-    "description": "It is also known as the Maha Rāmāyaṇa because it contains deep Vedantic philosophy narrated in the Ramayana setting."
-  },
-  {
-    "question": "Brihat Yoga Vashishtha consists of",
-    "options": [
-      "32000 Shlokas",
-      "64000 Shlokas",
-      "18000 Shlokas",
-      "6000 Shlokas"
-    ],
-    "correctIndex": 0,
-    "description": ""
-  },
-  {
-    "question": "Which is part of the 4 dwarpal of Moksha?",
-    "options": [
-      "Vichara",
-      "Tanumanasi",
-      "Subechha",
-      "Padartha-Bhavana"
-    ],
-    "correctIndex": 0,
-    "description": "According to the Yoga Vāsiṣṭha, the four gatekeepers who guard the entrance to the Realm of Freedom (Moksha) are Shama (serenity or self-control), Santosh (contentment), Satsanga (good association or association with the wise), and Vichar (spiritual inquiry or Atmic enquiry)."
-  },
-  {
-    "question": "In this world whatever is gained is gained only by self-effort. Is this true as per Yoga Vāsiṣṭha?",
-    "options": [
-      "True",
-      "False",
-      "NA",
-      "NA"
-    ],
-    "correctIndex": 0,
-    "description": "Yoga Vāsiṣṭha strongly emphasizes self-effort (puruṣārtha) over destiny or fate."
-  },
-  {
-    "question": "Tenuous mind refers to",
-    "options": [
-      "Tanumanasana",
-      "Satwapatti",
-      "Subhechha",
-      "Avidya"
-    ],
-    "correctIndex": 0,
-    "description": "Second stage of Sapta Bhūmikā, where mind becomes thin / subtle, no longer heavily attached to desires."
-  },
-  {
-    "question": "The seven stages of Jnana as per Yoga Vashishtha refer to",
-    "options": [
-      "Sapta Bhumika",
-      "Sadhna Chatushthya",
-      "A & B",
-      "None of the adobe"
-    ],
-    "correctIndex": 0,
-    "description": "Seven stages of knowledge: Subhecchā, Vichāraṇā, Tanumānasā, Sattvāpatti, Asaṁsakti, Padārthābhāvana, Turyagā."
-  },
-  {
-    "question": "Yoga Vashishtha is a conversation between",
-    "options": [
-      "Ram-Vashishtha",
-      "Dashratha-Vashishtha",
-      "Valmiki-Vashishtha",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "description": "Dialogue between Sri Rama and his guru, Rishi Vasiṣṭha; Valmiki recorded it."
-  },
-  {
-    "question": "The timeline of Shree-Ram is known as",
-    "options": [
-      "Treta-Yuga",
-      "Sat-Yuga",
-      "Dwapar-Yuga",
-      "Kali-Yuga"
-    ],
-    "correctIndex": 0,
-    "description": "Ramayana takes place in Treta Yuga, before Krishna’s Dvāpara Yuga."
-  },
-  {
-    "question": "Yoga Vashishtha is based on",
-    "options": [
-      "Advait Vedanta (Non-dualism)",
-      "Dvaitvad (Dualism)",
-      "KarmaKanda (Rituals)",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "description": "Strongly rooted in non-dual philosophy: Brahman is the only reality."
-  },
-  {
-    "question": "tatra pratyayaikatanata ___ ",
-    "options": [
-      "Dhyanam",
-      "Dharna",
-      "Pratyahara",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "description": "PYS 3.2: meditation = continuous flow of similar mental content."
-  },
-  {
-    "question": "Samadhi Pada is about",
-    "options": [
-      "Contemplation",
-      "Practice",
-      "Properties & Power",
-      "Liberation"
-    ],
-    "correctIndex": 0,
-    "description": "First chapter of Patanjali Yoga Sutra focuses on Samādhi, nature of mind, liberation."
-  },
-  {
-    "question": "tadā draṣṭuḥ ___ vasthānam?",
-    "options": [
-      "Svarūpe",
-      "Rupe",
-      "Chittah",
-      "Ishwara"
-    ],
-    "correctIndex": 0,
-    "description": "PYS 1.3: Then, the seer abides in its own true nature."
-  },
-  {
-    "question": "śabda-jñāna-anupātī ___ vikalpaḥ?",
-    "options": [
-      "Vastu-śūnyo",
-      "Abhava",
-      "Agamah",
-      "Vastu"
-    ],
-    "correctIndex": 0,
-    "description": "PYS 1.9: Vikalpa = verbal knowledge without corresponding reality, empty of substance."
-  },
-  {
-    "question": "abhyāsa ___ tannirōdhaḥ",
-    "options": [
-      "Vairāgyābhyām",
-      "Pranidhana",
-      "Anushasanam",
-      "Itaratra"
-    ],
-    "correctIndex": 0,
-    "description": "PYS 1.12: By practice (abhyāsa) and detachment (vairāgya), mind’s modifications are restrained."
-  },
-  {
-    "question": "___ mithyā-jñānam-atadrūpa pratiṣṭham.",
-    "options": [
-      "Vikalpaḥ",
-      "Viparyayo",
-      "Pramāṇa",
-      "Nidra"
-    ],
-    "correctIndex": 1,
-    "description": "PYS 1.8: Wrong knowledge (viparyaya) is false perception not based on the real form."
-  },
-  {
-    "question": "abhāva pratyayālambanā vr̥tti ___",
-    "options": [
-      "Pratyakṣam",
-      "Smṛtiḥ",
-      "Nidrā",
-      "None of the above"
-    ],
-    "correctIndex": 2,
-    "description": "PYS 1.10: Sleep is a mental modification with absence as its support."
-  },
-  {
-    "question": "anu-bhūta-viṣaya ___ smr̥tiḥ",
-    "options": [
-      "Ālambana",
-      "Avikalpaḥ",
-      "Asaṁpramoṣaḥ",
-      "Pramoṣaḥ"
-    ],
-    "correctIndex": 2,
-    "description": "PYS 1.11: Memory (smṛti) is the retention of experienced objects without letting them slip away."
-  },
-  {
-    "question": "vr̥ttayaḥ pañcatayyaḥ ___",
-    "options": [
-      "Aklista",
-      "Kliṣṭākliṣṭāḥ",
-      "Klista",
-      "All of the above"
-    ],
-    "correctIndex": 1,
-    "description": "PYS 1.5: Mental modifications (vṛttis) are of five kinds, painful (kliṣṭa) or not painful (akliṣṭa)."
-  },
-  {
-    "question": "pramāṇa viparyaya ___ nidrā smr̥tayaḥ",
-    "options": [
-      "Nirodhaḥ",
-      "Itaratra",
-      "Vikalpa",
-      "None of the above"
-    ],
-    "correctIndex": 2,
-    "description": "PYS 1.6: The five vṛttis are — pramāṇa, viparyaya, vikalpa, nidrā, smṛti."
-  },
-  {
-    "question": "tapaḥ ___ īśvarapraṇidhānāni kriyāyogaḥ",
-    "options": [
-      "Śauca",
-      "Santoṣaḥ",
-      "Aparigraha",
-      "Svādhyāya"
-    ],
-    "correctIndex": 3,
-    "description": "PYS 2.1: Kriyāyoga = tapas (discipline), svādhyāya (study of self & scriptures), īśvarapraṇidhāna (devotion to God)."
-  },
-  {
-    "question": "bāhya-abhyantara-stambha-vṛttiḥ ___ saṅkhyābhiḥ paridṛṣṭo dīrgha-sūkṣmaḥ",
-    "options": [
-      "Viśakṣepi",
-      "Chaturthaḥ",
-      "Deśa-kāla",
-      "None of the above"
-    ],
-    "correctIndex": 2,
-    "description": "PYS 2.50: The pranayama has either external or internal or motionless modifications. They are to be regulated by place, time and number, either long or short."
-  },
-  {
-    "question": "sva-viṣayāsamprayoge cittasya ___ anukāra iva indriyāṇāṁ pratyāhāraḥ",
-    "options": [
-      "Draṣṭuḥ",
-      "Īśwara",
-      "Draṣṭā",
-      "Svarūpe"
-    ],
-    "correctIndex": 3,
-    "description": "PYS 2.54 — When the mind withdraws from sense objects, the senses follow the mind, as if taking the form of the mind itself (svarūpa). This is pratyāhāra."
-  },
-  {
-    "question": "trayam ekatra ___",
-    "options": [
-      "Samyamah",
-      "Samadhih",
-      "Kriya Yogah",
-      "Dharana"
-    ],
-    "correctIndex": 0,
-    "description": "PYS 3.4: Dharana, Dhyana, and Samadhi together, practiced on one object, is called Sanyama."
-  },
-  {
-    "question": "tasya ___ viniyogah",
-    "options": [
-      "Sanyamah",
-      "Bhoomishu",
-      "Samadhi",
-      "Parama"
-    ],
-    "correctIndex": 1,
-    "description": "PYS 3.6: The application (viniyoga) of samyama is in different stages (bhoomi)."
-  },
-  {
-    "question": "Antahkarna Chatushtaya involves",
-    "options": [
-      "Chitta, Buddhi, Manas",
-      "Chitta, Vritti, Manas, Ahamkara",
-      "Chitta, Buddhi, Anand, Ahamkara",
-      "Chitta, Buddhi, Manas, Ahamkara"
-    ],
-    "correctIndex": 2,
-    "description": "These four are the inner instruments (antahkarana) in Vedanta & Yoga philosophy."
-  },
-  {
-    "question": "Which of these can be kliṣṭa vṛtti?",
-    "options": [
-      "Pramana",
+      "Anumana",
       "Pratyaksha",
       "Agama",
       "All of the above"
     ],
     "correctIndex": 3,
-    "description": "Even valid cognition (pramana) or perception (pratyaksha) can be colored by afflictions (kleshas) like raga/dvesha."
+    "description": "Pramāṇa Vritti means valid knowledge. Patanjali defines three means: Pratyaksha → Direct perception; Anumana → Inference; Agama/Śabda → Authoritative testimony (scriptures, wise words)"
   },
   {
-    "question": "Kleshas can be kept in weak state by practicing",
+    "question": "False knowledge is",
     "options": [
-      "Kriya Yoga",
-      "Yama and Niyama",
-      "Pratipaksha Bhavana",
-      "Ashtanga Yoga"
+      "Anuman",
+      "Smriti",
+      "Vikalpa",
+      "Viparyaya"
     ],
-    "correctIndex": 0,
-    "description": "PYS 2.2: Kriya Yoga (Tapas, Svadhyaya, Ishwar-Pranidhana) weakens kleshas and leads to samadhi."
+    "correctIndex": 3,
+    "description": "Viparyaya Vritti = false knowledge, misapprehension of reality (e.g., mistaking a rope for a snake)."
   },
   {
-    "question": "Stubborn attachment to sense objects is referred as",
+    "question": "Mother of all Klesha is",
     "options": [
-      "Bhranti-Darshan",
-      "Avirati",
-      "Alabdha-Bhumikatva",
-      "Anavasthitattva"
+      "Anger",
+      "Avidya",
+      "Asmita",
+      "Raga"
     ],
     "correctIndex": 1,
-    "description": "Antarayas (obstacles) list includes Avirati = uncontrolled craving for sense objects."
+    "description": "Avidyā (ignorance) is called the root cause of all Kleshas (Asmita, Raga, Dvesha, Abhinivesha). Without ignorance, no affliction arises."
   },
   {
-    "question": "The practice of ___ Kumbhak is suggested to have a calming effect on the mind in PYS.",
+    "question": "The oscillating state of Klesha is referred as",
     "options": [
-      "Bahya Kumbhaka",
-      "Antar Kumbhaka",
-      "Kevala Kumbhaka",
-      "Bandha with Kumbhaka"
+      "Udara",
+      "Vichhinna",
+      "Tanu",
+      "Prasupta"
+    ],
+    "correctIndex": 1,
+    "description": "The 4 states of Kleshas are: 1. Prasupta → Dormant;  2. Tanu → Weak; 3. Vichhinna → Alternating/oscillating (sometimes active, sometimes suppressed); 4. Udara → Fully manifest"
+  },
+  {
+    "question": "Which Chitta-bhumi is apt for Yog?",
+    "options": [
+      "Vikshipta",
+      "Kshipta",
+      "Ekagra",
+      "Moodha"
     ],
     "correctIndex": 2,
-    "description": "PYS 2.51: Kevala Kumbhaka (automatic retention of breath without effort) makes the mind calm and ready for dharana."
+    "description": "Among the 5 chitta bhūmis, only Ekāgra (one-pointed mind) is considered apt for deep yogic practices → leads to Niruddha state (complete restraint)."
   },
   {
-    "question": "How many Antarayas are there?",
+    "question": "The word Ishwara in PYS refers to",
     "options": [
-      "9",
-      "4",
-      "13",
+      "Adi-Yogi",
+      "Hiranyagarbha",
+      "Any personal god",
+      "A supreme Universal Energy"
+    ],
+    "correctIndex": 3,
+    "description": "In Patanjali Yoga Sutra, Īśvara is described as a special Purusha (Puruṣa-viśeṣa), untouched by Klesha, Karma, and Samskara. It is universal consciousness/energy, not limited to a personal deity or mythological figure."
+  },
+  {
+    "question": "Ishwar-Pranidhan is suggested to",
+    "options": [
+      "Uttam Adhikari",
+      "Madhyama Adhikari",
+      "Adhama Adhikari",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Ishwar-Pranidhana (surrender to a higher power) is recommended for all levels of practitioners - whether low (Adhama), medium (Madhyama), or high (Uttama) aspirants. It helps cultivate humility, devotion, and steady progress in Yoga practice."
+  },
+  {
+    "question": "klesha ___ vipaka-ashayaira ___ purushavishesh-Ishvarah",
+    "options": [
+      "Karma, aparamrishtah",
+      "Karma, Swarupa",
+      "Avidya, Santosha",
       "None of the above"
     ],
     "correctIndex": 0,
-    "description": "9 Antarāyas (Obstacles in Yoga practice): 1. Vyādhi (physical sickness) 2. Styāna (mental laziness) 3. Saṁśaya (ack of faith) 4. Pramāda (lack of discipline) 5. Ālasya (unwillingness to act despite ability) 6. Avirati (inability to detach from sense objects) 7.  Bhrānti-darśana (wrong understanding) 8. Alabdha-bhūmikatva (failure to progress in practice) 9. Anavasthitatva (inability to stay steady after attaining progress). These 9 Antarāyas disturb concentration and lead to duḥkha (suffering), daurmanasya (frustration), aṅgamejayatva (tremors/restlessness), śvāsa-praśvāsa (irregular breathing)."
+    "description": "Patanjali defines Ishwara as a special Purusha unaffected by Klesha, Karma, Vipaka (fruits of action), Ashaya (latent impressions)."
   },
   {
-    "question": "How many Sahbhuvas are there?",
+    "question": "asya-vachakah ___",
     "options": [
-      "9",
-      "4",
-      "13",
-      "None of the above "
+      "Shantih",
+      "Udgitha",
+      "Pranavah",
+      "Om"
     ],
-    "correctIndex": 1,
-    "description": "In Patanjali Yoga Sutras (PYS 1.31), when the 9 Antarāyas (obstacles) are present, they are accompanied by 4 symptoms (Sahabhūvas): 1. Duḥkha (Pain / Suffering); 2. Daurmanasya (Depression / Despondency / Frustration) 3. Aṅgamejayatva (Tremors or restlessness in the body) 4. Śvāsa-praśvāsa (Irregular breathing, labored inhalation & exhalation)"
+    "correctIndex": 2,
+    "description": "In Yoga Sutras, Īshvara is designated by the sound “Pranava” (ॐ / Om). Chanting Om with bhava of surrender leads to meditation on Ishwara."
   },
   {
-    "question": "Which of these is referred to as donkey mind?",
+    "question": "As per Patanjali, which practice is unbound by time, place, caste, and creed?",
     "options": [
-      "Moodha Chitta",
-      "Kshipta Chitta",
-      "Vikshipta Chitta",
-      "Ekagra Chitta"
+      "Niyama",
+      "Asana",
+      "Pranayama",
+      "Yama"
+    ],
+    "correctIndex": 3,
+    "description": "Yamas are called Maha-vrata (universal vows). They are not limited by country, time, age, caste, or community."
+  },
+  {
+    "question": "Kleshas are which generate pain in our experience. We are born with these with various degree.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
     ],
     "correctIndex": 0,
-    "description": "This comes from the classification of Chitta Bhūmis in Yoga psychology. 1. Mūḍha Chitta → Known as the \"donkey mind\" because it is dull, inert, ignorant, and driven only by tamas (darkness/inertia). It cannot discriminate between right and wrong. 2. Kṣipta Chitta → Restless, distracted (rajasic). 3. Vikṣipta Chitta → Occasionally steady, but easily distracted. 4. Ekāgra Chitta → One-pointed mind, concentrated. 5. Niruddha Chitta → Fully restrained, leading to Samadhi."
+    "description": "Kleshas (Avidya, Asmita, Raga, Dvesha, Abhinivesha) are inborn afflictions that cause pain and suffering. They manifest in different intensities."
+  },
+  {
+    "question": "Which practice gives supreme mastery over the senses?",
+    "options": [
+      "Pranayama",
+      "Dhyana",
+      "Pratyahara",
+      "Dharana"
+    ],
+    "correctIndex": 2,
+    "description": "Patanjali defines Pratyahara as withdrawing the senses from their objects, like a tortoise withdrawing its limbs. It gives mastery over the senses (indriya-jaya)."
+  },
+  {
+    "question": "Which of these is not part of Samprajñata Samadhi?",
+    "options": [
+      "Savitarka",
+      "Savichara",
+      "Sanandam",
+      "Nirbeeja"
+    ],
+    "correctIndex": 3,
+    "description": "Samprajñata Samadhi has 4 stages: Savitarka, Savichara, Sananda, Sasmita. Nirbija Samadhi (seedless) belongs to Asamprajñata Samadhi."
+  },
+  {
+    "question": "The syllable ha in Hatha represents",
+    "options": [
+      "Right nostril",
+      "Solar energy",
+      "Pingala Nadi",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "In Hatha Yoga, “Ha” = Surya/solar principle/Pingala/right nostril and “Tha” = Chandra/lunar principle/Ida/left nostril. Hatha Yoga balances these energies."
+  },
+  {
+    "question": "The aim of Hatha yoga is to achieve",
+    "options": [
+      "Dridhta",
+      "Sthairyam",
+      "Sthita Prajna",
+      "Raja Yoga"
+    ],
+    "correctIndex": 3,
+    "description": "Hatha Yoga prepares the body and mind for Raja Yoga (meditative and spiritual mastery). Its purpose is not just physical fitness but attaining higher consciousness."
+  },
+  {
+    "question": "Which one is not part of Sadhaka Tattvaa",
+    "options": [
+      "Astikyam",
+      "Tapah",
+      "Prayasach",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Sadhaka Tattvas are the supportive factors that help a practitioner succeed in yoga practice. Classical Sadhaka Tattvas include: 1. Prayasah / Prayasa – Effort, perseverance; 2. Tapah – Discipline, austerity; 3. Samadhi – Concentration and meditative absorption; 4. Shaucham / Saucha – Purity; 5. Santoshah – Contentment; 6. Ishwar Pranidhanam – Surrender to Ishwara; 7. Astikyam – Faith in the Vedas / ultimate reality"
+  },
+  {
+    "question": "Which one is not part of Badhaka Tattvaa?",
+    "options": [
+      "Hutam",
+      "Vyadhi",
+      "Sanshaya",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Badhaka Tattvas are the obstacles that hinder yoga practice. They traditionally include: 1. Vyadhi – Disease; 2. Styana – Laziness; 3. Samsaya – Doubt; 4. Pramada – Carelessness; 5. Alasya – Inactivity; 6. Avirati – Lack of self-control; 7. Bhranti Darshan – Wrong perception; 8. Alabdha Bhumikatva – Inability to attain previous level of practice; 9. Anavasthitatva – Instability. \"Hutam\" is not a recognized obstacle in classical texts."
+  },
+  {
+    "question": "Who is the author of Hatha Yoga Pradipika?",
+    "options": [
+      "Sage Matsyendranath",
+      "Sage Kuvalayananda",
+      "Sage Swatmaram Suri",
+      "Sage Gheranda"
+    ],
+    "correctIndex": 2,
+    "description": "The Hatha Yoga Pradipika was written by Sage Swatmaram in the 15th century."
+  },
+  {
+    "question": "Which Asana is considered the most important asana in HYP?",
+    "options": [
+      "Siddhasana",
+      "Bhadrasana",
+      "Vajrasana",
+      "Padmasana"
+    ],
+    "correctIndex": 0,
+    "description": "Siddhasana is emphasized in HYP as the prime meditative posture for pranayama and dhyana."
+  },
+  {
+    "question": "Which asana is not mentioned in HYP?",
+    "options": [
+      "Bhujangasana",
+      "Paschimottanasana",
+      "Shavasana",
+      "Veerasana"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Prayasa is mentioned as one of the",
+    "options": [
+      "Sadhaka Tattva (Cause of Success)",
+      "Badhaka Tattva (Cause of Failure)",
+      "The practice of Nauli",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "Basti is done in which Asana?",
+    "options": [
+      "Utkatasana",
+      "Malasana",
+      "Mandukasana",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Which pranayama helps in removing the worms?",
+    "options": [
+      "Kapalbhati",
+      "Suryabhedi",
+      "Ujjayi",
+      "Bhastrika"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "Which mudra is performed during Sheetali Pranayama?",
+    "options": [
+      "Khechari Mudra",
+      "Kaki Mudra",
+      "Ashwini Mudra",
+      "A & B"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "In Kapalbhati air is inhaled and exhaled repeatedly through the nostrils like a pair of bellows being pumped.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "The \"bellows-like\" pumping (both inhalation and exhalation forceful) is Bhastrika Pranayama. In Kapalabhati, only exhalation is active, and inhalation happens naturally."
+  },
+  {
+    "question": "Match the following:\nA. Ārambha-avasthā — kettledrum (A)\nB. Ghata-avasthā — drum (B)\nC. Parīchaya-avasthā — flute, veena (C)\nD. Nishpatti-avasthā — tinkling sound (D)",
+    "options": [
+      "A-C, B-A, C-D,  D-B ",
+      "A-D, B-A, C-B, D-C",
+      "A-A, B-D, C-B, D-C",
+      "A-D, B-A, C-C, D-D"
+    ],
+    "correctIndex": 1,
+    "description": ""
+  },
+  {
+    "question": "Vipareeta Karani is type of",
+    "options": [
+      "Mudra",
+      "Asana",
+      "Bandha",
+      "Sthula Vyayama"
+    ],
+    "correctIndex": 0,
+    "description": "In Hatha Yoga Pradipika (3.78), Vipareeta Karani is described as a mudra, not just an asana. It involves reversing the flow of prana by inverting body posture (similar to Sarvangasana, but used in mudra context)."
+  },
+  {
+    "question": "As per the concept of Mitahara, how much food should be taken?",
+    "options": [
+      "3/4th of the stomach",
+      "1/4th of the stomach",
+      "Full stomach",
+      "½ of the stomach"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Kulattha (horse gram) is a prescribed food in HYP.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 1,
+    "description": "HYP Ch1: 59 -> The foods which are prohibited (for the yogi) are: those which are bitter, sour, pungent, salty, heating, green vegetables (other than those ordained), sour gruel, oil, sesame and mustard, alcohol, fish, flesh foods, curds, buttermilk, horse gram, fruit of jujube, oil cakes, asafoetida and garlic. 62 -> (The most conducive foods for the yogi are:) good grains, wheat, rice, barley, milk, ghee, brown sugar, sugar candy (crystallized sugar), honey, dry ginger, patola fruit (species of cucumber), five vegetables, mung and such pulses, and pure water."
+  },
+  {
+    "question": "The yogi should take nourishing and sweet food mixed with  ghee and milk, it should nourish the Dhatus and should be pleasing  and suitable. ",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 0,
+    "description": "It is from HYP Chapter 1 - Verse 63"
+  },
+  {
+    "question": "Bhagavad Gita considers the Right food very important as only then individuals can mitigate all sorrows.",
+    "options": [
+      "True",
+      "False",
+      "NA",
+      "NA"
+    ],
+    "correctIndex": 0,
+    "description": "In Gita (17.8–10), food is classified as Sattvic, Rajasic, and Tamasic. Sattvic food leads to health, cheerfulness, strength, and reduces sorrow. "
+  },
+  {
+    "question": "What are Panch Shaka as per Gheranda Samhita?",
+    "options": [
+      "Patolak Phala, Kalsak, Vastak, Himlochika, Balsak",
+      "Patolak Phala, Harit Shaka, Vastak, Himlochika, Balsak",
+      "Palkya, Kembukam, Vastak, Himlochika, Balsak",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": ""
+  },
+  {
+    "question": "Divyam Udakam refers to",
+    "options": [
+      "Amrit",
+      "Rain Water",
+      "The nectar drops which fall on Sharad Purnima",
+      "Earth-Water"
+    ],
+    "correctIndex": 1,
+    "description": "In yogic texts, Divya Udaka means naturally available pure water, especially rainwater, considered sattvic.  "
+  },
+  {
+    "question": "As per HYP which food should not be eaten?",
+    "options": [
+      "Reheated",
+      "Devoid of natural oils",
+      "Too many mixed vegetables",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Hatha Yoga Pradipika advises avoiding reheated, stale, overly mixed, and unnatural foods as they disturb doshas and mind.  "
+  },
+  {
+    "question": "Which are prescribed food in HYP for a yogi?",
+    "options": [
+      "Navnita",
+      "Sita",
+      "Madhuni",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Navnita (fresh butter), Sita (raw sugar/jaggery), Madhuni (honey) are recommended for strength and sattvic energy.  "
+  },
+  {
+    "question": "Which is the prohibited food in HYP for a yogi?",
+    "options": [
+      "Dadhi",
+      "Takra",
+      "Harita Saka",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": ""
+  },
+  {
+    "question": "yuktāhāra-vihārasya",
+    "options": [
+      "yukta-cheṣhṭasya karmasu ",
+      "yukta karmani Karmashu",
+      "yukta karamani Kaushalam",
+      "Yukta karmanai uchayte"
+    ],
+    "correctIndex": 0,
+    "description": "Bhagavad Gita (6.17): Yoga is for one who is moderate in eating, recreation, effort, sleep, and waking."
+  },
+  {
+    "question": "What should be the length of the Hermitage of the yogi?",
+    "options": [
+      "1 mtr ",
+      "1.5 meter",
+      "3 mtr",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Ch1 Verse 12: The hatha yogi should live alone in a hermitage and practise in a place the length of a bow (one and a half metres), where there is no hazard from rocks, fire or water, and which is in a well-administered and virtuous kingdom (nation or town) where good alms can be easily attained."
   }
 ]
