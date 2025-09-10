@@ -1,0 +1,544 @@
+[
+  {
+    "question": "Psychology can be understood as the study of mind and behaviour.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "Psychology is the scientific study of mind and behaviour, including thoughts, emotions, and actions."
+  },
+  {
+    "question": "Which one of these comes under cognitive process?",
+    "options": [
+      "Sleeping",
+      "Motivation",
+      "Listening",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "description": "Cognitive processes include activities like thinking, perceiving, learning, remembering, problem-solving, and listening. Sleeping and motivation are not considered cognitive processes."
+  },
+  {
+    "question": "The psychological branch concerned with the study of animal behaviour is referred as",
+    "options": [
+      "Comparative Psychology",
+      "Clinical Psychology",
+      "Cognitive Psychology",
+      "Abnormal Psychology"
+    ],
+    "correctIndex": 0,
+    "description": "Comparative Psychology deals with the study of animal behaviour, often in comparison with human behaviour, to understand evolutionary and developmental processes."
+  },
+  {
+    "question": "\"Introspection\" is one of the major techniques of understanding human consciousness in",
+    "options": [
+      "Structuralism",
+      "Functionalism",
+      "Buddhism",
+      "Jainism"
+    ],
+    "correctIndex": 0,
+    "description": "In psychology, Structuralism (founded by Wilhelm Wundt and further developed by Edward Titchener) used introspection as its primary method to study the structure of human consciousness."
+  },
+  {
+    "question": "The psyche isn't just the mind and it isn't just the workings of the brain and it isn't just the emotions.",
+    "options": [
+      "True",
+      "False",
+      "Maybe",
+      "Don’t know"
+    ],
+    "correctIndex": 0,
+    "description": "In psychology, psyche refers to the totality of mind, emotions, consciousness, and personality - not just brain activity."
+  },
+  {
+    "question": "Lack of awareness can be termed as",
+    "options": [
+      "Consciousness",
+      "Unconsciousness",
+      "Pre-consciousness",
+      "Subconsciousness"
+    ],
+    "correctIndex": 1,
+    "description": "Unconsciousness refers to a lack of awareness of oneself and the environment. Consciousness → full awareness. Pre-consciousness → information not currently in awareness but can be brought to mind. Subconsciousness → mental processes occurring below conscious awareness."
+  },
+  {
+    "question": "The state when we can pay conscious attention if we want to and where many memories are stored for early retrieval when needed is referred as",
+    "options": [
+      "Consciousness",
+      "Unconsciousness",
+      "Pre-consciousness",
+      "Subconsciousness"
+    ],
+    "correctIndex": 2,
+    "description": "Pre-consciousness is the state where information and memories are not in current awareness, but can be easily retrieved and brought into conscious attention when needed."
+  },
+  {
+    "question": "\"Direct Observation\" is one of the major techniques of understanding the human mind and behaviour in",
+    "options": [
+      "Structuralism",
+      "Functionalism",
+      "Buddhism",
+      "Jainism"
+    ],
+    "correctIndex": 1,
+    "description": "Functionalism (influenced by William James and others) focused on how the mind works and how behavior helps individuals adapt to their environment. It emphasized direct observation of behavior and its purpose, rather than just introspection (which was used in Structuralism)."
+  },
+  {
+    "question": "As per Upanishad, the Synthesizing faculty of the brain is referred as",
+    "options": [
+      "Chitta",
+      "Buddhi",
+      "Manas",
+      "Ahamkara"
+    ],
+    "correctIndex": 2,
+    "description": "In Indian psychology / Upanishadic model of mind (often described as Antahkarana Chatushtaya – the fourfold inner instrument): Manas → Doubting faculty, mind that processes sensory input and coordinates. Buddhi → Determinative faculty, intellect that decides and discriminates (yes/no). Chitta → Memory faculty, storehouse of impressions. Ahamkara → Ego, sense of individuality (“I”-maker). The 'synthesizing faculty' – the one that integrates sensory inputs and presents them to Buddhi - Manas"
+  },
+  {
+    "question": "4 stages of Consciousness is explained in which Upanishad?",
+    "options": [
+      "Mundaka",
+      "Mandukya",
+      "Isha",
+      "Chhandogya"
+    ],
+    "correctIndex": 1,
+    "description": "The Mandukya Upanishad explains the four stages of consciousness: Jāgrat (Waking state) – outward experiences. Svapna (Dream state) – inward experiences (mind-created). Suṣupti (Deep sleep state) – no desires, no dreams, blissful ignorance. Turīya (The Fourth) – pure consciousness, beyond waking, dream, and deep sleep."
+  },
+  {
+    "question": "Behaviour is the function of",
+    "options": [
+      "Person and Environment",
+      "Person and his mind",
+      "Person and his memories",
+      "Person and his conditioning"
+    ],
+    "correctIndex": 0,
+    "description": "According to Kurt Lewin’s Field Theory, Behavior (B) = f(Person, Environment). This means human behavior is a function of both the individual (P) and their environment (E)."
+  },
+  {
+    "question": "The sudden behaviour that occurs without thinking about something is called",
+    "options": [
+      "Molecular Behaviour",
+      "Immoral Behaviour",
+      "Overt Behaviour",
+      "Covert Behaviour"
+    ],
+    "correctIndex": 0,
+    "description": "Molecular behaviour refers to small, sudden, automatic acts (like reflexes, blinking, jerking your hand away from heat) that occur without prior thinking or reasoning. Overt behaviour → observable actions (walking, talking). Covert behaviour → internal processes (thinking, feeling). Immoral behaviour → socially/ethically unacceptable acts."
+  },
+  {
+    "question": "A thoughtful counterattack is an example of",
+    "options": [
+      "Molar Behaviour",
+      "Moral Behaviour",
+      "Overt Behaviour",
+      "Covert Behaviour"
+    ],
+    "correctIndex": 0,
+    "description": "Molar Behaviour → large, purposeful, goal-directed acts (e.g., preparing for an exam, playing a game, planning a strategy). Moral Behaviour → related to ethics, right vs. wrong. Overt Behaviour → visible and observable acts. Covert Behaviour → internal acts like thinking, feeling."
+  },
+  {
+    "question": "The visible behaviour such as eating, and playing, etc. is referred as",
+    "options": [
+      "Voluntary Behaviour",
+      "Involuntary Behaviour",
+      "Overt Behaviour",
+      "Covert Behaviour"
+    ],
+    "correctIndex": 0,
+    "description": "Overt behaviour refers to visible and observable actions such as eating, playing, walking, talking, etc. Covert behaviour is hidden/internal (like thinking, feeling, imagining)."
+  },
+  {
+    "question": "Thinking is an example of",
+    "options": [
+      "Voluntary Behaviour",
+      "Involuntary Behaviour",
+      "Overt Behaviour",
+      "Covert Behaviour"
+    ],
+    "correctIndex": 3,
+    "description": "Thinking is an internal, hidden process that cannot be directly observed by others. That’s why it’s called covert behaviour."
+  },
+  {
+    "question": "Which one of these is not a component of Emotion",
+    "options": [
+      "Cognitive Reaction",
+      "Physiological Reaction",
+      "Affect",
+      "Memory"
+    ],
+    "correctIndex": 3,
+    "description": "The main components of emotion are: Cognitive reaction → thoughts or interpretations (e.g., “I’m in danger”). Physiological reaction → bodily changes (e.g., increased heartbeat, sweating). Affect → the feeling tone (pleasant/unpleasant). Memory is related to cognition but is not considered a direct component of emotion."
+  },
+  {
+    "question": "The active expression of the emotion can be understood as",
+    "options": [
+      "Behavioural Reaction",
+      "Cognitive Reaction",
+      "Physiological Reaction",
+      "Affect"
+    ],
+    "correctIndex": 0,
+    "description": "Active expression of an emotion (like smiling when happy, crying when sad, shouting when angry) is shown outwardly through behavioural reactions, while: Cognitive reaction → relates to thoughts/interpretations. Physiological reaction → changes in the body (heart rate, sweating). Affect → is the subjective feeling tone (internal emotional experience)."
+  },
+  {
+    "question": "Stress is associated with",
+    "options": [
+      "Peer-pressure",
+      "Distress",
+      "Work-life imbalance",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Peer-pressure → social or academic pressure from peers. Distress → negative emotional strain or suffering. Work-life imbalance → difficulty managing job and personal life."
+  },
+  {
+    "question": "A few practices suggested by Patanjali to prevent and manage stress are",
+    "options": [
+      "Abhyasa & Vairagya",
+      "Ishwara-Pranidhana",
+      "Chitta Prasadana",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Patanjali in the Yoga Sutras suggests several practices that help prevent and manage stress: Abhyasa & Vairagya → (practice and detachment) steady effort + letting go of attachments reduce mental agitation. Ishwara-Pranidhana → surrender to a higher power helps release ego-driven stress. Chitta Prasādana → cultivating friendliness, compassion, joy, and equanimity brings mental peace and stability."
+  },
+  {
+    "question": "Which of these practices are contraindicated in Stress management?",
+    "options": [
+      "Dhyana",
+      "Asana",
+      "Yogic Deep Breathing",
+      "Affirmations"
+    ],
+    "correctIndex": 0,
+    "description": "Dhyana (Meditation) → For a person under acute stress, sitting silently with thoughts may actually increase rumination and anxiety if the mind is too disturbed. That’s why Patanjali and modern yoga therapists recommend starting with Asana, Pranayama (Yogic deep breathing), and positive Affirmations before moving into deeper meditation. Asana → Relaxes the body and releases tension. Yogic Deep Breathing → Activates parasympathetic nervous system, reduces stress hormones. Affirmations → Help reframe negative thoughts, reduce mental strain. Once stress is reduced through these preparatory practices, Dhyana becomes highly beneficial."
+  },
+  {
+    "question": "Which of these are part of Sapta Dhatu?",
+    "options": [
+      "Rasa",
+      "Shukra",
+      "Meda",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "In Ayurveda, the body is nourished and sustained by the Sapta Dhatu (seven tissues): 1. Rasa (plasma/lymph) – nourishes all other dhatus; 2. Rakta (blood) – supports life and vitality; 3. Mamsa (muscle) – provides strength and structure; 4. Meda (fat) – lubrication and energy reserve; 5. Asthi (bone) – gives support and stability; 6. Majja (marrow/nervous tissue) – fills bones, supports nervous system; 7.  Shukra (reproductive tissue) – responsible for reproduction and vitality."
+  },
+  {
+    "question": "Kaya Sampat is a concept of perfect health and is mentioned in",
+    "options": [
+      "Patanjali Yoga Sutra",
+      "Hatha Yoga Pradipika",
+      "Bhagwad-Gita",
+      "Upanishad"
+    ],
+    "correctIndex": 0,
+    "description": "After practicing saṁyama (concentration, meditation, and absorption) on the five great elements (pañca-mahābhūtas), the yogi attains divine prosperity in the form of beauty, grace, strength, and a well-built, strong body. This accomplishment is known as Kāya-Sampat (the perfection or wealth of the body).  In Hatha Yoga Pradipika, Kaya Sampat is explained more in terms of perfect health and well-being (freedom from disease, lightness, etc.)."
+  },
+  {
+    "question": "Psycho-Social environment refers to our interaction with our surroundings and its effect on our mental health.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "Psycho-social environment = the interaction between an individual and their social surroundings (family, friends, peers, workplace, community) and how this impacts mental health, behavior, and well-being. A positive psycho-social environment → support, belonging, reduced stress. A negative one → isolation, peer-pressure, anxiety, stress."
+  },
+  {
+    "question": "Which of these techniques are highly beneficial in managing stress related to the psycho-social environment?",
+    "options": [
+      "Chitta Prasadana",
+      "Ishwara Pranidhana",
+      "Kriya Yoga",
+      "Pratipaksha Bhavana"
+    ],
+    "correctIndex": 0,
+    "description": "Chitta Prasādana (PYS 1.33) – Patanjali prescribes cultivating friendliness (maitri), compassion (karuna), joy (mudita), and equanimity (upeksha) toward others. This directly improves relationships and social interactions, reducing stress caused by the psycho-social environment. Ishwara Pranidhana – Surrender to a higher reality reduces ego-driven stress, but it is more about spiritual relief than direct social stress management. Kriya Yoga (PYS 2.1) – Tapas, Svadhyaya, Ishwara Pranidhana → a broader discipline for reducing kleshas (afflictions), not specifically targeted to social stress. Pratipaksha Bhavana (PYS 2.33) – Cultivating the opposite thought is indeed useful for negative thinking, but Patanjali originally framed it more as an internal cognitive practice against harmful tendencies rather than a primary tool for psycho-social harmony."
+  },
+  {
+    "question": "Nasya is",
+    "options": [
+      "Putting oil in the Nose",
+      "Oil Pulling",
+      "Jala Neti",
+      "Blowing the nose first thing in the morning"
+    ],
+    "correctIndex": 0,
+    "description": "Nasya is one of the Shatkarma / Panchakarma practices in Ayurveda & Yoga. It involves instilling medicated oil, ghee, or herbal preparations into the nostrils. Benefits: cleanses sinuses, improves breathing, enhances concentration, relieves headaches, and balances doshas (especially Kapha in the head region). Oil pulling → called Gandusha/Kavala (swishing oil in the mouth). Jala Neti → nasal cleansing with lukewarm saline water. Blowing the nose in the morning → not a yogic kriya, just hygiene."
+  },
+  {
+    "question": "Kshaura Karma is",
+    "options": [
+      "Deodorants, perfumes, face-pack, etc.",
+      "Defecation and Urination",
+      "Regular cutting of hair, nail, etc.",
+      "Body massage with Oil"
+    ],
+    "correctIndex": 2,
+    "description": "Kshaura Karma (क्षौर कर्म) in Ayurveda and Yoga refers to: Regular grooming practices such as cutting/trimming of hair, beard, and nails. Considered part of Dinacharya (daily regimen) for maintaining hygiene and health. Helps prevent infections, keeps the body clean, and supports a sattvic (balanced) lifestyle. Defecation and urination → is Mala Tyaga (excretion). Deodorants, perfumes, face-pack → part of Gandha, Lepana (beautification practices). Body massage with oil → is Abhyanga."
+  },
+  {
+    "question": "Which kriya helps in ensuring mouth health?",
+    "options": [
+      "Gargling",
+      "Smoke Inhaling",
+      "Herbs Chewing",
+      "Oil Pulling"
+    ],
+    "correctIndex": 3,
+    "description": "In Ayurveda & Yoga, this practice is called Gandusha / Kavala. Involves holding (gandusha) or swishing (kavala) oil in the mouth (commonly sesame or coconut oil). Benefits: strengthens gums, prevents cavities, removes toxins, freshens breath, improves oral and overall health. Gargling (Kavala with decoctions/salt water) → also beneficial, but oil pulling is specifically highlighted for mouth health. Smoke inhaling (Dhuma) → used for clearing head channels, not directly for oral hygiene. Herbs chewing (Tambula, neem sticks, etc.) → helps, but not as comprehensive as oil pulling."
+  },
+  {
+    "question": "Vasant Ritu (Spring) occurs",
+    "options": [
+      " Mid-Jan to Mid-March",
+      "Mid-March to Mid-May",
+      "Mid-May to Mid-July",
+      "Mid-July to Mid-September"
+    ],
+    "correctIndex": 1,
+    "description": "1. Shishira → Mid-Jan to Mid-March; 2. Vasanta (Spring) → Mid-March to Mid-May; 3. Grishma (Summer) → Mid-May to Mid-July; 4. Varsha (Monsoon) → Mid-July to Mid-Sept; 5. Sharad (Autumn) → Mid-Sept to Mid-Nov; 6. Hemanta (Early Winter) → Mid-Nov to Mid-Jan"
+  },
+  {
+    "question": "Dinacharya and Ritucharya is for",
+    "options": [
+      "Grihastha",
+      "Vidyarthi",
+      "Males",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Dinacharya (daily regimen) and Ritucharya (seasonal regimen) are universal Ayurvedic practices recommended for everyone: Males & Females, Grihastha (householders), Students (Vidyarthi), Sanyasis. Applicable to all stages of life to maintain health, prevent diseases, strengthen body & mind. Dinacharya → maintains daily balance of doshas, promotes longevity. Ritucharya → adapts lifestyle and diet to seasonal changes, preventing seasonal imbalances and diseases."
+  },
+  {
+    "question": "Match the following: A. Shishira - A. Astringent, B. Vasanta - B. Sour, C. Greeshma - C. Bitter, D. Varsha - D. Pungent",
+    "options": [
+      "A-B, B-A, C-D, D-C",
+      "A-C, B-A, C-D, D-B",
+      "A-C, B-A, C-B, D-D",
+      "A-C, B-D, C-B, D-A"
+    ],
+    "correctIndex": 1,
+    "description": "Shishira (Late Winter) → predominance of Kapha → astringent taste helps balance Kapha. Vasanta (Spring) → Kapha aggravates → sour taste helps balance Kapha. Greeshma (Summer) → Pitta aggravates → bitter taste helps pacify Pitta. Varsha (Monsoon) → Vata aggravates → pungent taste helps balance Vata."
+  },
+  {
+    "question": "Which dosha accumulates in Winter and aggravates in Spring?",
+    "options": [
+      "Vata",
+      "Kapha",
+      "Pitta",
+      "A & C"
+    ],
+    "correctIndex": 1,
+    "description": "Kapha accumulates in winter due to cold, heavy, damp qualities in the environment. It aggravates in spring when the warmth starts melting accumulated kapha, leading to symptoms like allergies, cough, cold, and congestion. Vata accumulates in late summer and aggravates in rainy season. Pitta accumulates in rainy season and aggravates in autumn."
+  },
+  {
+    "question": "Abhyanga should be done immediately after attending to natural urges (Malotsarga).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "Although Abhyanga is part of Dinacharya, it is not done immediately after malotsarga. The sequence is: Wake up (Brahma Muhurta) ->  Malotsarga (evacuation of natural urges) -> Danta dhavana (brushing), Jihva nirlekhan (tongue cleaning), Gandusha/Kavala (mouth rinsing), Nasya etc. ->  Then Abhyanga (oil massage) -> Vyayama (exercise), Udvartana -> Snana (bath)."
+  },
+  {
+    "question": "Pitta dosha aggravates in which season?",
+    "options": [
+      "Autumn",
+      "Winter",
+      "Spring",
+      "Summer"
+    ],
+    "correctIndex": 0,
+    "description": "Kapha → Accumulates in Winter, aggravates in Spring. Pitta → Accumulates in Rainy season (Varsha), aggravates in Autumn (Sharad) due to the lingering heat after the rains. Vata → Accumulates in Summer, aggravates in Rainy season."
+  },
+  {
+    "question": "Hemanta ritu occurs",
+    "options": [
+      "Mid-November to Mid-January",
+      "Mid-January to Mid-March",
+      "Mid-September to Mid-November",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "In Ayurveda, the Ritu (seasonal cycle) is divided into 6 seasons (2 months each): 1. Shishira (Late Winter) → Mid-Jan to Mid-Mar; 2. Vasanta (Spring) → Mid-Mar to Mid-May; 3. Grishma (Summer) → Mid-May to Mid-Jul; 4. Varsha (Rainy/Monsoon) → Mid-Jul to Mid-Sep; 5. Sharad (Autumn) → Mid-Sep to Mid-Nov; 6. Hemanta (Early Winter) → Mid-Nov to Mid-Jan"
+  },
+  {
+    "question": "Tridosha refers to",
+    "options": [
+      "Vata, Pitta, Kapha",
+      "Asmita, Raga, Dwesha",
+      "Vyadhi, Pramada, Alasya",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Tridosha refers to the three fundamental bio-energies of the body in Ayurveda: Vata → principle of movement (air + ether); Pitta → principle of transformation (fire + water); Kapha → principle of stability & structure (water + earth)."
+  },
+  {
+    "question": "When Pitta abnormally decreases",
+    "options": [
+      "Gastric fire will be reduced",
+      "Loss of sensation will occur",
+      "Dizziness will occur",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Agni mandya → gastric fire reduces, appetite weakens. Loss of sensation / lack of discrimination → since Pitta governs vision, perception, and clarity, its depletion can dull senses. Dizziness / fainting → due to poor transformation/metabolism and weakened heat production."
+  },
+  {
+    "question": "Kapha is at its peak during",
+    "options": [
+      "Brahma Muhurta",
+      "Morning and Evening",
+      "Late Night",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "According to Ayurveda – Dosha & Kala (time of day): Kapha dominates 6 am – 10 am and 6 pm – 10 pm → heaviness, sluggishness, lethargy. Pitta dominates 10 am – 2 pm and 10 pm – 2 am → sharp digestion, metabolism, alertness. Vata dominates 2 am – 6 am and 2 pm – 6 pm → activity, movement, creativity."
+  },
+  {
+    "question": "Which Vayu is responsible for digestion?",
+    "options": [
+      "Prana",
+      "Samana",
+      "Udana",
+      "Apana"
+    ],
+    "correctIndex": 1,
+    "description": "In Ayurveda, Vata dosha has 5 subtypes (Pancha Vayu): 1. Prana Vayu → respiration, sensory perception, mind control; 2. Udana Vayu → speech, effort, memory, enthusiasm; 3. Samana Vayu → located near the digestive fire; responsible for digestion, absorption, assimilation of food; 4. Apana Vayu → excretion, urination, menstruation, childbirth; 5. Vyana Vayu → circulation, locomotion, distribution of nutrients."
+  },
+  {
+    "question": "Which Pitta is responsible for the luster of the skin?",
+    "options": [
+      "Pachaka Pitta",
+      "Ranjaka Pitta",
+      " Bhrajaka Pitta",
+      "Alochaka Pitta"
+    ],
+    "correctIndex": 2,
+    "description": "The five types of Pitta (sub-doshas): 1. Pachaka Pitta → digestion & metabolism in the stomach/intestine; 2. Ranjaka Pitta → gives color to blood, located in liver/spleen; 3.  Bhrajaka Pitta → located in the skin, responsible for luster, complexion, and absorption of external applications (oils, medicines); 4.  Alochaka Pitta → vision, perception of light, located in the eyes; 5. Sadhaka Pitta → intellect, emotions, located in the heart."
+  },
+  {
+    "question": "Which Kapha has the binding property?",
+    "options": [
+      "Sleshka Kapha",
+      "Kledaka Kapha",
+      "Tarpaka Kapha",
+      "Avalambaka Kapha"
+    ],
+    "correctIndex": 0,
+    "description": "The five types of Kapha (sub-doshas): 1.  Kledaka Kapha → in stomach, moistens & protects food; 2. Avalambaka Kapha → in chest/heart, supports and provides strength; 3.  Tarpaka Kapha → in head, nourishes sense organs & mind; 4.  Bodhaka Kapha → in mouth/tongue, helps in taste perception; 5. Śleṣaka Kapha → in joints, provides binding, lubrication, and cohesion of bones & joints."
+  },
+  {
+    "question": "Which one is not a Dhatu?",
+    "options": [
+      "Rasa",
+      "Meda",
+      "Sukra",
+      "Agni"
+    ],
+    "correctIndex": 3,
+    "description": "According to Ayurveda, the seven Dhatus (tissues) are: 1. Rasa (plasma/lymph); 2. Rakta (blood);  3. Mamsa (muscle); 4. Meda (fat); 5. Asthi (bone); 6. Majja (marrow/nervous tissue); 7. Shukra (reproductive tissue). Agni refers to digestive/metabolic fire, not a dhatu."
+  },
+  {
+    "question": "Father of Surgery as per Ayurveda is",
+    "options": [
+      "Sushruta",
+      "Charaka",
+      "Patanjali",
+      "Ashwini Kumar"
+    ],
+    "correctIndex": 0,
+    "description": "Sushruta is known as the Father of Surgery in Ayurveda. He authored the Sushruta Samhita, which details: Surgical instruments (Shalya Yantra), Surgical techniques (Shalya Tantra), Wound management, fractures, and anatomy. Charaka → Father of Medicine, mainly Ayurveda internal medicine (Chikitsa). Patanjali → Author of Yoga Sutras. Ashwini Kumar → Divine physicians in mythology."
+  },
+  {
+    "question": "Which one is not a mala?",
+    "options": [
+      "Pureesha",
+      "Mootra",
+      "Sveda",
+      "Sukra"
+    ],
+    "correctIndex": 3,
+    "description": "In Ayurveda, Mala refers to waste products of the body that are excreted: Purisha → feces, Mutra → urine, Sveda → sweat. Shukra is a Dhatu (reproductive tissue), not a waste product, so it is not a Mala."
+  },
+  {
+    "question": "Vata auto-pacifies in ",
+    "options": [
+      "Autumn (Sharad Ritu)",
+      "Summer (Grishma Ritu)",
+      "The rainy season (Varsha Ritu)",
+      "Winter (Hemant Ritu)"
+    ],
+    "correctIndex": 0,
+    "description": "Seasonal Dosha Cycle: 1. Vata -> Accumulation (Sanchaya): Summer (Grishma); Aggravation (Prakopa): Rainy season (Varsha); Pacification (Prashama): Autumn (Sharad). 2. Pitta -> Accumulates: Rainy season (Varsha); Aggravates: Autumn (Sharad); Pacifies: Early winter (Hemanta). 3. Kapha -> Accumulates: Late winter (Shishira); Aggravates: Spring (Vasanta); Pacifies: Summer (Grishma)."
+  },
+  {
+    "question": "Trayopstambha includes",
+    "options": [
+      "Ahara",
+      "Nidra",
+      "Dhyana",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "Trayopasthambha (the three supporting pillars of life) as per Ayurveda are: 1. Ahara → food/diet; 2. Nidra → sleep; 3. Brahmacharya → regulated celibacy/controlled use of sexual energy. These three maintain health, strength, and longevity when practiced properly."
+  },
+  {
+    "question": "Proper diet, digestion, and elimination are paramount to our well-being",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "Ahara (diet/food) → is considered the first pillar of health. Agni (digestive fire) → governs digestion, absorption, assimilation. Balanced Agni = health; disturbed Agni = root of disease. Mala (elimination of wastes – purisha, mutra, sveda) → ensures proper cleansing and balance in the body. So, proper diet, good digestion, and regular elimination form the foundation of well-being."
+  },
+  {
+    "question": "The vital energy that protects the body and mind from disease and gives us great vigor and longevity",
+    "options": [
+      "Ojas",
+      "Rajas",
+      "Sattva",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Ojas → the vital essence of all the Dhatus, the subtle energy that sustains life, protects body and mind from disease, and gives immunity, vigor, strength, and longevity. Rajas & Sattva → are gunas of the mind (qualities of consciousness), not the vital energy of the body. Sattva → purity, harmony, clarity. Rajas → activity, restlessness, passion."
+  },
+  {
+    "question": "Charak Samhita is written by",
+    "options": [
+      "Maharishi Charaka",
+      "Maharishi Sushruta",
+      "Maharishi Patanjali",
+      "Maharishi Veda Vyasa"
+    ],
+    "correctIndex": 0,
+    "description": "Charaka Samhita → one of the three great Brihatrayi texts of Ayurveda, mainly focused on internal medicine (Kaya Chikitsa). Authored by Maharishi Charaka. Sushruta Samhita → authored by Maharishi Sushruta, focused on surgery (Shalya Tantra). Yoga Sutras → authored by Maharishi Patanjali. Mahabharata, Bhagavata Purana, etc. → attributed to Maharishi Veda Vyasa."
+  },
+  {
+    "question": "The way we engage in action is as impactful as the action itself.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Sure",
+      "May be"
+    ],
+    "correctIndex": 0,
+    "description": "In both Ayurveda and Yoga philosophy (Bhagavad Gita, Patanjali Yoga Sutras), not only the action (karma) but also the intention, attitude, and awareness with which we perform it determine its impact. Right food + eaten with wrong attitude → still harms. Same action, done with mindfulness and dharmic intent → nourishes body and mind. Bhagavad Gita emphasizes “Yogasthaḥ kuru karmāṇi” → act while being established in yoga."
+  },
+  {
+    "question": "When ___ is depleted, Ojas is Depleted.",
+    "options": [
+      "Blood",
+      "Shukra",
+      "Meda",
+      "Rasa"
+    ],
+    "correctIndex": 1,
+    "description": "Ojas is considered the essence of all seven dhatus (tissues). It is especially connected with the last dhatu – Shukra (reproductive tissue). When Shukra is depleted, the essence (Ojas) is also depleted → leading to fatigue, low immunity, loss of vigor, and shortened lifespan."
+  }
+]

@@ -69,9 +69,7 @@
     "question": "What is the function of artery?",
     "options": [
       "To transport oxygen rich blood from heart to body",
-      "To transport oxygen poor blood from body",
-      "NA",
-      "NA"
+      "To transport oxygen poor blood from body"
     ],
     "correctIndex": 0,
     "description": "Arteries usually carry oxygenated blood away from the heart (except pulmonary artery which carries deoxygenated blood)."
@@ -300,9 +298,7 @@
     "question": "Skin is the site for Vitamin D synthesis.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "The skin plays a key role in Vitamin D synthesis: When exposed to UV-B rays from sunlight, the skin converts 7-dehydrocholesterol into Vitamin D₃ (cholecalciferol). This is later activated in the liver and kidneys into calcitriol, the biologically active form of Vitamin D."

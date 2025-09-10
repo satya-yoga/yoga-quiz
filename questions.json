@@ -1,1 +1,108 @@
-[]
+[
+  {
+    "question": "The best time to wake up as per Ayurveda is",
+    "options": [
+      "Brahma Muhurta",
+      " As per your situation",
+      "After Sunrise",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Brahma Muhurta = about 1.5 hours before sunrise (roughly between 4:00–6:00 am depending on season and place). Ayurveda and Yoga recommend waking up at this time because: Vata predominates → mind is fresh, clear, creative; best time for meditation, study, yoga, pranayama; supports longevity, health, and spiritual growth. Waking after sunrise increases Kapha → heaviness, sluggishness."
+  },
+  {
+    "question": "Being lethargic, stagnant, and excessively sleepy is the sign of",
+    "options": [
+      "Imbalance in Kapha",
+      "Imbalance in Vata",
+      "Imbalance in Pitta",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Kapha dosha → heavy, slow, cold, stable, and moist in nature. When Kapha is imbalanced, it leads to: Lethargy, sluggishness, heaviness, excessive sleepiness, stagnation in body and mind. Vata imbalance → anxiety, dryness, restlessness. Pitta imbalance → irritability, inflammation, acidity."
+  },
+  {
+    "question": "In order to ensure that the food works best for our body, we should ensure",
+    "options": [
+      "Proper combination",
+      "Proper timing",
+      "Mindful eating",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "According to Ayurveda: 1. Proper combination (Ahara Samyoga) → Certain foods combine better than others to aid digestion and prevent toxins (Ama); 2. Proper timing (Ahara Kala) → Eating at the right time, when digestive fire (Agni) is optimal, ensures best assimilation; 3. Mindful eating (Satmya and Awareness) → Paying attention while eating, chewing properly, and avoiding stress enhances digestion and absorption."
+  },
+  {
+    "question": "As per Ayurveda, one should not indulge in sexual activity at all.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 1,
+    "description": "Ayurveda does not prohibit sexual activity. It recommends moderation and regulation (Brahmacharya) according to one’s age, strength, health, and life stage. Proper sexual conduct: Maintains health, vitality, and Ojas. It prevents depletion of Shukra dhatu and Ojas. Excessive or uncontrolled indulgence → weakens body, mind, and immunity."
+  },
+  {
+    "question": "The application of oil on the body is called",
+    "options": [
+      "Abhyanga",
+      "Nasya",
+      "Udvartana",
+      "Mardana"
+    ],
+    "correctIndex": 0,
+    "description": "Abhyanga → application of medicated or plain oil on the entire body, usually as part of Dinacharya (daily routine) in Ayurveda. Benefits: nourishes tissues (Dhatus), balances Vata and Kapha, improves circulation and skin texture, promotes longevity and strength. Nasya → nasal administration of medicated oils. Udvartana → dry powder massage for slimming or Kapha reduction. Mardana → kneading or pressure massage."
+  },
+  {
+    "question": "Margha-Sheersha month is",
+    "options": [
+      "November",
+      "June",
+      "July",
+      "March"
+    ],
+    "correctIndex": 0,
+    "description": "Margha-Sheersha month corresponds to Margashirsha in the Hindu calendar. It generally falls between mid-November to mid-December. This month is considered important in Ayurveda for seasonal routines and spiritual practices."
+  },
+  {
+    "question": "Which dosha gets accumulated in Monsoon and aggravated in Autumn?",
+    "options": [
+      "Vata",
+      "Pitta",
+      "Kapha",
+      "All of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Pitta → hot, sharp, and oily in nature. Accumulation: During Varsha Ritu (Monsoon/Rainy season) because of moderate heat and humidity, Pitta starts building up. Aggravation: In Sharad Ritu (Autumn), when the heat of Pitta is no longer countered by rain, it aggravates, leading to symptoms like acidity, inflammation, skin eruptions, and irritability. Vata → accumulates in summer, aggravates in rainy season. Kapha → accumulates in winter, aggravates in spring."
+  },
+  {
+    "question": "The recommended tastes for Winter are",
+    "options": [
+      "Sweet, sour, and salty",
+      "Cold",
+      "Bitter",
+      "Pungent"
+    ],
+    "correctIndex": 0,
+    "description": "Winter (Shishira & Hemanta Ritu) → cold, heavy, and dry. To balance Vata and Kapha, Ayurveda recommends warming, nourishing, and oily foods. Sweet, sour, and salty tastes: provide warmth and energy, reduce dryness and cold effects, help maintain strength and immunity. Bitter & pungent → more suitable for summer (to pacify Pitta). Cold → aggravates Vata and Kapha in winter."
+  },
+  {
+    "question": "Heyam Dukham Anagatam refers to preventing the miseries which have not happened yet.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 0,
+    "description": "Heyam Dukham Anagatam is a concept from Ayurveda and Yoga philosophy. Misery, pain, or suffering that has not yet occurred can and should be prevented through proper lifestyle, diet, and spiritual practices. Related principle: Shamana (pacification) and Samshodhana (cleansing) to maintain balance and prevent future disease."
+  },
+  {
+    "question": "The phase of the disease when mild but persistent psychological and behavioural symptoms of stress like irritability, disturbed sleep, etc., are occurring is referred as",
+    "options": [
+      "Psychic Phase",
+      "Psycho-Somatic Phase",
+      "Somatic Phase d. Organic Phase",
+      "Organic Phase"
+    ],
+    "correctIndex": 0,
+    "description": "Stress and disease progression in Ayurveda and modern psychosomatic medicine is often divided into phases: 1. Psychic Phase: Mild but persistent psychological and behavioral symptoms. No overt physical symptoms yet (e.g., irritability, anxiety, disturbed sleep, low mood); 2. Psycho-somatic Phase: Psychological symptoms start affecting the body. Mild physical complaints appear (e.g., tension headaches, mild digestive issues); 3. Somatic Phase: Clear physical symptoms dominate. Disease manifests in the body; 4. Organic Phase: Permanent structural or functional damage occurs/ Often difficult to reverse."
+  }
+]

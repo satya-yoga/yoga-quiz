@@ -168,9 +168,7 @@
     "question": "Gita says that its okay to take up other people’s duty every now and then.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "BG 3.35 — śreyān sva-dharmo viguṇaḥ paradharmāt sv-anuṣṭhitāt — better to follow one’s own duty, even imperfectly, than another’s duty well."
@@ -234,9 +232,7 @@
     "question": "In this world whatever is gained is gained only by self-effort. Is this true as per Yoga Vāsiṣṭha?",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "Yoga Vāsiṣṭha strongly emphasizes self-effort (puruṣārtha) over destiny or fate."

@@ -124,9 +124,7 @@
     "question": "Kleshas are which generate pain in our experience. We are born with these with various degree.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "Kleshas (Avidya, Asmita, Raga, Dvesha, Abhinivesha) are inborn afflictions that cause pain and suffering. They manifest in different intensities."
@@ -278,9 +276,7 @@
     "question": "In Kapalbhati air is inhaled and exhaled repeatedly through the nostrils like a pair of bellows being pumped.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "The \"bellows-like\" pumping (both inhalation and exhalation forceful) is Bhastrika Pranayama. In Kapalabhati, only exhalation is active, and inhalation happens naturally."
@@ -322,9 +318,7 @@
     "question": "Kulattha (horse gram) is a prescribed food in HYP.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 1,
     "description": "HYP Ch1: 59 -> The foods which are prohibited (for the yogi) are: those which are bitter, sour, pungent, salty, heating, green vegetables (other than those ordained), sour gruel, oil, sesame and mustard, alcohol, fish, flesh foods, curds, buttermilk, horse gram, fruit of jujube, oil cakes, asafoetida and garlic. 62 -> (The most conducive foods for the yogi are:) good grains, wheat, rice, barley, milk, ghee, brown sugar, sugar candy (crystallized sugar), honey, dry ginger, patola fruit (species of cucumber), five vegetables, mung and such pulses, and pure water."
@@ -333,9 +327,7 @@
     "question": "The yogi should take nourishing and sweet food mixed with  ghee and milk, it should nourish the Dhatus and should be pleasing  and suitable. ",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "It is from HYP Chapter 1 - Verse 63"
@@ -344,9 +336,7 @@
     "question": "Bhagavad Gita considers the Right food very important as only then individuals can mitigate all sorrows.",
     "options": [
       "True",
-      "False",
-      "NA",
-      "NA"
+      "False"
     ],
     "correctIndex": 0,
     "description": "In Gita (17.8–10), food is classified as Sattvic, Rajasic, and Tamasic. Sattvic food leads to health, cheerfulness, strength, and reduces sorrow. "
@@ -531,9 +521,7 @@
     "question": "In Hatha, yoga practitioners are supposed to hold yoga postures with stubbornness even if it is hurting them.",
     "options": [
       "False, Hatha basically means the balancing of Ha and Tha (Ida & Pingala) and not only holding the asana",
-      "True",
-      "NA",
-      "NA"
+      "True"
     ],
     "correctIndex": 0,
     "description": "\"Ha\" = Sun (Pingala), \"Tha\" = Moon (Ida). Hatha is about balance, not blind force. Asana should be steady (sthira) and comfortable (sukham) as per PYS 2.46."
@@ -542,9 +530,7 @@
     "question": "Hatha Yoga is best suited for young adults.",
     "options": [
       "True",
-      "False, anyone from the age of 9 can practice Hatha Yoga",
-      "NA",
-      "NA"
+      "False, anyone from the age of 9 can practice Hatha Yoga"
     ],
     "correctIndex": 1,
     "description": "Hatha Yoga is suitable for all ages (children from 9+ years, adults, elderly) when practiced with modifications. Not limited to young adults."
