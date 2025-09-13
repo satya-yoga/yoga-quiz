@@ -1,0 +1,542 @@
+[
+  {
+    "question": "The best time to wake up as per Ayurveda is",
+    "options": [
+      "Brahma Muhurta",
+      " As per your situation",
+      "After Sunrise",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Brahma Muhurta = about 1.5 hours before sunrise (roughly between 4:00–6:00 am depending on season and place). Ayurveda and Yoga recommend waking up at this time because: Vata predominates → mind is fresh, clear, creative; best time for meditation, study, yoga, pranayama; supports longevity, health, and spiritual growth. Waking after sunrise increases Kapha → heaviness, sluggishness."
+  },
+  {
+    "question": "Being lethargic, stagnant, and excessively sleepy is the sign of",
+    "options": [
+      "Imbalance in Kapha",
+      "Imbalance in Vata",
+      "Imbalance in Pitta",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Kapha dosha → heavy, slow, cold, stable, and moist in nature. When Kapha is imbalanced, it leads to: Lethargy, sluggishness, heaviness, excessive sleepiness, stagnation in body and mind. Vata imbalance → anxiety, dryness, restlessness. Pitta imbalance → irritability, inflammation, acidity."
+  },
+  {
+    "question": "In order to ensure that the food works best for our body, we should ensure",
+    "options": [
+      "Proper combination",
+      "Proper timing",
+      "Mindful eating",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "According to Ayurveda: 1. Proper combination (Ahara Samyoga) → Certain foods combine better than others to aid digestion and prevent toxins (Ama); 2. Proper timing (Ahara Kala) → Eating at the right time, when digestive fire (Agni) is optimal, ensures best assimilation; 3. Mindful eating (Satmya and Awareness) → Paying attention while eating, chewing properly, and avoiding stress enhances digestion and absorption."
+  },
+  {
+    "question": "As per Ayurveda, one should not indulge in sexual activity at all.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 1,
+    "description": "Ayurveda does not prohibit sexual activity. It recommends moderation and regulation (Brahmacharya) according to one’s age, strength, health, and life stage. Proper sexual conduct: Maintains health, vitality, and Ojas. It prevents depletion of Shukra dhatu and Ojas. Excessive or uncontrolled indulgence → weakens body, mind, and immunity."
+  },
+  {
+    "question": "The application of oil on the body is called",
+    "options": [
+      "Abhyanga",
+      "Nasya",
+      "Udvartana",
+      "Mardana"
+    ],
+    "correctIndex": 0,
+    "description": "Abhyanga → application of medicated or plain oil on the entire body, usually as part of Dinacharya (daily routine) in Ayurveda. Benefits: nourishes tissues (Dhatus), balances Vata and Kapha, improves circulation and skin texture, promotes longevity and strength. Nasya → nasal administration of medicated oils. Udvartana → dry powder massage for slimming or Kapha reduction. Mardana → kneading or pressure massage."
+  },
+  {
+    "question": "Margha-Sheersha month is",
+    "options": [
+      "November",
+      "June",
+      "July",
+      "March"
+    ],
+    "correctIndex": 0,
+    "description": "Margha-Sheersha month corresponds to Margashirsha in the Hindu calendar. It generally falls between mid-November to mid-December. This month is considered important in Ayurveda for seasonal routines and spiritual practices."
+  },
+  {
+    "question": "Which dosha gets accumulated in Monsoon and aggravated in Autumn?",
+    "options": [
+      "Vata",
+      "Pitta",
+      "Kapha",
+      "All of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Pitta → hot, sharp, and oily in nature. Accumulation: During Varsha Ritu (Monsoon/Rainy season) because of moderate heat and humidity, Pitta starts building up. Aggravation: In Sharad Ritu (Autumn), when the heat of Pitta is no longer countered by rain, it aggravates, leading to symptoms like acidity, inflammation, skin eruptions, and irritability. Vata → accumulates in summer, aggravates in rainy season. Kapha → accumulates in winter, aggravates in spring."
+  },
+  {
+    "question": "The recommended tastes for Winter are",
+    "options": [
+      "Sweet, sour, and salty",
+      "Cold",
+      "Bitter",
+      "Pungent"
+    ],
+    "correctIndex": 0,
+    "description": "Winter (Shishira & Hemanta Ritu) → cold, heavy, and dry. To balance Vata and Kapha, Ayurveda recommends warming, nourishing, and oily foods. Sweet, sour, and salty tastes: provide warmth and energy, reduce dryness and cold effects, help maintain strength and immunity. Bitter & pungent → more suitable for summer (to pacify Pitta). Cold → aggravates Vata and Kapha in winter."
+  },
+  {
+    "question": "Heyam Dukham Anagatam refers to preventing the miseries which have not happened yet.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 0,
+    "description": "Heyam Dukham Anagatam is a concept from Ayurveda and Yoga philosophy. Misery, pain, or suffering that has not yet occurred can and should be prevented through proper lifestyle, diet, and spiritual practices. Related principle: Shamana (pacification) and Samshodhana (cleansing) to maintain balance and prevent future disease."
+  },
+  {
+    "question": "The phase of the disease when mild but persistent psychological and behavioural symptoms of stress like irritability, disturbed sleep, etc., are occurring is referred as",
+    "options": [
+      "Psychic Phase",
+      "Psycho-Somatic Phase",
+      "Somatic Phase d. Organic Phase",
+      "Organic Phase"
+    ],
+    "correctIndex": 0,
+    "description": "Stress and disease progression in Ayurveda and modern psychosomatic medicine is often divided into phases: 1. Psychic Phase: Mild but persistent psychological and behavioral symptoms. No overt physical symptoms yet (e.g., irritability, anxiety, disturbed sleep, low mood); 2. Psycho-somatic Phase: Psychological symptoms start affecting the body. Mild physical complaints appear (e.g., tension headaches, mild digestive issues); 3. Somatic Phase: Clear physical symptoms dominate. Disease manifests in the body; 4. Organic Phase: Permanent structural or functional damage occurs/ Often difficult to reverse."
+  },
+  {
+    "question": "The full manifestation of the disease is referred to as",
+    "options": [
+      "Psychic Phase",
+      "Psycho-Somatic Phase",
+      "Somatic Phase",
+      "Organic Phase"
+    ],
+    "correctIndex": 3,
+    "description": "Psychic Phase → only mild psychological/behavioral symptoms (irritability, disturbed sleep). Psycho-somatic Phase → psychological symptoms begin influencing the body, early functional disturbances appear. Somatic Phase → the disease is fully manifested with clear physical symptoms. Organic Phase → long-standing disease leads to structural/organic damage to tissues or organs."
+  },
+  {
+    "question": "Tapatraya refers to",
+    "options": [
+      "Adhyatmik",
+      "Adhibhautik",
+      "Adhidevik",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "1) Adhyātmika (internal/self-caused): Originates from the body or mind; E.g., disease, stress, anxiety. 2) Adhibhautika (external/environmental): Caused by other beings or environment; E.g., injury, accidents, animals, enemies. 3) Adhidaivika (divine/natural): Beyond human control; E.g., natural calamities, seasonal changes, fate, planetary influences."
+  },
+  {
+    "question": "Adhi is",
+    "options": [
+      "Mental Stress",
+      "Physical Disease",
+      "Saṃśhaya",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "In Ayurveda & Yoga psychology: Adhi = mental disturbance or stress arising from wrong thinking, worry, fear, desire, or imbalance of mind (Rajas & Tamas). When Adhi persists, it can manifest as Vyadhi (physical disease). This is the basis of Adhi-Vyadhi Samprapti (psychosomatic origin of disease)."
+  },
+  {
+    "question": "Stress is referred to by Patanjali as",
+    "options": [
+      "Sahbhuvas",
+      "Antaryaya",
+      "Klesha",
+      "Vritti"
+    ],
+    "correctIndex": 0,
+    "description": "Kleshas = root causes of suffering (ignorance, ego, attachment, aversion, fear). Antarayas = obstacles in yoga practice. Vrittis = modifications of mind. Sahabhūvas = manifestations of stress (duḥkha, daurmanasya, aṅgamejayatva, śvāsa-praśvāsa)."
+  },
+  {
+    "question": "Number of Petals in Anahata Chakra is",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "12"
+    ],
+    "correctIndex": 3,
+    "description": "4 → Muladhara; 6 → Svadhisthana; 10 → Manipura; 12 → Anahata; 16 → Vishuddha; 2 → Ajna; 1000 → Sahasrara"
+  },
+  {
+    "question": "Ajna Chakra is represented by which of these colors",
+    "options": [
+      "Indigo",
+      "Violet",
+      "Green",
+      "Orange"
+    ],
+    "correctIndex": 0,
+    "description": "Red (Muladhara), Orange (Svadhisthana), Yellow (Manipura), Green (Anahata), Blue (Vishuddha), Indigo (Ajna), Violet (Sahasrara)"
+  },
+  {
+    "question": "Beeja Mantra for Vishuddhi is",
+    "options": [
+      "Ham",
+      "Om",
+      "Lam",
+      "Hraum"
+    ],
+    "correctIndex": 0,
+    "description": "The mantras often have “m” endings and are linked with the chakra’s vibration: Lam → Lower (Muladhara); Vam → Vitality/Water (Svadhisthana); Ram → Radiance/Sun (Manipura); Yam → You/Heart (Anahata); Ham → Heart-throat connection (Vishuddha); Om → Ultimate sound, intuition and consciousness (Ajna & Sahasrara)."
+  },
+  {
+    "question": "Mooladhar Chakra is connected with which kosha?",
+    "options": [
+      "Annamaya Kosha",
+      "Pranamaya Kosha",
+      "Manomaya Kosha",
+      "Vijnanamaya Kosha"
+    ],
+    "correctIndex": 0,
+    "description": "Mūlādhāra Chakra is the foundation, located at the base of the spine. It relates to survival, stability, physical body, food, and shelter. Annamaya Kośa = the \"food sheath,\" i.e., the physical body built from food (Anna = food). Since Mūlādhāra governs our grounding in the material/physical plane, it is directly connected to the Annamaya Kośa."
+  },
+  {
+    "question": "Manipura chakra is connected with which of these glands?",
+    "options": [
+      "Pancreas",
+      "Adrenal",
+      "Pituitary",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "Maṇipūra Chakra (Solar Plexus): Location: Navel/solar plexus region. Function: Fire element (Agni) → digestion, metabolism, willpower, transformation. It controls Stomach, liver, pancreas, adrenal glands. Endocrine glands linked: Pancreas → regulates sugar metabolism (main association). Adrenal glands (especially adrenal cortex, sitting above kidneys) → produce stress hormones, also tied to energy regulation."
+  },
+  {
+    "question": "Kundalini Shakti is coiled with",
+    "options": [
+      "3 coil",
+      "3 and a half coil",
+      "2 and a half coil",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Kundalinī is said to rest dormant in the Mūlādhāra Chakra (root chakra). The scriptures describe her as a serpent coiled 3½ times around the svayambhu liṅga at the base of the spine. The 3 coils represent the three guṇas (Sattva, Rajas, Tamas). The ½ coil represents transcendence, beyond the guṇas (leading to liberation)."
+  },
+  {
+    "question": "Which of these can be considered as factors of education?",
+    "options": [
+      "Teacher",
+      "Students",
+      "School",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "Teacher → guides, instructs, inspires. Students → the receivers and participants in the learning process. School is an important agency/institution of education, but not a direct factor - it provides the environment."
+  },
+  {
+    "question": "Who was the Guru of Shri Krishna?",
+    "options": [
+      "Vaishampayan",
+      "Yajnavalkya",
+      "Sandipani",
+      "Vashishtha"
+    ],
+    "correctIndex": 2,
+    "description": "As per Bhāgavata Purāṇa and Mahābhārata, Shri Krishna and his brother Balarāma studied under Guru Sandipani in Avanti (modern Ujjain). They mastered the Vedas, Vedāṅgas, martial arts, 64 kalās (arts), and spiritual knowledge in a very short time. As Guru Dakṣiṇā, Krishna brought back Sandipani’s son from Yama’s abode."
+  },
+  {
+    "question": "Yoga helps in getting rid of rigidity from the body and mind",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 0,
+    "description": "Physical aspect: Through āsanas (postures) and prāṇāyāma (breathing practices), yoga improves flexibility, mobility, and circulation, thus removing rigidity and stiffness from the body. Mental aspect: Through dhyāna (meditation) and pratyāhāra (sense withdrawal), yoga calms the mind, reduces stress, and helps overcome mental rigidity, fixed patterns, and stress-induced tension."
+  },
+  {
+    "question": "In the context of word GuRu, Gu means and Ru means",
+    "options": [
+      "Light, Shadow",
+      "Shadow, Light",
+      "Darkness, Knowledge",
+      "B & C"
+    ],
+    "correctIndex": 3,
+    "description": "In the context of the word Guru, the term is derived from two Sanskrit syllables: Gu = darkness or ignorance; Ru = remover or dispeller. Therefore, Guru means "one who removes darkness", specifically the darkness of ignorance. A Guru is traditionally understood as a spiritual teacher or guide who dispels the darkness of ignorance and leads the disciple toward knowledge and enlightenment."
+  },
+  {
+    "question": "Guru-Shishya Parampara was very prevalent in earlier times. It is mentioned in",
+    "options": [
+      "Mandukya Upanishad",
+      "Mundaka Upanishad",
+      "Brihad-Aranyaka",
+      "Talvakra Upanishad"
+    ],
+    "correctIndex": 1,
+    "description": "In the Muṇḍaka Upaniṣad (1.2.12–13), it is said that one who seeks higher knowledge should approach a Guru with humility, fuel (samidha), and devotion."
+  },
+  {
+    "question": "Brahma taught the Brahma Vidya to his son",
+    "options": [
+      "Atharva",
+      "Satyavaha",
+      "Angiras",
+      "Bhardwaj"
+    ],
+    "correctIndex": 0,
+    "description": "Brahmā, the creator, first manifested and taught Brahmavidyā (knowledge of the Absolute, foundation of all knowledge) to his eldest son Atharva (Brahmā → Atharva → Angiras → Satyavaha)."
+  },
+  {
+    "question": "An Ideal Yoga Teacher should have qualities like",
+    "options": [
+      "Knowledge",
+      "Pleasant Personality",
+      "Personal Fitness",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Knowledge - Deep understanding of Yoga philosophy, practices, and anatomy. Pleasant Personality - Compassion, patience, and the ability to inspire students. Personal Fitness - Practicing what they teach; being physically and mentally balanced."
+  },
+  {
+    "question": "Conscientiousness refers to traits like",
+    "options": [
+      "Quiet and Reserved",
+      "High level of thoughtfulness",
+      "Overly-Talkative",
+      "Dramatic shift in mood"
+    ],
+    "correctIndex": 1,
+    "description": "Conscientiousness (from the Big Five personality traits) refers to being thoughtful, organized, responsible, and goal-oriented. The Big Five Personality Traits (also called OCEAN) are widely used in psychology to describe human personality. Mnemonic to remember OCEAN: Only Cats Eat At Night → Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism."
+  },
+  {
+    "question": "The nature of Stress can be categorized as",
+    "options": [
+      "Eustress",
+      "Distress",
+      "Episodic stress",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "Stress can be broadly categorized into two main types: 1. Eustress – Positive stress; Motivates, enhances performance, helps in growth and adaptation (ex: preparing for an important exam or a challenging project). 2. Distress – Negative stress; Causes anxiety, decreases performance, and can harm health (ex: Chronic workload pressure, relationship problems). Episodic stress is a subtype or pattern of stress, but the main categories are Eustress and Distress."
+  },
+  {
+    "question": "The short term stress which is produced by sudden positive impulse is referred as",
+    "options": [
+      "Eustress",
+      "Distress",
+      "Acute Stress",
+      "Chronic Stress"
+    ],
+    "correctIndex": 0,
+    "description": "Eustress - This is positive stress that motivates and improves performance. Distress - Negative stress, harmful to body and mind. Acute Stress - Short-term stress, can be positive or negative, but the key is duration, not whether it’s positive. Chronic Stress - Long-term stress, usually negative."
+  },
+  {
+    "question": "High-stress levels for an extended period of time leads to",
+    "options": [
+      "Eustress",
+      "Distress",
+      "Acute Stress",
+      "Chronic Stress"
+    ],
+    "correctIndex": 3,
+    "description": "Chronic Stress occurs when stress is high and persistent over a long period. It can lead to physical and mental health issues such as: hypertension, heart problems, anxiety, depression, sleep disturbances, fatigue. Eustress → positive, short-term stress. Distress → negative stress (short- or long-term). Acute Stress → short-term stress from sudden events."
+  },
+  {
+    "question": "The command center of the body is",
+    "options": [
+      "Pineal",
+      "Hypothalamus",
+      "Adrenal Gland",
+      "Pituitary"
+    ],
+    "correctIndex": 1,
+    "description": "The hypothalamus is often called the command center of the body because it: regulates homeostasis (temperature, hunger, thirst, sleep), controls the endocrine system via the pituitary gland, integrates signals from the nervous system and hormonal system. Other glands: Pituitary – “Master gland,” secretes hormones under hypothalamic control; Pineal – regulates melatonin and circadian rhythm; Adrenal – produces stress hormones like cortisol and adrenaline."
+  },
+  {
+    "question": "Which system triggers “Rest & Digest” response?",
+    "options": [
+      "Sympathetic Nervous System",
+      "Hypothalamus",
+      "Parasympathetic Nervous System",
+      "Central Nervous System"
+    ],
+    "correctIndex": 2,
+    "description": "The Autonomic Nervous System (ANS) has two divisions: 1. Sympathetic Nervous System (SNS) → “Fight or Flight” response; 2. Parasympathetic Nervous System (PNS) → “Rest and Digest” response. Parasympathetic functions: slows heart rate,  stimulates digestion and salivation,  promotes energy conservation and relaxation."
+  },
+  {
+    "question": "High levels of cortisol can wear down the brain’s ability to function properly.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "Cortisol is a stress hormone released by the adrenal glands during stressful situations. Short-term cortisol release is helpful: boosts alertness, energy, and immune response. High levels of cortisol over long periods (chronic stress) can: impair memory and learning (affects the hippocampus), reduce brain plasticity and cognitive function, increase risk of anxiety, depression, and other mental health issues."
+  },
+  {
+    "question": "Which asana is excellent for stress management?",
+    "options": [
+      "Chakrasana",
+      "Shavasana",
+      "Makrasana",
+      "Balasana"
+    ],
+    "correctIndex": 1,
+    "description": "Shavasana (Corpse Pose) is a deep relaxation asana. Benefits for stress management: calms the nervous system, lowers cortisol levels, reduces mental tension and anxiety, promotes physical and mental relaxation. Chakrasana – Backbend, energizing, not primarily for relaxation. Makrasana – Less commonly used, gentle prone pose. Balasana (Child’s Pose) – Relaxes body, but Shavasana is the ultimate restorative pose."
+  },
+  {
+    "question": "Which pranayama is excellent for stress management?",
+    "options": [
+      "Bhramari",
+      "Chandrabhedi",
+      "Sheetali",
+      "Plavini"
+    ],
+    "correctIndex": 0,
+    "description": "Bhramari (Humming Bee Breath) is especially effective for stress, anxiety, and mental tension. Benefits: Calms the nervous system, reduces cortisol levels, promotes mental relaxation and focus, helps in controlling anger and agitation."
+  },
+  {
+    "question": "One of the first physical manifestation of the stress is",
+    "options": [
+      "Stiff Shoulders",
+      "Constipation",
+      "Dark Circles",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "The first physical manifestations of stress can include stiff shoulders, constipation, and dark circles, although stiff shoulders and muscle tension are particularly common early symptoms."
+  },
+  {
+    "question": "A Disorder is caused due to presence of Disease in the body.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "A disorder is defined as a disruption of normal physiological function and can occur with or without a specific disease; it is not always caused by the presence of a disease. Diseases typically have specific known causes, whereas disorders may or may not have a definite cause and can exist independently of diseases. Diseases: Malaria, Tuberculosis; Disorder: Anxiety disorder, Post-Traumatic Stress Disorder."
+  },
+  {
+    "question": "Which of these practices are contraindicatory in Acidity?",
+    "options": [
+      "Shavasana",
+      "Agnisara Kriya",
+      "Vaman Dhauti",
+      "Mandukasana"
+    ],
+    "correctIndex": 1,
+    "description": "Shavasana – Relaxation posture, reduces stress (a root cause of acidity). Agnisara Kriya – Strongly stimulates digestive fire (Agni) by contracting and expanding the abdomen. This increases production of gastric juices → worsens acidity. Vaman Dhauti (Kunjal Kriya) – In yogic therapy, this is actually prescribed in chronic hyperacidity to expel excess acid. Mandukasana – Stimulates pancreas, improves digestion, but does not aggravate acidity directly. Some sources list it as useful in indigestion and diabetes."
+  },
+  {
+    "question": "Which of these practices are highly suggested for Constipation?",
+    "options": [
+      "Mandukasana",
+      "Agnisar Kriya",
+      "Paschimottasana",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Agnisar Kriya -> Involves rapid abdominal contractions → stimulates digestive fire & peristalsis, highly recommended for constipation; Mandukasana ->  Stimulates abdominal organs, pancreas, and digestion. Helps release gas and improve bowel movement, useful in constipation; Paschimottanasana ->  Forward bend compresses abdomen → stimulates intestines and digestion. Regular practice helps relieve constipation, effective."
+  },
+  {
+    "question": "What are the types of IBS?",
+    "options": [
+      "Diarrhoea Predominant",
+      "Piles",
+      "Constipation Predominant",
+      "A & C"
+    ],
+    "correctIndex": 3,
+    "description": "Irritable Bowel Syndrome (IBS) is a functional gastrointestinal disorder with different subtypes: IBS-D (Diarrhoea Predominant) – loose stools, urgency, frequent bowel movements; IBS-C (Constipation Predominant) – infrequent, hard stools, difficulty passing motion; IBS-M (Mixed type) – alternating constipation and diarrhoea; IBS-U (Unclassified type) – does not clearly fit in the above patterns. Piles (hemorrhoids) is a separate condition, not a type of IBS."
+  },
+  {
+    "question": "Udara Shakti Vikasaka is beneficial in",
+    "options": [
+      "Lower back pain",
+      "Constipation",
+      "Stomach Ulcers",
+      "Pregnancy"
+    ],
+    "correctIndex": 1,
+    "description": "Udara Shakti Vikasaka (abdominal strengthening practices) improve digestion, activate the intestines, and relieve constipation by stimulating peristalsis. They are not suitable for: Lower back pain → may worsen strain; Pregnancy → strong abdominal contractions are contraindicated; Stomach ulcers → abdominal pressure can aggravate the condition."
+  },
+  {
+    "question": "Which of these asana can be suggested for Bronchial Asthma?",
+    "options": [
+      "Tadasana",
+      "Bhujangasana",
+      "Padahastasana",
+      "B & C"
+    ],
+    "correctIndex": 3,
+    "description": "Bhujangasana (Cobra Pose) → Expands the chest, improves lung capacity, reduces bronchial congestion. Padahastasana (Hand-to-Foot Pose) → Improves blood circulation to the head and lungs, helps in better oxygen intake. Tadasana (Palm Tree Pose) → Also beneficial for asthma, but less specific compared to Bhujangasana & Padahastasana."
+  },
+  {
+    "question": "Which kriya is suitable for Sinusitis?",
+    "options": [
+      "Shankha Prakshalana",
+      "Sutra Neti",
+      "Vanisara",
+      "Nasya"
+    ],
+    "correctIndex": 1,
+    "description": "Sutra Neti – A cleansing kriya using a soft rubber catheter or cotton thread through the nasal passage → highly effective for sinusitis, nasal blockages, allergies, and chronic cold. Shankha Prakshalana – Intestinal cleansing practice, not related to sinus. Vaanisara (Agnisara Kriya) – Works on abdominal region, not for sinus. Nasya – Ayurvedic therapy (oil drops in nostrils), effective for sinusitis but it is an Ayurvedic Shodhana procedure, not a Hatha Yoga kriya."
+  },
+  {
+    "question": "Which practice is contraindicatory in heart diseases?",
+    "options": [
+      "Neti",
+      "Trataka",
+      "Dhauti",
+      "Balasana"
+    ],
+    "correctIndex": 2,
+    "description": "Dhauti – A cleansing kriya involving vigorous practices like Vamana Dhauti (induced vomiting) or Vastra Dhauti → creates intense strain on the cardio-respiratory system → contraindicated in heart disease, hypertension, hernia, ulcers, pregnancy. Neti – Gentle nasal cleansing → usually safe, even for cardiac patients. Trataka – Concentration on a candle flame → safe, helps in relaxation, no direct strain on heart. Balasana – A restorative posture → actually recommended for calming heart and nervous system."
+  },
+  {
+    "question": "Which practice is contraindicatory in Cervical Spondylosis?",
+    "options": [
+      "Sarvangasana",
+      "Setubandhasana",
+      "Halasana",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Setubandhasana (Bridge Pose) → puts pressure on the neck if performed incorrectly. Sarvangasana (Shoulder Stand) → extreme pressure and bending on the cervical spine → contraindicated. Halasana (Plough Pose) → deep flexion of the neck, aggravates cervical spondylosis → contraindicated."
+  },
+  {
+    "question": "Which practice is contraindicatory in Lower back pain?",
+    "options": [
+      "Bhujangasana",
+      "Pad-Hastasana",
+      "Shalabhasana",
+      "Setu-bandhasana"
+    ],
+    "correctIndex": 1,
+    "description": "Pad-Hastasana (Hand-to-Foot Pose, forward bend) → involves deep forward bending, which increases pressure on lumbar spine → contraindicated in lower back pain. Bhujangasana (Cobra Pose) → gentle backbend, often recommended for strengthening back muscles. Shalabhasana (Locust Pose) → strengthens lower back muscles (done carefully, under guidance). Setubandhasana (Bridge Pose) → also helps strengthen back if done correctly."
+  },
+  {
+    "question": "Which of these is an auto-immune disorder?",
+    "options": [
+      "Gout",
+      "Osteoarthritis",
+      "Rheumatoid Arthritis",
+      "Cervical Spondylosis"
+    ],
+    "correctIndex": 2,
+    "description": "Rheumatoid Arthritis (RA) → Autoimmune disorder where the immune system attacks the synovial lining of joints → causes inflammation, pain, swelling, and joint deformities. Gout → Metabolic disorder caused by uric acid crystal deposition in joints. Osteoarthritis → Degenerative joint disease due to wear and tear of cartilage. Cervical Spondylosis → Age-related degeneration of cervical spine, not autoimmune."
+  },
+  {
+    "question": "The third limb of Chaturanga Yoga is",
+    "options": [
+      "Asana",
+      "Mudra & Bandha",
+      "Pranayama",
+      "Shatkarma"
+    ],
+    "correctIndex": 1,
+    "description": "The four limbs of Chaturanga Yoga in Hatha Yoga Pradipika are: 1. Asana (postures); 2. Pranayama (breath control); 3. Mudra and Bandha (gestures and energy locks); 4. Nada Anusandhana (meditative practice of inner sound)"
+  },
+  {
+    "question": "What is the remedy for getting rid of miseries as per Patanjali?",
+    "options": [
+      "Samadhi",
+      "Dhyana",
+      "Viveka Khyati",
+      "Kriya-Yoga"
+    ],
+    "correctIndex": 2,
+    "description": "Patanjali teaches that miseries arise from kleshas, which are rooted in ignorance and wrong identification of the self with the changing world. The primary remedy given by Patanjali to overcome misery is Viveka Khyati — the sharpened discriminatory knowledge to distinguish the real (unchanging self) from the unreal (changing phenomena). This discrimination helps dissolve the identification with the non-self that causes suffering."
+  }
+]
