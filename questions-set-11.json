@@ -459,5 +459,93 @@
     ],
     "correctIndex": 1,
     "description": "Blood is a specialized connective tissue with cells suspended in plasma. It is responsible for transport of nutrients, gases, and waste, and plays a key role in immunity."
+  },
+    {
+    "question": "Homeostasis means maintaining ____ in the body",
+    "options": [
+      "Stable environment",
+      "Blood pressure",
+      "Heart rate",
+      "Respiration rate"
+    ],
+    "correctIndex": 0,
+    "description": "Homeostasis refers to the body's ability to maintain a stable internal environment despite external changes. While blood pressure, heart rate, and respiration are components of it, 'Stable environment' covers the overall concept."
+  },
+  {
+    "question": "How many chambers does the heart have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "description": "The human heart has four chambers: two atria and two ventricles. This structure ensures proper separation of oxygenated and deoxygenated blood for efficient circulation."
+  },
+  {
+    "question": "How many bones are there in the human face?",
+    "options": [
+      "14",
+      "18",
+      "22",
+      "28"
+    ],
+    "correctIndex": 0,
+    "description": "The human face is formed by 14 bones, including the maxilla, mandible, zygomatic, nasal, lacrimal, palatine, inferior nasal concha, and vomer bones."
+  },
+  {
+    "question": "Metabolism rate of the human body does not increase during –",
+    "options": [
+      "Exercise",
+      "Fasting",
+      "Eating",
+      "Shivering"
+    ],
+    "correctIndex": 1,
+    "description": "Fasting slows down the metabolism because the body conserves energy in the absence of food. Metabolic rate increases during exercise, eating, and shivering to provide energy and heat."
+  },
+  {
+    "question": "Which Śuddhi Kriya helps in purification of the anus?",
+    "options": [
+      "Basti Kriya",
+      "Neti Kriya",
+      "Nauli Kriya",
+      "Kapalabhati"
+    ],
+    "correctIndex": 0,
+    "description": "Basti Kriya cleanses the lower colon and anus region. It is considered an important Śuddhi Kriya for digestive and excretory purification. Moola Shodhana is a Śuddhi Kriya that purifies the anal and lower colon region. In Hatha Yoga texts, it is also referred to as Basti Kriya. It is important for digestive and excretory cleansing."
+  },
+  {
+    "question": "The practice of Pratyahara makes a Sadhaka –",
+    "options": [
+      "Extrovert",
+      "Introvert",
+      "Energetic",
+      "Physically strong"
+    ],
+    "correctIndex": 1,
+    "description": "Pratyahara is the withdrawal of senses from external objects, which promotes inward focus and develops an introverted state in the practitioner."
+  },
+  {
+    "question": "Map Glands and Chakras:",
+    "options": [
+      "Anahata – Thymus, Ajna – Pituitary, Vishuddhi – Thyroid, Manipura – Pancreas",
+      "Anahata – Pituitary, Ajna – Thyroid, Vishuddhi – Pancreas, Manipura – Thymus",
+      "Anahata – Pancreas, Ajna – Thymus, Vishuddhi – Pituitary, Manipura – Thyroid",
+      "Anahata – Thyroid, Ajna – Pancreas, Vishuddhi – Thymus, Manipura – Pituitary"
+    ],
+    "correctIndex": 0,
+    "description": "Classical mapping associates Anahata chakra with Thymus, Ajna with Pituitary, Vishuddhi with Thyroid, and Manipura with Pancreas. This mapping links endocrine glands with energy centers."
+  },
+  {
+    "question": "Voluntary muscles in human body are –",
+    "options": [
+      "Skeletal muscles",
+      "Smooth muscles",
+      "Cardiac muscles",
+      "Involuntary muscles"
+    ],
+    "correctIndex": 0,
+    "description": "Voluntary muscles are skeletal muscles that can be consciously controlled to produce movement. Smooth and cardiac muscles are involuntary and function without conscious control."
   }
 ]
