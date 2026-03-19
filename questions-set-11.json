@@ -1,551 +1,540 @@
 [
   {
-    "question": "Psychology is the study of –",
+    "question": "What is the origin of the word \"Yoga\"?",
     "options": [
-      "Human behaviour",
-      "Mental processes",
-      "Cognitive processes",
-      "All of the above"
+      "Yuj",
+      "Yujir",
+      "Yog",
+      "Yogasya"
+    ],
+    "correctIndex": 0,
+    "description": "The word \"Yoga\" is derived from the Sanskrit root \"Yuj,\" meaning to yoke, join, or unite. \"Yujir\" is another grammatical form seen in etymological discussion but is not the keyed answer here, while \"Yog\" and \"Yogasya\" are not the root form asked in the question."
+  },
+  {
+    "question": "Yuj Samyoga means-",
+    "options": [
+      "To unite",
+      "To integrate",
+      "To restrain",
+      "To discriminate"
+    ],
+    "correctIndex": 0,
+    "description": "\"Samyoga\" means union or joining, so \"to unite\" is the best fit. \"To integrate\" is close in everyday meaning but not the exact standard answer here, while \"to restrain\" and \"to discriminate\" refer to different ideas in yoga philosophy."
+  },
+  {
+    "question": "\"Yoga-chitta-vritti-nirodhah\" This definition of Yoga is given by-",
+    "options": [
+      "Bhagwad Gita",
+      "Patanjali",
+      "Ved Vyasa",
+      "Lord Shiva"
+    ],
+    "correctIndex": 1,
+    "description": "This famous definition comes from Patanjali’s Yoga Sutra 1.2. The Bhagavad Gita defines yoga in other ways, Ved Vyasa is known for commentary, and Lord Shiva is revered in yogic tradition but is not the source of this sutra."
+  },
+  {
+    "question": "\"_____ yoga uchyate\"?",
+    "options": [
+      "Karmah",
+      "Samatvam",
+      "Kaushlam",
+      "Chittah"
+    ],
+    "correctIndex": 1,
+    "description": "The Bhagavad Gita phrase is \"Samatvam yoga uchyate\"—equanimity is called yoga. \"Karmah\" and \"Kaushlam\" appear in other Gita expressions, and \"Chittah\" does not complete this line."
+  },
+  {
+    "question": "\"Buddhi-yukto jahatiha ubhe sukrita-dushkrite, tasmad yogaya yujyasva yogah karmasu kaushalam\" shloka is from which chapter of Bhagavad Gita?",
+    "options": [
+      "2.50",
+      "2.48",
+      "2.45",
+      "2.40"
+    ],
+    "correctIndex": 0,
+    "description": "The line \"Yogah karmasu kaushalam\" is from Bhagavad Gita 2.50. The other chapter-verse options are nearby verses from the same section, which makes them distractors, but they are not this exact quotation."
+  },
+  {
+    "question": "yuktahara-viharasya yukta-cheshtasya (BG 6.17). What is meaning of the word \"yukta\"?",
+    "options": [
+      "Moderate",
+      "Limitless",
+      "Less",
+      "Very less"
+    ],
+    "correctIndex": 0,
+    "description": "In this context, \"yukta\" means regulated, balanced, or moderate. \"Limitless\" is the opposite of the verse’s teaching, and \"less\" or \"very less\" are too narrow and do not capture the sense of proper moderation."
+  },
+  {
+    "question": "As per the texts, the ultimate objective of Yoga is —",
+    "options": [
+      "Samadhi",
+      "Health",
+      "Spirituality",
+      "Moral values"
+    ],
+    "correctIndex": 0,
+    "description": "Classical yoga texts present Samadhi as the culminating objective. Health and moral values are important benefits or supports, and spirituality is a broad umbrella idea, but the precise classical endpoint named is Samadhi."
+  },
+  {
+    "question": "Yoga is physical exercise- True or False.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "Yoga includes postures and physical discipline, but it is not merely physical exercise. It also includes ethics, breath regulation, sense withdrawal, concentration, meditation, and Samadhi."
+  },
+  {
+    "question": "Panini was a –",
+    "options": [
+      "Grammarian",
+      "Yoga Guru",
+      "Shiva’s disciple",
+      "Patanjali’s Guru"
+    ],
+    "correctIndex": 0,
+    "description": "Panini is renowned as a great Sanskrit grammarian. The other options connect him to yogic lineages in ways not historically accepted."
+  },
+  {
+    "question": "The union of the Jeevatma (individual self) with the Paramatma (the universal self) is referred as-",
+    "options": [
+      "Samadhi",
+      "Yog",
+      "Bliss",
+      "Santosha"
+    ],
+    "correctIndex": 1,
+    "description": "The union of the individual self with the universal self is the essential idea of Yoga itself, so \"Yog\" is correct here. Samadhi is a culminating state in practice, while bliss and contentment are related experiences, not the core definition asked."
+  },
+  {
+    "question": "The earliest known record of Yoga is Bhagavad Gita-",
+    "options": [
+      "False",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "This is false because yogic ideas predate the Bhagavad Gita and are found in earlier Vedic and Upanishadic traditions. The Gita is highly important, but not the earliest known record."
+  },
+  {
+    "question": "Ayurveda is part of -",
+    "options": [
+      "Rig Veda",
+      "Sama Veda",
+      "Yajur Veda",
+      "Atharva Veda"
     ],
     "correctIndex": 3,
-    "description": "Psychology is a scientific study that deals with understanding human behaviour, mental processes (like perception, memory, emotion, etc.), and cognitive functions (such as thinking, reasoning, and problem-solving). Option (a) and (b) cover only parts of it. Option (c) is a subset of mental processes. Hence, 'All of the above' best represents the complete scope of psychology."
+    "description": "Ayurveda is traditionally associated with the Atharva Veda. The other Vedas are foundational scriptures too, but the standard linkage for Ayurveda is Atharva Veda."
   },
   {
-    "question": "___ is the author of Gheranda Samhita",
+    "question": "Jnana Kanda is also known as-",
     "options": [
-      "Gheranda",
-      "Patanjali",
-      "Svetasvatara",
-      "Bhaskara"
+      "Up-Veda",
+      "Upanishad",
+      "Vedanga",
+      "None of the above"
     ],
-    "correctIndex": 0,
-    "description": "Gheranda Samhita is authored by Gheranda, a classical text on Hatha Yoga. It is one of the three main Hatha Yoga texts along with Hatha Yoga Pradipika and Shiva Samhita."
+    "correctIndex": 1,
+    "description": "Jnana Kanda refers to the knowledge portion of the Vedic corpus, commonly identified with the Upanishads. Up-Vedas and Vedangas are different classifications."
   },
   {
-    "question": "Gurupurnima day is celebrated on the occasion of the birthday of ____",
-    "options": [
-      "Vedavyas",
-      "Patanjali",
-      "Shankaracharya",
-      "Gheranda"
-    ],
-    "correctIndex": 0,
-    "description": "Gurupurnima is celebrated in honor of Vedavyas, who is considered the compiler of Vedas and the Guru of Gurus. It is a day to pay respect to teachers and mentors."
-  },
-  {
-    "question": "Sri Aurobindo was not a –",
-    "options": [
-      "Yogi",
-      "Poet",
-      "Revolutionary",
-      "A traditional Acharya"
-    ],
-    "correctIndex": 3,
-    "description": "Sri Aurobindo was a Yogi, poet, and revolutionary, but he was not a traditional Acharya who strictly followed classical rituals or teachings. His approach was modern and integral."
-  },
-  {
-    "question": "Mahatma Buddha was born in ____",
-    "options": [
-      "Lumbini",
-      "Bodh Gaya",
-      "Sarnath",
-      "Kushinagar"
-    ],
-    "correctIndex": 0,
-    "description": "Mahatma Buddha was born in Lumbini, which is in present-day Nepal, around 563 BCE."
-  },
-  {
-    "question": "Buddha approved Vedas.",
+    "question": "The knowledge of Yoga didn’t exist before the Vedic period.",
     "options": [
       "True",
       "False"
     ],
-    "correctIndex": 0,
-    "description": "According to Buddhist texts, Buddha accepted the Vedas as authoritative for spiritual practices. He did not reject the Vedas completely but emphasized practical methods for reducing suffering."
+    "correctIndex": 1,
+    "description": "This statement is considered false in the keyed framework. Yogic wisdom is understood as ancient and not something that suddenly began only within a narrow historical starting point."
   },
   {
-    "question": "Which gland is responsible for stress response?",
+    "question": "Which statement is correct?",
     "options": [
-      "Adrenal gland",
-      "Pituitary gland",
-      "Thyroid gland",
-      "Pancreas"
-    ],
-    "correctIndex": 0,
-    "description": "The adrenal glands secrete hormones like cortisol and adrenaline during stress. These hormones prepare the body for 'fight or flight' response. Pituitary gland regulates other endocrine glands but adrenal is primary for stress."
-  },
-  {
-    "question": "Etymology of Psychology",
-    "options": [
-      "Psyche + Logos",
-      "Bodhi + Vijnana",
-      "Manas + Shastra",
-      "Cognition + Science"
-    ],
-    "correctIndex": 0,
-    "description": "The word 'Psychology' comes from Greek 'Psyche' meaning mind or soul and 'Logos' meaning study or science. It literally means the study of the mind."
-  },
-  {
-    "question": "Who is known as Guru of Gurus according to PYS?",
-    "options": [
-      "Hiranyagarbha",
-      "Brahma",
-      "Shiva",
-      "Vedavyas"
-    ],
-    "correctIndex": 0,
-    "description": "According to Patanjali Yoga Sutras, Hiranyagarbha is considered the 'Guru of Gurus', representing the universal consciousness and the source of all knowledge."
-  },
-  {
-    "question": "According to Buddha, main reason for sorrow and suffering in human life?",
-    "options": [
-      "Desire",
-      "Karma",
-      "Ignorance",
-      "Attachment"
-    ],
-    "correctIndex": 0,
-    "description": "Buddha taught that Trishna (desire, craving) is the root cause of human suffering. By overcoming desires, one can reduce sorrow and achieve Nirvana."
-  },
-  {
-    "question": "Buddha discovered which Dhyana?",
-    "options": [
-      "Samadhi Dhyana",
-      "Vipassana",
-      "Dhyana as per Patanjali",
-      "Zen Meditation"
+      "Upanishads are stand-alone scripture.",
+      "Upanishads are part of the Vedas.",
+      "a and b",
+      "None of the above"
     ],
     "correctIndex": 1,
-    "description": "Buddha discovered Vipassana meditation, which focuses on insight and awareness of reality, leading to mindfulness and liberation from suffering."
+    "description": "Upanishads are part of the Vedic corpus, so option b is correct. Calling them entirely stand-alone is misleading in this context, and therefore \"both\" is not accepted."
   },
   {
-    "question": "Sri T Krishnamacharya was born in –",
+    "question": "The commentary of PYS by Veda Vyasa is known as",
     "options": [
-      "Mysore",
-      "Tirunelveli",
-      "Chennai",
-      "Bangalore"
+      "Yoga Sutra",
+      "Yoga Bhashya",
+      "Yoga Rahasya",
+      "Sutra"
     ],
     "correctIndex": 1,
-    "description": "T. Krishnamacharya, the father of modern yoga, was born in Tirunelveli, Tamil Nadu in 1888. He trained many famous yoga teachers like B.K.S. Iyengar and Pattabhi Jois."
+    "description": "Vyasa’s classical commentary on Patanjali Yoga Sutra is called Yoga Bhashya. \"Yoga Sutra\" is the base text itself, while the other names are different works or generic labels."
   },
   {
-    "question": "Which affects personality of a person?",
+    "question": "Patanjali Yoga Sutra is the contemporary text of",
     "options": [
-      "Family",
-      "Society",
-      "Education",
-      "All of the above"
+      "Bhagavad Gita",
+      "Upanishad",
+      "Hatha Yoga Pradipika",
+      "None of the above"
     ],
     "correctIndex": 3,
-    "description": "Personality is influenced by multiple factors including family, society, and education. All of these contribute to shaping an individual's behavior, values, and attitudes."
+    "description": "The keyed answer is \"None of the above.\" The Patanjali Yoga Sutra is a distinct classical text and is not simply identified as the contemporary text of any of the listed works."
   },
   {
-    "question": "Areas in which evaluation of a yoga instructor or teacher can be done?",
+    "question": "Who is known as the father of modern yoga?",
     "options": [
-      "Knowledge",
-      "Attitudes",
-      "Interests",
-      "Skills"
-    ],
-    "correctIndex": 3,
-    "description": "A yoga instructor can be evaluated on knowledge, attitudes, interests, and practical skills. Skills indicate how well they can demonstrate and guide students."
-  },
-  {
-    "question": "Causes of social stress?",
-    "options": [
-      "Job insecurity",
-      "Low income",
-      "Relationship issues",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "Social stress arises from multiple factors such as job insecurity, low income, and relationship issues. These can cause mental and physical health problems."
-  },
-  {
-    "question": "Which asana is good for eliminating wind from food pipe?",
-    "options": [
-      "Pawanamuktasana",
-      "Bhujangasana",
-      "Dhanurasana",
-      "Vajrasana"
+      "Patanjali",
+      "Lord Krishna",
+      "Adi Yogi",
+      "Nath Yogi"
     ],
     "correctIndex": 0,
-    "description": "Pawanamuktasana (Wind-Relieving Pose) helps expel gas, improves digestion, and relieves bloating in the digestive tract."
+    "description": "In the keyed tradition of this quiz, Patanjali is taken as the father of modern yoga. The other options are spiritually significant, but they are not the expected exam answer here."
   },
   {
-    "question": "Which is king of asanas?",
+    "question": "\"Viniyog Hatha Yoga\" lineage is started by",
     "options": [
-      "Shirshasana",
-      "Padmasana",
-      "Sirsasana",
-      "Sarvangasana"
+      "Shri Krishnamacharya",
+      "Jiddu Krishnamurti",
+      "BKS Iyengar",
+      "Pattabhi Jois"
     ],
     "correctIndex": 0,
-    "description": "Shirshasana (Headstand) is considered the king of asanas because of its overall benefits including improved blood circulation to the brain and strengthening the body."
+    "description": "The Viniyoga lineage is associated with Shri T. Krishnamacharya. Jiddu Krishnamurti was a philosopher, while Iyengar and Pattabhi Jois developed other major branches linked to Krishnamacharya."
   },
   {
-    "question": "Which makes a wonderful combination of Bhujangasana and Shalabhasana?",
+    "question": "Parliament of Religion was held in -",
     "options": [
-      "Dhanurasana",
-      "Matsyasana",
-      "Setubandhasana",
-      "Kurmasana"
-    ],
-    "correctIndex": 0,
-    "description": "Dhanurasana combines the back-bending effect of Bhujangasana and the leg lift of Shalabhasana, stimulating the abdomen, spine, and chest."
-  },
-  {
-    "question": "Cat Pose asana name?",
-    "options": [
-      "Marjariasana",
-      "Bitilasana",
-      "Adho Mukha Svanasana",
-      "Bhujangasana"
-    ],
-    "correctIndex": 0,
-    "description": "Marjariasana, or Cat Pose, is used for spinal flexibility and gently massaging the abdominal organs."
-  },
-  {
-    "question": "Practice of asana induces –",
-    "options": [
-      "Breathing awareness",
-      "Mental awareness",
-      "Physical awareness",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "Asana practice develops awareness of breathing, mind, and body, enhancing overall concentration and physical coordination."
-  },
-  {
-    "question": "___ must be practiced after Jalaneti",
-    "options": [
-      "Kapalabhati",
-      "Trataka",
-      "Bhastrika",
-      "Ujjayi"
-    ],
-    "correctIndex": 0,
-    "description": "Kapalabhati is generally practiced after Jalaneti because it complements the cleansing of nasal passages and lungs, helping improve respiratory efficiency."
-  },
-  {
-    "question": "___ kriya increases memory power",
-    "options": [
-      "Neti",
-      "Trataka",
-      "Nauli",
-      "Bhastrika"
+      "1894",
+      "1893",
+      "1890",
+      "1895"
     ],
     "correctIndex": 1,
-    "description": "Trataka kriya enhances concentration and mental focus, which directly improves memory power and cognitive clarity."
+    "description": "The World’s Parliament of Religions in Chicago was held in 1893. The other years are close distractors but not correct."
   },
   {
-    "question": "Regular practice of Jalaneti kriya removes the disorders related to which parts?",
+    "question": "Taking a bath immediately after yoga is highly recommended.",
     "options": [
-      "Nose",
-      "Ear",
-      "Eye",
-      "All of the above"
+      "True",
+      "False"
     ],
-    "correctIndex": 3,
-    "description": "Jalaneti cleanses nasal passages and helps in proper breathing. This indirectly benefits ear and eye health by maintaining sinus and nervous system balance."
+    "correctIndex": 1,
+    "description": "This is false in standard yoga guidance because the body should be allowed to settle after practice. Bathing immediately is generally not recommended."
   },
   {
-    "question": "__ shouldn't be performed daily by a newly married person",
+    "question": "One of the prime reasons Yogic practices are different than other exercise formats is-",
     "options": [
-      "Siddhasana",
-      "Padmasana",
-      "Vajrasana",
-      "Shirshasana"
+      "Movement and breath coordination",
+      "Ensuring a clean environment",
+      "Inclusion of prayer/mantra",
+      "Usage of the mat"
     ],
     "correctIndex": 0,
-    "description": "Siddhasana is traditionally recommended to be avoided daily by newly married individuals, as per classical texts, due to its intense effect on the reproductive energy."
+    "description": "Movement coordinated with breath is a key distinguishing feature of yoga practice. Clean space and prayer may help the setting, and a mat is just equipment, not the core differentiator."
   },
   {
-    "question": "___ is a balancing Yoga Posture",
+    "question": "Bhujangasana is a relaxing posture and a yoga class can end with Bhujangasana.",
     "options": [
-      "Vrikshasana",
-      "Tadasana",
-      "Padmasana",
-      "Vajrasana"
+      "False",
+      "True"
     ],
     "correctIndex": 0,
-    "description": "Vrikshasana (Tree Pose) requires balance and focus, improving stability and coordination, and is therefore considered a balancing posture."
+    "description": "This is false because Bhujangasana is a backward-bending active posture, not the usual closing relaxation pose. A class generally ends with relaxation such as Shavasana."
   },
   {
-    "question": "During practice of Jalaneti one should –",
+    "question": "The correct way of releasing the posture is -",
     "options": [
-      "Check temperature of water",
-      "Mix proper amount of salt in the water",
-      "Use proper posture",
-      "All of the above"
+      "Last in first out",
+      "First in last out",
+      "As per the convenience",
+      "A and C"
+    ],
+    "correctIndex": 0,
+    "description": "The safe principle is to come out in reverse order of how one entered the posture—last in, first out. Convenience is not a reliable technical rule, so option d is not accepted."
+  },
+  {
+    "question": "In modern times, Kriya Yoga is primarily taught by",
+    "options": [
+      "Paramahansa Yogananda",
+      "Swami Vivekananda",
+      "Maharishi Mahesh Yogi",
+      "Swami Sivananda Saraswati"
+    ],
+    "correctIndex": 0,
+    "description": "Kriya Yoga became especially widely known in modern times through Paramahansa Yogananda. The others taught important spiritual paths, but this association is most specific to Yogananda."
+  },
+  {
+    "question": "Who was the guru of Gorakshanath?",
+    "options": [
+      "Matsyendranath",
+      "Lord Shiva",
+      "Maharishi Patanjali",
+      "Sage Marichi"
+    ],
+    "correctIndex": 0,
+    "description": "Gorakshanath is traditionally regarded as the disciple of Matsyendranath. The other names are highly revered but are not the expected guru in Nath lineage history."
+  },
+  {
+    "question": "\"Interest is the best motivation for learning\" - is this statement correct?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 0,
+    "description": "Yes. Genuine interest creates steady attention, curiosity, and long-term engagement. \"No\" does not align with the educational principle being tested here."
+  },
+  {
+    "question": "A. In order to master Asana, it is very important to keep pushing your limits without worrying about injuries. B. Practicing Asanas consistently with relaxed efforts will eventually lead to perfection. Which statement is true?",
+    "options": [
+      "A & B both",
+      "B",
+      "A",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Statement B is true because yogic mastery develops through consistent practice with ease and steadiness. Statement A is wrong because reckless pushing invites injury and goes against yogic wisdom."
+  },
+  {
+    "question": "Dhyana is -",
+    "options": [
+      "Concentration",
+      "Focus",
+      "Dharana",
+      "None of the above"
     ],
     "correctIndex": 3,
-    "description": "Safe practice of Jalaneti requires correct water temperature, appropriate salt concentration, and maintaining proper posture to prevent discomfort or injury."
+    "description": "Dhyana is meditation, which is distinct from mere concentration or focus. Dharana is concentration; therefore none of the listed positive definitions matches Dhyana exactly."
   },
   {
-    "question": "During the practice of Ujjayi pranayama, puraka is done through –",
+    "question": "The proper gap between eating and practice should be-",
     "options": [
-      "Both nostrils",
+      "10 minutes",
+      "4 hour",
+      "6 hours",
+      "minimum 40 minutes"
+    ],
+    "correctIndex": 3,
+    "description": "The keyed answer is minimum 40 minutes. Ten minutes is too short, while four or six hours are unnecessarily long as a general rule for all cases."
+  },
+  {
+    "question": "Match the following- Earth / Air / Water / Fire / Ether with ears / tongue / nose / skin / eyes",
+    "options": [
+      "a-a c-b d-c e-b?",
+      "a-a c-b b-c d-d e-e",
+      "a-a d-b a-c b-d e-e",
+      "a-c, b-d, c-b, d-a, e-e"
+    ],
+    "correctIndex": 0,
+    "description": "According to the provided answer key, option a is the correct matching. The other choices mix the sense-element correspondences differently."
+  },
+  {
+    "question": "The imbalance of which Mahabhutas leads to Vata dosha?",
+    "options": [
+      "Air and Space",
+      "Air and Ether",
+      "Air and Earth",
+      "Fire and Earth"
+    ],
+    "correctIndex": 0,
+    "description": "Vata is formed from Air and Space, so their imbalance relates to Vata dosha. \"Air and Ether\" sounds similar because Ether is often translated as space, but the keyed option is \"Air and Space.\""
+  },
+  {
+    "question": "The imbalance of which Mahabhutas leads to Kapha dosha?",
+    "options": [
+      "Water and Fire",
+      "Water and Earth",
+      "Water and Air",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Kapha is associated with Water and Earth. Fire belongs more with Pitta, and Air relates more with Vata."
+  },
+  {
+    "question": "The imbalance of which Mahabhutas leads to Pitta dosha?",
+    "options": [
+      "Water and Fire",
+      "Water and Ether",
+      "Water and Earth",
+      "Fire and Ether"
+    ],
+    "correctIndex": 0,
+    "description": "Pitta is associated with Fire along with a liquid principle, so the keyed answer is Water and Fire. The other combinations correspond to different doshic tendencies or are not standard here."
+  },
+  {
+    "question": "Match the following- Sattva / Rajas / Tamas with Passion / Balance / Inertia",
+    "options": [
+      "a-b d-a c-c",
+      "a-a b-b c-c",
+      "a-c b-a c-a",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Based on the answer key, option a is correct. Conceptually Sattva aligns with balance, Rajas with passion/activity, and Tamas with inertia; the listed coded option a is the accepted match in the quiz."
+  },
+  {
+    "question": "Antahkarana Chatushtaya involves -",
+    "options": [
+      "Chitta, Vritti, Manas, Ahamkara",
+      "Chitta, Buddhi, Manas, Ahamkara",
+      "Chitta, Buddhi, Manas",
+      "Chitta, Buddhi, Anand, Ahamkara"
+    ],
+    "correctIndex": 1,
+    "description": "Antahkarana Chatushtaya consists of Manas, Buddhi, Chitta, and Ahamkara. Vritti is a mental modification, not one of the four components, and Anand is not part of this set."
+  },
+  {
+    "question": "The physiological system is part of –",
+    "options": [
+      "Sthula Sharira",
+      "Sukshma Sharira",
+      "Karana Sharira",
+      "Sharira"
+    ],
+    "correctIndex": 1,
+    "description": "The answer key marks Sukshma Sharira. In this exam framing, physiological functioning is being linked to the subtle functional system rather than the gross physical structure alone."
+  },
+  {
+    "question": "Pratyahara practice helps in strengthening which kosha?",
+    "options": [
+      "Annamaya Kosha",
+      "Pranayama Kosha",
+      "Manomaya Kosha",
+      "Vijnanamaya kosha"
+    ],
+    "correctIndex": 2,
+    "description": "Pratyahara chiefly works on withdrawal of senses and inwardization of the mind, so Manomaya Kosha is the best fit. The other koshas relate more to food-body, prana, or higher intellect."
+  },
+  {
+    "question": "Which kosha operates in deep sleep?",
+    "options": [
+      "Anandamaya Kosha",
+      "Vijnanamaya Kosha",
+      "Manomaya Kosha",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Deep sleep is associated with Anandamaya Kosha in this framework. The mental and intellectual sheaths are not dominant in that state."
+  },
+  {
+    "question": "The theory of Pancha Kosha is given in which Upanishad?",
+    "options": [
+      "Kathopnishad",
+      "Prashnopanishad",
+      "Taittiriya Upanishad",
+      "Mundaka Upanishad"
+    ],
+    "correctIndex": 2,
+    "description": "The doctrine of the five sheaths is famously explained in the Taittiriya Upanishad. The other Upanishads are important but are not the standard source for Pancha Kosha teaching."
+  },
+  {
+    "question": "The three stages of Jnana Yoga are-",
+    "options": [
+      "Shravana, Pramana, Nididhyasana",
+      "Shravana, Manana, Nididhyasana",
+      "Manana, Shravana, Nididhyasana",
+      "Shravan, Smriti, Nididhyasana"
+    ],
+    "correctIndex": 1,
+    "description": "The classical sequence is Shravana (hearing), Manana (reflection), and Nididhyasana (deep contemplation). The other options replace one or more stages with non-standard terms or wrong order."
+  },
+  {
+    "question": "Which of the following helps in Jnana Yoga -",
+    "options": [
+      "Antahkarana Chatushtaya",
+      "Sadhana Chatushtaya",
+      "Purushartha Chatushtaya",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Sadhana Chatushtaya is the standard preparatory qualification set for Jnana Yoga. The other groupings are meaningful in Indian thought but are not the specific answer here."
+  },
+  {
+    "question": "The meaning of Uparati is -",
+    "options": [
+      "Withdrawal of senses",
+      "Control of senses",
+      "Endurance",
+      "Control of mind"
+    ],
+    "correctIndex": 0,
+    "description": "Uparati means withdrawal or cessation from external preoccupation. Control of senses fits Dama better, endurance fits Titiksha, and control of mind is not the precise term asked."
+  },
+  {
+    "question": "The distressed type of Bhakta is -",
+    "options": [
+      "Arta",
+      "Artharthee",
+      "Jigyasu",
+      "Jnani"
+    ],
+    "correctIndex": 0,
+    "description": "In the Bhagavad Gita, Arta refers to the distressed devotee. Artharthi seeks gain, Jigyasu seeks knowledge, and Jnani is the wise devotee."
+  },
+  {
+    "question": "According to the Bhagavad Gita, people should aspire to do which type of Karma?",
+    "options": [
+      "Shukla – Karma",
+      "Krishna – Karma",
+      "Shukla – Krishna",
+      "Ashukla - Akrishna"
+    ],
+    "correctIndex": 3,
+    "description": "The keyed answer is Ashukla-Akrishna, referring to action beyond the binding dualities of meritorious and demeritorious coloring. The other options remain within dualistic categories."
+  },
+  {
+    "question": "Match the following- Samadhi Pada / Sadhana Pada / Vibhuti Pada / Kaivalya Pada with 55 sutra / 51 sutra / 34 sutra / 55 sutra",
+    "options": [
+      "a-b b-a c-d d-c",
+      "a-a b-b c-d d-c",
+      "a-c b-a c-d d-b",
+      "a-c, b-a, c-d, d-b"
+    ],
+    "correctIndex": 0,
+    "description": "As per the answer key, option a is correct for this coded matching. The distractors shuffle the sutra counts among the four padas."
+  },
+  {
+    "question": "Bahiranga Yoga is referred as-",
+    "options": [
+      "Yama, Niyama, Dharana, Dhyana",
+      "Yama, Niyama, Asana, Pranayama",
+      "Yama, Niyama, Pratyahara, Dharana",
+      "Dharana, Dhyana, Samadhi"
+    ],
+    "correctIndex": 1,
+    "description": "Bahiranga Yoga refers to the outer limbs, represented here by Yama, Niyama, Asana, and Pranayama. Dharana, Dhyana, and Samadhi are inner limbs."
+  },
+  {
+    "question": "The ultimate objective of practicing Hatha Yoga is -",
+    "options": [
+      "Raja Yoga",
+      "Bhakti Yoga",
+      "Samadhi",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Hatha Yoga is traditionally understood as preparing the practitioner for Raja Yoga. Samadhi is a goal of higher realization, but the classical relationship usually states Hatha as a means toward Raja Yoga."
+  },
+  {
+    "question": "The siddhi of being able to travel anywhere is referred as-",
+    "options": [
+      "Prakamya",
+      "Prapti",
+      "Ishatva",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Prapti is the siddhi associated with reaching or obtaining anywhere/everything. Prakamya relates to fulfillment of will, and Ishitva relates to lordship."
+  },
+  {
+    "question": "Pingala Nadi represents-",
+    "options": [
       "Right nostril",
-      "Left nostril",
-      "Mouth"
-    ],
-    "correctIndex": 0,
-    "description": "In Ujjayi Pranayama, inhalation (Puraka) and exhalation (Rechaka) are done through both nostrils with slight constriction in the throat, producing a soft hissing sound."
-  },
-  {
-    "question": "Which pranayama can be done while moving, standing, sitting, walking etc.?",
-    "options": [
-      "Ujjayi",
-      "Bhramari",
-      "Kapalabhati",
-      "Sheetali"
-    ],
-    "correctIndex": 0,
-    "description": "Ujjayi Pranayama is flexible and can be practiced in motion as well as while standing or sitting, making it adaptable for various activities."
-  },
-  {
-    "question": "Which pranayama is very useful in eliminating diabetes?",
-    "options": [
-      "Bhastrika",
-      "Kapalabhati",
-      "Anulom Vilom",
-      "Ujjayi"
-    ],
-    "correctIndex": 0,
-    "description": "Bhastrika Pranayama improves metabolism and stimulates pancreas function, which helps regulate blood sugar levels, making it beneficial for diabetes management."
-  },
-  {
-    "question": "Which wave is activated more in the human brain during meditation?",
-    "options": [
-      "Alpha wave",
-      "Beta wave",
-      "Delta wave",
-      "Theta wave"
-    ],
-    "correctIndex": 0,
-    "description": "Alpha waves are predominant in the brain during meditation, indicating a relaxed yet alert state of mind."
-  },
-  {
-    "question": "Methods used during cyclic meditation –",
-    "options": [
-      "IRT",
-      "DRT",
-      "QRT",
+      "Sun",
+      "Physical work",
       "All of the above"
     ],
     "correctIndex": 3,
-    "description": "Cyclic meditation uses IRT (Immediate Relaxation Technique), DRT (Deep Relaxation Technique), and QRT (Quick Relaxation Technique) sequentially for effective stress relief."
-  },
-  {
-    "question": "Anti-gravitational asana?",
-    "options": [
-      "Sarvangasana",
-      "Shirshasana",
-      "Mayurasana",
-      "Vrikshasana"
-    ],
-    "correctIndex": 2,
-    "description": "Mayurasana (Peacock Pose) is considered an anti-gravitational asana as it requires arm balance and supports the body horizontally, defying gravity."
-  },
-  {
-    "question": "Which asana is useful in controlling anger?",
-    "options": [
-      "Kurmasana",
-      "Padmasana",
-      "Vrikshasana",
-      "Shirshasana"
-    ],
-    "correctIndex": 0,
-    "description": "Kurmasana (Tortoise Pose) calms the mind and nervous system, helping in controlling anger and reducing mental agitation."
-  },
-  {
-    "question": "Which pranayama helps in removing insomnia, anxiety, stress and anger?",
-    "options": [
-      "Anulom Vilom",
-      "Bhramari",
-      "Kapalabhati",
-      "Sheetali"
-    ],
-    "correctIndex": 1,
-    "description": "Bhramari Pranayama (Bee Breath) soothes the nervous system and calms the mind, making it effective for reducing insomnia, anxiety, stress, and anger."
-  },
-  {
-    "question": "Which asana is strictly prohibited for cervical spondylosis?",
-    "options": [
-      "Shirshasana",
-      "Sarvangasana",
-      "Dhanurasana",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "Shirshasana, Sarvangasana, and Dhanurasana put pressure on the cervical spine and are contraindicated for individuals with cervical spondylosis."
-  },
-  {
-    "question": "Regular practice of ___ stimulates digestive fire so much that it can even digest poison",
-    "options": [
-      "Mayurasana",
-      "Dhanurasana",
-      "Pawanamuktasana",
-      "Vajrasana"
-    ],
-    "correctIndex": 0,
-    "description": "Mayurasana (Peacock Pose) compresses the abdomen and stimulates digestive fire (Agni), which is believed in classical texts to be capable of digesting even toxins."
-  },
-  {
-    "question": "According to Haṭha Yoga Pradīpikā, the practice of Matsyendrāsana helps in –",
-    "options": [
-      "Removing diseases",
-      "Awakening Kundalini",
-      "Proper digestion",
-      "Strengthening the spine and stimulating circulation",
-      "All of the above"
-    ],
-    "correctIndex": 4,
-    "description": "Matsyendrāsana, a spinal twisting pose, aids in digestion, removes diseases, strengthens the spine, stimulates blood circulation, and helps awaken Kundalini energy."
-  },
-  {
-    "question": "Which Śuddhi Kriya increases the digestive fire?",
-    "options": [
-      "Nauli Kriya",
-      "Kapalabhati",
-      "Basti Kriya",
-      "Trataka"
-    ],
-    "correctIndex": 0,
-    "description": "Nauli Kriya massages abdominal organs and increases digestive fire (Agni), improving metabolism and gastrointestinal health."
-  },
-  {
-    "question": "Dhanurasana contraindicated in ___",
-    "options": [
-      "Hernia",
-      "Pregnancy",
-      "Severe back injury",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "Dhanurasana is a deep backbend that stresses the abdomen and spine, and is therefore contraindicated in hernia, pregnancy, or severe back injuries."
-  },
-  {
-    "question": "Which pranayama is very useful for people suffering from low BP?",
-    "options": [
-      "Sheetali",
-      "Shitkari",
-      "Surya Bhedana",
-      "Bhramari"
-    ],
-    "correctIndex": 2,
-    "description": "Surya Bhedana pranayama (Right Nostril Breathing) stimulates the sympathetic nervous system, energizes the body, and helps increase low blood pressure."
-  },
-  {
-    "question": "Yogic practices help in curing metabolic syndrome –",
-    "options": [
-      "Asanas",
-      "Surya Namaskara",
-      "Pranayama",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "Combination of asanas, Surya Namaskara, and pranayama improves metabolism, reduces obesity, stress, and insulin resistance, aiding in management of metabolic syndrome."
-  },
-  {
-    "question": "Blood in our body is which type of tissue?",
-    "options": [
-      "Epithelial tissue",
-      "Connective tissue",
-      "Muscular tissue",
-      "Nervous tissue"
-    ],
-    "correctIndex": 1,
-    "description": "Blood is a specialized connective tissue with cells suspended in plasma. It is responsible for transport of nutrients, gases, and waste, and plays a key role in immunity."
-  },
-    {
-    "question": "Homeostasis means maintaining ____ in the body",
-    "options": [
-      "Stable environment",
-      "Blood pressure",
-      "Heart rate",
-      "Respiration rate"
-    ],
-    "correctIndex": 0,
-    "description": "Homeostasis refers to the body's ability to maintain a stable internal environment despite external changes. While blood pressure, heart rate, and respiration are components of it, 'Stable environment' covers the overall concept."
-  },
-  {
-    "question": "How many chambers does the heart have?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctIndex": 2,
-    "description": "The human heart has four chambers: two atria and two ventricles. This structure ensures proper separation of oxygenated and deoxygenated blood for efficient circulation."
-  },
-  {
-    "question": "How many bones are there in the human face?",
-    "options": [
-      "14",
-      "18",
-      "22",
-      "28"
-    ],
-    "correctIndex": 0,
-    "description": "The human face is formed by 14 bones, including the maxilla, mandible, zygomatic, nasal, lacrimal, palatine, inferior nasal concha, and vomer bones."
-  },
-  {
-    "question": "Metabolism rate of the human body does not increase during –",
-    "options": [
-      "Exercise",
-      "Fasting",
-      "Eating",
-      "Shivering"
-    ],
-    "correctIndex": 1,
-    "description": "Fasting slows down the metabolism because the body conserves energy in the absence of food. Metabolic rate increases during exercise, eating, and shivering to provide energy and heat."
-  },
-  {
-    "question": "Which Śuddhi Kriya helps in purification of the anus?",
-    "options": [
-      "Basti Kriya",
-      "Neti Kriya",
-      "Nauli Kriya",
-      "Kapalabhati"
-    ],
-    "correctIndex": 0,
-    "description": "Basti Kriya cleanses the lower colon and anus region. It is considered an important Śuddhi Kriya for digestive and excretory purification. Moola Shodhana is a Śuddhi Kriya that purifies the anal and lower colon region. In Hatha Yoga texts, it is also referred to as Basti Kriya. It is important for digestive and excretory cleansing."
-  },
-  {
-    "question": "The practice of Pratyahara makes a Sadhaka –",
-    "options": [
-      "Extrovert",
-      "Introvert",
-      "Energetic",
-      "Physically strong"
-    ],
-    "correctIndex": 1,
-    "description": "Pratyahara is the withdrawal of senses from external objects, which promotes inward focus and develops an introverted state in the practitioner."
-  },
-  {
-    "question": "Map Glands and Chakras:",
-    "options": [
-      "Anahata – Thymus, Ajna – Pituitary, Vishuddhi – Thyroid, Manipura – Pancreas",
-      "Anahata – Pituitary, Ajna – Thyroid, Vishuddhi – Pancreas, Manipura – Thymus",
-      "Anahata – Pancreas, Ajna – Thymus, Vishuddhi – Pituitary, Manipura – Thyroid",
-      "Anahata – Thyroid, Ajna – Pancreas, Vishuddhi – Thymus, Manipura – Pituitary"
-    ],
-    "correctIndex": 0,
-    "description": "Classical mapping associates Anahata chakra with Thymus, Ajna with Pituitary, Vishuddhi with Thyroid, and Manipura with Pancreas. This mapping links endocrine glands with energy centers."
-  },
-  {
-    "question": "Voluntary muscles in human body are –",
-    "options": [
-      "Skeletal muscles",
-      "Smooth muscles",
-      "Cardiac muscles",
-      "Involuntary muscles"
-    ],
-    "correctIndex": 0,
-    "description": "Voluntary muscles are skeletal muscles that can be consciously controlled to produce movement. Smooth and cardiac muscles are involuntary and function without conscious control."
+    "description": "Pingala is associated with the right nostril, solar energy, and active outward functioning; therefore \"All of the above\" is correct. Each individual option captures one aspect, but the full description is the best answer."
   }
 ]

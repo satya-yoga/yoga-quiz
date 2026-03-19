@@ -1,0 +1,312 @@
+[
+  {
+    "question": "During the practice of Jala Neti, one should:",
+    "options": [
+      "Check temperature of water",
+      "Mix proper amount of salt",
+      "Use proper posture",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Jala Neti requires lukewarm saline water of proper concentration to avoid irritation. Correct posture ensures smooth flow through nasal passages. Neglecting any of these may cause discomfort or improper cleansing."
+  },
+  {
+    "question": "Master Chakra is:",
+    "options": ["Anahata", "Ajna", "Manipura", "Muladhara"],
+    "correctIndex": 1,
+    "description": "Ajna Chakra is known as the Master Chakra because it governs intuition and higher mental control. It regulates other chakras through the pituitary gland."
+  },
+  {
+    "question": "_____ Chakras are awakened by regular practice of Moola Bandha.",
+    "options": ["Anahata and Vishuddhi", "Swadhisthana and Mooladhara", "Ajna and Sahasrara", "Manipura and Anahata"],
+    "correctIndex": 1,
+    "description": "Moola Bandha activates the pelvic floor region, directly stimulating Mooladhara and Swadhisthana Chakras. These are located in the perineal and sacral region."
+  },
+  {
+    "question": "Prana Vayu is related to _____ Chakra.",
+    "options": ["Muladhara", "Manipura", "Anahata", "Swadhisthana"],
+    "correctIndex": 2,
+    "description": "Prana Vayu governs respiration and cardiac activity, centered around the chest region. Anahata Chakra corresponds to heart and lungs."
+  },
+  {
+    "question": "By awakening of _____ Chakra, a person can control Chitta Vrittis and ignorance.",
+    "options": ["Muladhara", "Manipura", "Ajna", "Swadhisthana"],
+    "correctIndex": 2,
+    "description": "Ajna Chakra governs intellect and discrimination (Viveka). Its awakening enhances control over mental modifications and reduces ignorance."
+  },
+  {
+    "question": "Ajna Chakra is located at:",
+    "options": ["Base of spine", "Navel", "Middle of eyebrows", "Throat"],
+    "correctIndex": 2,
+    "description": "Ajna Chakra is situated between the eyebrows, known as the third-eye center. It represents intuition and higher perception."
+  },
+  {
+    "question": "_____ Chakra is most described in the Bhagavad Gita.",
+    "options": ["Muladhara", "Ajna", "Anahata", "Swadhisthana"],
+    "correctIndex": 1,
+    "description": "Ajna Chakra relates to wisdom and divine vision, concepts frequently emphasized in spiritual teachings of Bhagavad Gita."
+  },
+  {
+    "question": "Match the following Chakras with glands:",
+    "options": [
+      "1–D, 2–B, 3–A, 4–C",
+      "1–A, 2–C, 3–B, 4–D",
+      "1–B, 2–A, 3–D, 4–C",
+      "1–C, 2–D, 3–A, 4–B"
+    ],
+    "correctIndex": 0,
+    "description": "Anahata–Thymus (immunity), Ajna–Pituitary (master gland), Vishuddhi–Thyroid (metabolism), Manipura–Pancreas (digestion and insulin). This is the correct physiological mapping."
+  },
+  {
+    "question": "Qualities like tolerance and devotion are related to:",
+    "options": ["Muladhara", "Anahata", "Manipura", "Ajna"],
+    "correctIndex": 1,
+    "description": "Anahata Chakra governs love, compassion and devotion. Emotional balance and tolerance arise from heart center harmony."
+  },
+  {
+    "question": "_____ Chakra is related to fight or flight response.",
+    "options": ["Muladhara", "Swadhisthana", "Ajna", "Vishuddhi"],
+    "correctIndex": 0,
+    "description": "Muladhara governs survival instincts and basic security. It is linked to adrenal activation during stress response."
+  },
+  {
+    "question": "Ushtrasana and Bhujangasana help in activation of:",
+    "options": ["Muladhara", "Manipura", "Anahata", "Ajna"],
+    "correctIndex": 2,
+    "description": "Both are chest-opening backbends that stimulate heart and lungs. Hence they activate Anahata Chakra."
+  },
+  {
+    "question": "Activation of _____ Chakra provides second sight to a sadhaka.",
+    "options": ["Muladhara", "Ajna", "Manipura", "Swadhisthana"],
+    "correctIndex": 1,
+    "description": "Ajna Chakra is associated with intuition and inner vision. Awakening enhances clarity and spiritual insight."
+  },
+  {
+    "question": "_____ Chakra is related to digestive process.",
+    "options": ["Manipura", "Muladhara", "Anahata", "Vishuddhi"],
+    "correctIndex": 0,
+    "description": "Manipura Chakra governs digestion and metabolism. It corresponds to pancreas and digestive fire (Agni)."
+  },
+  {
+    "question": "Deactivation of Manipura Chakra causes:",
+    "options": ["Diabetes", "Depression", "Low digestion", "All of the above"],
+    "correctIndex": 3,
+    "description": "Manipura governs metabolic fire and pancreas function. Imbalance can affect digestion, mood and glucose regulation."
+  },
+  {
+    "question": "Main element of Manipura Chakra is:",
+    "options": ["Earth", "Water", "Fire", "Air"],
+    "correctIndex": 2,
+    "description": "Manipura Chakra corresponds to Agni (fire element). It governs transformation and metabolism."
+  },
+  {
+    "question": "_____ Chakra is related to third eye.",
+    "options": ["Muladhara", "Ajna", "Anahata", "Swadhisthana"],
+    "correctIndex": 1,
+    "description": "Ajna Chakra is known as the third eye center. It governs intuition and higher awareness."
+  },
+  {
+    "question": "Deactivation of Swadhisthana Chakra causes:",
+    "options": ["Unsocial behavior", "Laziness", "Aggression", "All of the above"],
+    "correctIndex": 3,
+    "description": "Swadhisthana governs emotions and creativity. Its imbalance may manifest as emotional instability and behavioral issues."
+  },
+  {
+    "question": "Ida and Pingala Nadis join at:",
+    "options": ["Muladhara", "Anahata", "Ajna", "Manipura"],
+    "correctIndex": 2,
+    "description": "Ida and Pingala intersect at various chakras but finally unite at Ajna Chakra before merging into Sushumna."
+  },
+  {
+    "question": "Pingala Nadi originates from:",
+    "options": ["Ajna", "Muladhara", "Anahata", "Vishuddhi"],
+    "correctIndex": 1,
+    "description": "Pingala Nadi originates from Muladhara Chakra and ascends along the right side of the spine."
+  },
+  {
+    "question": "Ida Nadi originates from:",
+    "options": ["Muladhara", "Manipura", "Anahata", "Ajna"],
+    "correctIndex": 0,
+    "description": "Ida Nadi also originates from Muladhara and ascends along the left side, representing lunar energy."
+  },
+  {
+    "question": "Ida, Pingala and Sushumna Nadis join at:",
+    "options": ["Muladhara", "Anahata", "Ajna", "Swadhisthana"],
+    "correctIndex": 2,
+    "description": "Ajna Chakra is the meeting point of the three major nadis before energy ascends to Sahasrara."
+  },
+  {
+    "question": "Deactivation of _____ Chakra creates possibility of paralysis.",
+    "options": ["Muladhara", "Ajna", "Swadhisthana", "Manipura"],
+    "correctIndex": 1,
+    "description": "Ajna Chakra governs nervous coordination and higher control. Severe imbalance symbolically relates to neurological dysfunction."
+  },
+  {
+    "question": "Apana Vayu is related to:",
+    "options": ["Muladhara", "Anahata", "Ajna", "Vishuddhi"],
+    "correctIndex": 0,
+    "description": "Apana Vayu governs elimination and reproductive functions. It is centered in Muladhara region."
+  },
+  {
+    "question": "Element related to Muladhara Chakra is:",
+    "options": ["Fire", "Earth", "Water", "Air"],
+    "correctIndex": 1,
+    "description": "Muladhara corresponds to Earth element, symbolizing stability and grounding."
+  },
+  {
+    "question": "Samana Vayu is related to:",
+    "options": ["Muladhara", "Anahata", "Manipura", "Ajna"],
+    "correctIndex": 2,
+    "description": "Samana Vayu governs digestion and assimilation. It is centered around Manipura Chakra."
+  },
+  {
+    "question": "Element related to Swadhisthana Chakra:",
+    "options": ["Earth", "Water", "Fire", "Air"],
+    "correctIndex": 1,
+    "description": "Swadhisthana Chakra is associated with the water element (Jala). It governs emotions, creativity, and reproductive functions. Water represents flow and adaptability."
+  },
+  {
+    "question": "Deactivation of Manipura Chakra causes:",
+    "options": ["Shyness", "Inertia", "Sadness", "All of the above"],
+    "correctIndex": 3,
+    "description": "Manipura governs confidence, digestion, and vitality. Weak activation leads to low self-esteem, poor digestion, and lack of motivation. Hence all listed symptoms are correct."
+  },
+  {
+    "question": "Sacral Chakra is:",
+    "options": ["Muladhara", "Swadhisthana", "Manipura", "Anahata"],
+    "correctIndex": 1,
+    "description": "The Sacral Chakra corresponds to Swadhisthana. It is located in the lower abdomen and governs emotions, pleasure, and creativity."
+  },
+  {
+    "question": "Solar Plexus Chakra is:",
+    "options": ["Manipura", "Anahata", "Ajna", "Vishuddhi"],
+    "correctIndex": 0,
+    "description": "Manipura is known as the Solar Plexus Chakra. It controls digestion, metabolism, and personal power."
+  },
+  {
+    "question": "Human unconscious lies in ____ and subconscious lies in ____:",
+    "options": ["Muladhara, Swadhisthana", "Swadhisthana, Muladhara", "Manipura, Anahata", "Ajna, Vishuddhi"],
+    "correctIndex": 0,
+    "description": "Muladhara stores deep unconscious survival impressions. Swadhisthana governs subconscious emotions and desires."
+  },
+  {
+    "question": "Vishuddhi Chakra along with which Vayu helps in detoxification?",
+    "options": ["Prana", "Apana", "Udana", "Samana"],
+    "correctIndex": 2,
+    "description": "Udana Vayu governs upward movement and purification. Along with Vishuddhi Chakra, it supports detoxification and vocal purification."
+  },
+  {
+    "question": "Ahankara, jealousy and anger are eradicated by awakening of:",
+    "options": ["Muladhara", "Swadhisthana", "Manipura", "Ajna"],
+    "correctIndex": 1,
+    "description": "Swadhisthana governs emotional tendencies and desires. Awakening it balances emotional disturbances such as jealousy and anger."
+  },
+  {
+    "question": "Which chakra is activated by Chandrabandha?",
+    "options": ["Manipura", "Vishuddhi", "Ajna", "Muladhara"],
+    "correctIndex": 1,
+    "description": "Chandrabandha stimulates the throat region. Vishuddhi Chakra governs purification and communication."
+  },
+  {
+    "question": "Which chakra is activated by Uddiyana Bandha?",
+    "options": ["Muladhara", "Manipura", "Anahata", "Ajna"],
+    "correctIndex": 1,
+    "description": "Uddiyana Bandha stimulates the abdominal region. It directly activates Manipura Chakra and enhances digestive fire."
+  },
+  {
+    "question": "Homeostasis means:",
+    "options": ["Maintaining stable internal environment", "Increasing metabolism", "Reducing digestion", "Controlling breathing"],
+    "correctIndex": 0,
+    "description": "Homeostasis refers to the body's ability to maintain internal balance such as temperature, pH, and fluid levels despite external changes."
+  },
+  {
+    "question": "Voluntary muscles in the human body are:",
+    "options": ["Cardiac muscles", "Smooth muscles", "Skeletal muscles", "Involuntary muscles"],
+    "correctIndex": 2,
+    "description": "Skeletal muscles are voluntary muscles controlled consciously. They help in body movements and posture."
+  },
+  {
+    "question": "Blood in our body is:",
+    "options": ["Epithelial tissue", "Muscular tissue", "Connective tissue", "Nervous tissue"],
+    "correctIndex": 2,
+    "description": "Blood is a fluid connective tissue. It transports oxygen, nutrients, hormones, and waste materials throughout the body."
+  },
+  {
+    "question": "Human heart has:",
+    "options": ["Two chambers", "Three chambers", "Four chambers", "Five chambers"],
+    "correctIndex": 2,
+    "description": "The human heart has two atria and two ventricles, totaling four chambers. This allows separation of oxygenated and deoxygenated blood."
+  },
+  {
+    "question": "Nephron is:",
+    "options": ["Functional unit of liver", "Structural and functional unit of kidney", "Unit of heart", "Part of brain"],
+    "correctIndex": 1,
+    "description": "Nephron is the basic filtration unit of the kidney. It removes waste and maintains fluid balance."
+  },
+  {
+    "question": "Metabolic rate of the human body does not increase during:",
+    "options": ["Exercise", "Stress", "Fasting", "Fever"],
+    "correctIndex": 2,
+    "description": "During fasting, the body conserves energy and metabolic rate decreases to preserve stored energy."
+  },
+  {
+    "question": "Arteries carry ____ blood except pulmonary arteries:",
+    "options": ["Deoxygenated", "Oxygenated", "Mixed", "Nutrient-rich only"],
+    "correctIndex": 1,
+    "description": "Arteries generally carry oxygenated blood away from the heart. Pulmonary artery is an exception as it carries deoxygenated blood to the lungs."
+  },
+  {
+    "question": "Largest internal organ in the human body:",
+    "options": ["Skin", "Heart", "Liver", "Lungs"],
+    "correctIndex": 2,
+    "description": "The liver is the largest internal organ in the human body. Skin is the largest organ overall."
+  },
+  {
+    "question": "Number of bones in the human face:",
+    "options": ["12", "14", "16", "18"],
+    "correctIndex": 1,
+    "description": "The human face consists of 14 bones forming the facial skeleton."
+  },
+  {
+    "question": "Sympathetic and parasympathetic nervous systems are part of:",
+    "options": ["Central nervous system", "Peripheral nervous system", "Autonomic nervous system", "Somatic nervous system"],
+    "correctIndex": 2,
+    "description": "The autonomic nervous system controls involuntary functions. It includes sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) divisions."
+  },
+  {
+    "question": "Which gland is both exocrine and endocrine?",
+    "options": ["Pituitary", "Thyroid", "Pancreas", "Pineal"],
+    "correctIndex": 2,
+    "description": "The pancreas functions as an endocrine gland by secreting insulin and as an exocrine gland by secreting digestive enzymes."
+  },
+  {
+    "question": "Which of the following is an exocrine gland?",
+    "options": ["Pituitary", "Pineal", "Thymus", "Salivary"],
+    "correctIndex": 3,
+    "description": "Salivary glands release secretions through ducts, making them exocrine glands. The others are endocrine glands."
+  },
+  {
+    "question": "Salt taste is primarily felt on which part of the tongue?",
+    "options": ["Front", "Lateral sides", "Back", "Center"],
+    "correctIndex": 1,
+    "description": "Salt taste is mainly perceived on the lateral sides of the tongue, according to traditional taste mapping."
+  },
+  {
+    "question": "Behavioral symptoms of stress include:",
+    "options": ["Chewing nails", "Isolation", "Speech problems", "All of the above"],
+    "correctIndex": 3,
+    "description": "Stress can manifest behaviorally as nail biting, social withdrawal, and difficulty in speaking."
+  },
+  {
+    "question": "A symptom of acute stress is:",
+    "options": ["Weight gain", "Heartburn", "Hair growth", "Improved sleep"],
+    "correctIndex": 1,
+    "description": "Acute stress activates the sympathetic nervous system, increasing acid secretion and causing heartburn."
+  },
+  {
+    "question": "Cause of social stress includes:",
+    "options": ["Job insecurity", "Low income", "Relationship issues", "All of the above"],
+    "correctIndex": 3,
+    "description": "Social stress may arise from financial problems, job insecurity, and relationship conflicts. All listed factors contribute."
+  }
+]

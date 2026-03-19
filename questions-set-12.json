@@ -1,0 +1,528 @@
+[
+  {
+    "question": "“Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity” - This definition of health is given by -",
+    "options": [
+      "WHO",
+      "AIIMS",
+      "International Medical Association",
+      "Cancer Research Institute"
+    ],
+    "correctIndex": 0,
+    "description": "This definition is the well-known WHO definition of health. AIIMS is a medical institute, not the source of this definition. 'International Medical Association' is not the standard source here, and Cancer Research Institute is unrelated to the classic general definition of health."
+  },
+  {
+    "question": "Yoga is an excellent discipline to produce mental health but cannot be called a preventive measure against physical ailments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "The statement is false because yoga is widely understood as supporting both mental and physical well-being, including prevention and management of many physical problems. 'True' is not a fit because it wrongly limits yoga only to mental health."
+  },
+  {
+    "question": "Yogic practices should not be attempted during pregnancy.",
+    "options": [
+      "True",
+      "False, but some practices need to be definitely avoided such as Agnisar kriya"
+    ],
+    "correctIndex": 1,
+    "description": "The correct idea is that yoga is not completely forbidden during pregnancy; rather, practice must be modified and some practices must be avoided. 'True' is too absolute and ignores the existence of safe prenatal adaptations."
+  },
+  {
+    "question": "Yogic practices along with adequate diet habits can be the best way to maintain health.",
+    "options": [
+      "True",
+      "False",
+      "Maybe",
+      "Not Really"
+    ],
+    "correctIndex": 0,
+    "description": "This is true in the intended exam sense: yoga along with proper diet supports holistic health. 'False', 'Maybe', and 'Not Really' do not match the standard yoga-health understanding reflected in the quiz."
+  },
+  {
+    "question": "Dassyam is one of the “Types of Bhaktas” as per Bhagavad Gita-",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false. In the Bhagavad Gita, the commonly referenced four types of devotees are Arta, Artharthi, Jijnasu, and Jnani. 'True' is not a fit because Dasyam is more commonly discussed as a bhakti-bhava in devotional traditions, not as one of the Gita's four bhaktas."
+  },
+  {
+    "question": "Dhyana practices help to strengthen -",
+    "options": [
+      "Vijnanamaya Kosha",
+      "Annamaya Kosha",
+      "Pranamaya Kosha",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Dhyana primarily refines and strengthens the higher inner faculties, which aligns best here with Vijnanamaya Kosha. Annamaya Kosha is the physical sheath, and Pranamaya Kosha is more directly linked with vital energy and breath regulation. 'None of the above' is therefore not suitable."
+  },
+  {
+    "question": "Which of these can be klishta Vritti",
+    "options": [
+      "Pratyaksha",
+      "Pramana",
+      "Agama",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "In Patanjali Yoga, even ordinarily valid cognition can become klishta when colored by kleshas and egoic conditioning. So these may all function as klishta in the relevant context. Choosing only one of the first three is too narrow."
+  },
+  {
+    "question": "Kleshas can be kept in a weak state by practicing -",
+    "options": [
+      "Ashtanga Yoga",
+      "Pratipaksha Bhavna",
+      "Kriya Yoga",
+      "Yama and Niyama"
+    ],
+    "correctIndex": 2,
+    "description": "Kriya Yoga—tapas, svadhyaya, and Ishvara-pranidhana—is directly taught for attenuating the kleshas. Pratipaksha Bhavana helps with contrary thoughts, but the direct textbook association here is Kriya Yoga. Ashtanga Yoga and Yama-Niyama are broader frameworks, not the specific answer keyed here."
+  },
+  {
+    "question": "Stubborn attachment to sense objects is referred as-",
+    "options": [
+      "Avirati",
+      "Bhranti-Darshan",
+      "Alabdha-Bhumikatva",
+      "Anavasthitatva"
+    ],
+    "correctIndex": 0,
+    "description": "Avirati means inability to withdraw from sensory enjoyment, which fits stubborn attachment to sense objects. Bhranti-Darshan is false perception, Alabdha-Bhumikatva is failure to attain a stage, and Anavasthitatva is instability after attainment."
+  },
+  {
+    "question": "The practice of ______ Kumbhak is suggested to have a calming effect on the mind in PYS.",
+    "options": [
+      "Bahya Kumbhaka",
+      "Antar Kumbhaka",
+      "Kevala Kumbhaka",
+      "Bandha with Kumbhaka"
+    ],
+    "correctIndex": 0,
+    "description": "According to the key used here, Bahya Kumbhaka is the intended calming practice. Antar Kumbhaka and Kevala Kumbhaka are important but are not the answer keyed in this quiz. 'Bandha with Kumbhaka' is too vague and not the specific PYS-based answer expected."
+  },
+  {
+    "question": "Which mudra is performed in Basti Kriya",
+    "options": [
+      "Pashini Mudra",
+      "Khechari Mudra",
+      "Ashwini Mudra",
+      "Moola Bandha"
+    ],
+    "correctIndex": 2,
+    "description": "Ashwini Mudra is associated with contraction and relaxation of the anal region and is linked with Basti practice. Khechari relates to the tongue and higher mudra practices, Pashini is a posture-like mudra, and Moola Bandha is a lock rather than the keyed mudra here."
+  },
+  {
+    "question": "Laukiki is -",
+    "options": [
+      "Another name for Nauli",
+      "Another name for Basti",
+      "Kriya mentioned in Hatha Ratnavali",
+      "Trataka"
+    ],
+    "correctIndex": 0,
+    "description": "Laukiki is another name for Nauli. It is not another name for Basti, not Trataka, and while it may appear in texts, the direct identification asked here is with Nauli."
+  },
+  {
+    "question": "One of the major contraindications for Kapalbhati is -",
+    "options": [
+      "Gastric Ulcer",
+      "Detached Retina",
+      "Epilepsy",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All listed conditions can be considered major contraindications or require strong caution for Kapalbhati. Selecting only one misses the broader safety principle intended in the question."
+  },
+  {
+    "question": "The length of the cloth in Dhauti Kriya is -",
+    "options": [
+      "One-and-a-half meter",
+      "One meter",
+      "At Least 2 meters",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks one-and-a-half meter as correct. One meter is typically too short, 'at least 2 meters' does not match the keyed value, and 'none' is not applicable."
+  },
+  {
+    "question": "In Dhauti kriya, the cloth can be left in the stomach for-",
+    "options": [
+      "3 minutes",
+      "3-5 minutes",
+      "5-20 minutes",
+      "Minimum 30 minutes"
+    ],
+    "correctIndex": 2,
+    "description": "The keyed answer is 5-20 minutes. The shorter options are below the intended range in this quiz, while 30 minutes minimum is excessive and not the standard answer here."
+  },
+  {
+    "question": "Another name for Shankha Prakshalana is -",
+    "options": [
+      "Varisara",
+      "Vatsara",
+      "Vanisara",
+      "Plavini"
+    ],
+    "correctIndex": 0,
+    "description": "Varisara is another name for Shankha Prakshalana. Vatsara and Plavini are different practices, and Vanisara is not the keyed equivalent here."
+  },
+  {
+    "question": "The asana used in Shankha Prakshalana Kriya is -",
+    "options": [
+      "Ardha Chakrasana",
+      "Pada Hastasana",
+      "Matsyendrasna",
+      "Udarakarshanasana"
+    ],
+    "correctIndex": 3,
+    "description": "Udarakarshanasana is one of the recognized movements used in Shankha Prakshalana. The other asanas listed are not the correct keyed answer for this kriya-specific question."
+  },
+  {
+    "question": "For best results, Shatkarma should be done first thing in the morning after Pranayama.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false. Shatkarma is generally done before pranayama, not after it. 'True' reverses the expected sequence and is therefore incorrect."
+  },
+  {
+    "question": "Which Kriya is referred to as the “Goddess of creation”?",
+    "options": [
+      "Nauli",
+      "Trataka",
+      "Plavini",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key identifies Nauli as the intended answer. Trataka is gazing, Plavini is a different advanced practice, and 'None of the above' is not correct."
+  },
+  {
+    "question": "Twenty kinds of disease caused by excess mucus are destroyed through the effect of which karma?",
+    "options": [
+      "Dhauti",
+      "Basti",
+      "Kapalbhati",
+      "Nauli"
+    ],
+    "correctIndex": 0,
+    "description": "The keyed answer is Dhauti. Basti and Nauli have their own applications, and Kapalbhati is strongly associated with cleansing but is not the specific answer marked here."
+  },
+  {
+    "question": "Sukshma Vyayama was designed and propagated by",
+    "options": [
+      "Maharishi Kartikeya Maharaj of Himalaya",
+      "Dheerendra Brahmachari",
+      "Sage Swatmaram",
+      "Sage Gherand"
+    ],
+    "correctIndex": 0,
+    "description": "According to the answer sheet, the expected answer is Maharishi Kartikeya Maharaj of Himalaya. Dheerendra Brahmachari popularized many practices, but he is not the keyed answer here. Swatmaram and Gherand are associated with classical texts, not this attribution."
+  },
+  {
+    "question": "Sukshma Vyayama is only applicable to senior practitioners",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false because Sukshma Vyayama is generally suitable for a wide range of practitioners, not only seniors. 'True' wrongly limits its applicability."
+  },
+  {
+    "question": "Sthula Vyayama can be understood as-",
+    "options": [
+      "Isolated movements",
+      "Compound movements",
+      "Cardio movements",
+      "B&C"
+    ],
+    "correctIndex": 1,
+    "description": "Sthula Vyayama is best understood here as compound movements. Isolated movements fit Sukshma-style analysis better, and 'Cardio movements' or 'B&C' do not match the keyed answer."
+  },
+  {
+    "question": "In traditional Surya Namaskara which Asana is done only once per leg-",
+    "options": [
+      "Ashtanga Namaskara",
+      "Bhujangasana",
+      "Padahastasana",
+      "A & B both"
+    ],
+    "correctIndex": 3,
+    "description": "The key marks 'A & B both' as correct. Padahastasana is done symmetrically and is not the intended once-per-leg distinction in this question."
+  },
+  {
+    "question": "Surya Namaskara originates from Hatha Yoga Pradipika",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false. The statement over-attributes Surya Namaskara to Hatha Yoga Pradipika. 'True' does not fit the keyed understanding."
+  },
+  {
+    "question": "The mantra for “Prostration to him who produces everything”.",
+    "options": [
+      "Om Savitre Namah",
+      "Om Pushne Namah",
+      "Om Hiranyagarbhaya Namah",
+      "Om Suryaya Namah"
+    ],
+    "correctIndex": 0,
+    "description": "Savitre is associated with the producer or impeller, which fits 'produces everything' in this quiz. Pushne relates to nourishment, Hiranyagarbha to the golden cosmic womb, and Suryaya simply to the sun."
+  },
+  {
+    "question": "Would you recommend Surya Namaskar to a practitioner with back pain?",
+    "options": [
+      "Not at all",
+      "A variation can be suggested",
+      "Yes, Surya Namaskar has no relation to the back pain",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "A variation can be suggested because back pain requires modification, not blanket rejection or careless approval. 'Not at all' is too absolute, and saying it has no relation to back pain is unsafe."
+  },
+  {
+    "question": "Om Ravaye Namah means-",
+    "options": [
+      "Prostration to him who is the cause of all changes",
+      "Prostration to him who diffuses light",
+      "Prostration to him who is fit to be worshiped",
+      "Prostration to him who is the cause of all lustre"
+    ],
+    "correctIndex": 0,
+    "description": "The key marks the meaning as 'the cause of all changes.' The other meanings align more closely with different Surya mantras and epithets."
+  },
+  {
+    "question": "What is the most suggested set of movements for injury rehabilitation?",
+    "options": [
+      "Sukshma Vyayama",
+      "Sthula Vyayama",
+      "Surya Namaskara",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "The answer sheet gives 'A & B', meaning both Sukshma and Sthula Vyayama are useful depending on stage and need. Surya Namaskara is more demanding and not the best standalone answer here."
+  },
+  {
+    "question": "Sukshma Vyayama consists of -",
+    "options": [
+      "50 movements",
+      "48 movements",
+      "47 movements",
+      "52 movements"
+    ],
+    "correctIndex": 1,
+    "description": "The keyed answer is 48 movements. The other counts do not match the answer sheet."
+  },
+  {
+    "question": "As per Hatha Text Asana practice brings-",
+    "options": [
+      "Sthirta (Stability)",
+      "Dhridhta (Strength)",
+      "Sthilita (Flexibility)",
+      "Laghatvam (Lightness)"
+    ],
+    "correctIndex": 1,
+    "description": "The answer sheet marks Dhridhta (strength). While related benefits like stability and lightness may also be discussed in yoga, they are not the keyed answer for this specific question."
+  },
+  {
+    "question": "As per Patanjali, dualities can be overcome by practicing-",
+    "options": [
+      "Pranayama",
+      "Karma Yoga",
+      "Asana",
+      "Chitta Prasadanam"
+    ],
+    "correctIndex": 2,
+    "description": "Patanjali directly states that through mastery of asana, one becomes undisturbed by the pairs of opposites. Pranayama is highly important but not the direct answer here. Karma Yoga and Chitta Prasadanam do not fit this sutra-based question."
+  },
+  {
+    "question": "In total, there are-",
+    "options": [
+      "32 Asana",
+      "84 Lakhs Asana",
+      "15 Asana",
+      "84 Asana"
+    ],
+    "correctIndex": 1,
+    "description": "Traditional yogic literature often refers symbolically to 84 lakh asanas. The other counts may refer to specific text lists, but the total asked here is the symbolic broader number."
+  },
+  {
+    "question": "In Yoga Sutra, Asanas have been given importance because-",
+    "options": [
+      "It would prepare the practitioner to sit in meditation for a longer duration",
+      "It would help the practitioner to overcome dualities",
+      "It is the prime eligibility for pratyahara",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "Both A and B are valid reasons in the Yoga Sutra context: stable sitting and freedom from dualities. Option C is not the main reason stated here, so 'A & B' is the best fit."
+  },
+  {
+    "question": "In Hatha Yoga, Asana is treated as important because-",
+    "options": [
+      "Only when the body is healthy, Raja yoga can be achieved",
+      "Only when the body is healthy, control of the mind can be achieved",
+      "It’s not given importance; Dhyan is given much more importance than Asana",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "The answer key gives both A and B. Hatha Yoga treats bodily health as foundational for higher practice. Option C contradicts the core hatha emphasis."
+  },
+  {
+    "question": "Mastering the asana is only possible in Kumbhakas.",
+    "options": [
+      "True",
+      "False one should not hold their breath unless otherwise instructed."
+    ],
+    "correctIndex": 1,
+    "description": "This is false. Asana mastery does not require breath retention in all cases, and one should not hold the breath unless specifically instructed. The 'True' option is too rigid and misleading."
+  },
+  {
+    "question": "Asana is a very recent aspect of Yoga practice.",
+    "options": [
+      "True",
+      "False, Asanas are one of the core aspects of Yoga Practice."
+    ],
+    "correctIndex": 1,
+    "description": "This is false because asana has long been a recognized element of yoga practice. The second option correctly rejects the claim of it being merely recent."
+  },
+  {
+    "question": "Just like Surya Namaskara, every asana should be accompanied by respective mantras.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false. While some traditions include mantra with certain sequences, every asana does not require a specific mantra. 'True' makes an unnecessary universal rule."
+  },
+  {
+    "question": "What are the commonly understood 5 parameters of fitness?",
+    "options": [
+      "Cardiovascular fitness, Strength, Stamina, Flexibility, Body Balance",
+      "Cardiovascular fitness, Lungs Health, Blood Quality, Bone Health, Hormonal Health",
+      "Agility, Strength, Fat content, Muscle content, Stamina",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The answer sheet marks the first set, which corresponds to standard practical fitness parameters. The other sets mix useful health variables but do not match the expected five in this context."
+  },
+  {
+    "question": "HYP mentions-",
+    "options": [
+      "15 asanas",
+      "32 asanas",
+      "84 Asana",
+      "As many asanas as there are species."
+    ],
+    "correctIndex": 0,
+    "description": "In Hatha Yoga Pradipika, 15 asanas are explicitly described. 32 is often linked to Gheranda Samhita, while 84 and the species statement represent broader traditional ideas, not the specific HYP list here."
+  },
+  {
+    "question": "The word “Ayama” in Pranayama means-",
+    "options": [
+      "To stretch",
+      "To hold",
+      "To breathe",
+      "To let go"
+    ],
+    "correctIndex": 0,
+    "description": "The keyed answer is 'to stretch' or extend. 'To hold' is too narrow, 'to breathe' refers more to prana or respiration, and 'to let go' is unrelated."
+  },
+  {
+    "question": "Prana can be understood as oxygen",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false. Prana is a broader life-force concept and cannot be reduced merely to oxygen. 'True' oversimplifies yogic understanding."
+  },
+  {
+    "question": "“Ascension” is a process of",
+    "options": [
+      "Udana",
+      "Apana",
+      "Samana",
+      "Vyana"
+    ],
+    "correctIndex": 0,
+    "description": "Udana is the upward-moving prana and best fits ascension. Apana moves downward, Samana balances around the digestive center, and Vyana circulates throughout the body."
+  },
+  {
+    "question": "The Prana responsible for Yawning is -",
+    "options": [
+      "Naga",
+      "Devdutta",
+      "Dhananjaya",
+      "Kurma"
+    ],
+    "correctIndex": 1,
+    "description": "Devadatta is traditionally associated with yawning. Kurma relates more to blinking, Naga to belching in many traditional lists, and Dhananjaya has other functions."
+  },
+  {
+    "question": "Dhyana is actually a transcendental stage that happens as a result of the continuous practice of Pratyahara and Dharna.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true in the intended meditative progression: pratyahara supports dharana, and sustained dharana matures into dhyana. 'False' does not fit this classical sequence."
+  },
+  {
+    "question": "The hunger-inhibiting hormone is –",
+    "options": [
+      "Leptin",
+      "Insulin",
+      "Glucagon",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Leptin helps signal satiety and suppress appetite. Insulin regulates blood sugar, glucagon raises blood glucose, and 'none' is therefore incorrect."
+  },
+  {
+    "question": "As per Swatmaram, regular practice of Nadi Shodhan can purify the nadis within-",
+    "options": [
+      "3 months",
+      "3 years",
+      "2 months",
+      "2-3 months"
+    ],
+    "correctIndex": 0,
+    "description": "The keyed answer is 3 months. The other durations may sound plausible but do not match the answer sheet."
+  },
+  {
+    "question": "Which is the most suggested Asana for Pranayama as per HYP?",
+    "options": [
+      "Padmasana",
+      "Siddhasana",
+      "Vajrasana",
+      "Ardha Padmasana"
+    ],
+    "correctIndex": 1,
+    "description": "Siddhasana is especially praised in Hatha Yoga Pradipika for pranayama and higher practices. Padmasana is important too, but not the keyed answer here. Vajrasana and Ardha Padmasana are not the intended answer."
+  },
+  {
+    "question": "Kapalbhati is -",
+    "options": [
+      "A pranayama",
+      "A kriya"
+    ],
+    "correctIndex": 1,
+    "description": "In this quiz context, Kapalbhati is treated as a kriya. Although modern teaching sometimes loosely groups it under pranayama, the classical exam framing here expects 'A kriya.'"
+  },
+  {
+    "question": "The elements of Pranayama are-",
+    "options": [
+      "Puraka, Rechaka, Kevala",
+      "Puraka, Rechaka, Kumbhaka",
+      "Puraka, Bahya Kumbhaka, Antar Kumbhaka",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "The classical basic elements are inhalation (Puraka), exhalation (Rechaka), and retention (Kumbhaka). 'Kevala' is a special state, and option C lists subtypes rather than the general threefold structure."
+  }
+]

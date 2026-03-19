@@ -1,0 +1,538 @@
+[
+  {
+    "question": "Vibhuti Pada contains-",
+    "options": [
+      "34 Sutra",
+      "55 Sutra",
+      "51 Sutra",
+      "31 Sutra"
+    ],
+    "correctIndex": 1,
+    "description": "Vibhuti Pada is the third chapter of Patanjali Yoga Sutra and, as per this answer key, contains 55 sutras. The other numbers correspond to different padas or are simply not the count expected here."
+  },
+  {
+    "question": "Samadhi Pada is about -",
+    "options": [
+      "Contemplation",
+      "Practice",
+      "Properties & Power",
+      "Liberation"
+    ],
+    "correctIndex": 0,
+    "description": "Samadhi Pada mainly discusses the nature of yoga, citta-vritti-nirodha, and meditative absorption, so 'Contemplation' fits best. 'Practice' aligns more with Sadhana Pada, 'Properties & Power' with Vibhuti Pada, and 'Liberation' with Kaivalya Pada."
+  },
+  {
+    "question": "tadā draṣṭuḥ ______ avasthānam-",
+    "options": [
+      "Svarūpe",
+      "Rupe",
+      "Chittah",
+      "Ishwara"
+    ],
+    "correctIndex": 0,
+    "description": "The sutra is 'tadā draṣṭuḥ svarūpe'vasthānam'—then the seer abides in its own true nature. The other options do not complete the original sutra correctly."
+  },
+  {
+    "question": "śabda-jñāna-anupātī ______ vikalpaḥ ?",
+    "options": [
+      "Vastu-śūnyo",
+      "Abhava",
+      "Agamah",
+      "Vastu"
+    ],
+    "correctIndex": 0,
+    "description": "The full sutra is 'śabda-jñāna-anupātī vastu-śūnyo vikalpaḥ.' 'Vastu-śūnyo' is the correct completion. The remaining options do not match the original phrasing."
+  },
+  {
+    "question": "abhyāsa ______ tannirodhaḥ",
+    "options": [
+      "Vairāgyābhyām",
+      "Pranidhana",
+      "Anuśāsanam",
+      "Itaratra"
+    ],
+    "correctIndex": 0,
+    "description": "The sutra is 'abhyāsa-vairāgyābhyāṁ tannirodhaḥ'—the modifications are restrained by practice and dispassion. The other options do not complete this sutra."
+  },
+  {
+    "question": "______ mithyā-jñānam-atadrūpa pratiṣṭham.",
+    "options": [
+      "Viparyayo",
+      "Vikalpaḥ",
+      "Pramana",
+      "Nidra"
+    ],
+    "correctIndex": 0,
+    "description": "The sutra defines viparyaya: false knowledge not based on the real form of the object. The other terms refer to different vrittis."
+  },
+  {
+    "question": "abhāva pratyayālambanā vṛtti ______ .",
+    "options": [
+      "Nidrā",
+      "Smṛtiḥ",
+      "Pratyakṣham",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The sutra defines nidra as the vritti based on the cognition of absence. Smriti and pratyaksha are different categories."
+  },
+  {
+    "question": "ano-bhūta-viṣayā ______ smṛtiḥ",
+    "options": [
+      "Pramosah",
+      "Asaṁpramoṣaḥ",
+      "Alambana",
+      "Avikalpah"
+    ],
+    "correctIndex": 1,
+    "description": "The sutra is 'anubhūta-viṣayāsaṁpramoṣaḥ smṛtiḥ'—memory is retention of experienced objects. 'Asaṁpramoṣaḥ' is the correct completion; the others do not match."
+  },
+  {
+    "question": "vṛttayaḥ pañcatayyaḥ ______",
+    "options": [
+      "kliṣṭākliṣṭāḥ",
+      "Klishta",
+      "Akliṣṭa",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The full sutra says the vrittis are fivefold and are klishta or aklishta. The combined form 'kliṣṭākliṣṭāḥ' is the correct completion. The single-word options are incomplete."
+  },
+  {
+    "question": "pramāṇa viparyaya ______ nidrā smṛtayaḥ",
+    "options": [
+      "vikalpā",
+      "Itaratra",
+      "Nirodhah",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "This sutra lists the five vrittis: pramana, viparyaya, vikalpa, nidra, and smriti. So 'vikalpā' completes the line correctly."
+  },
+  {
+    "question": "karmaṇy-evādhikāras te mā ______ kadācana",
+    "options": [
+      "Phaleṣu",
+      "Karmeṣu",
+      "Akarmaṇi",
+      "Yoga"
+    ],
+    "correctIndex": 0,
+    "description": "The Bhagavad Gita verse reads 'karmaṇy-evādhikāras te mā phaleṣu kadācana'—you have a right to action, not to the fruits. The other options do not complete the verse."
+  },
+  {
+    "question": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate. This shloka is from which chapter of Bhagavad Gita ?",
+    "options": [
+      "2.48",
+      "2.47",
+      "2.50",
+      "2.49"
+    ],
+    "correctIndex": 0,
+    "description": "This verse is Bhagavad Gita 2.48, the famous statement identifying equanimity with yoga. The nearby verses 2.47, 2.49, and 2.50 are related but not this exact shloka."
+  },
+  {
+    "question": "Skill in ______ is yoga",
+    "options": [
+      "Action",
+      "Balance",
+      "Success",
+      "Equanimity"
+    ],
+    "correctIndex": 0,
+    "description": "This reflects 'yogaḥ karmasu kauśalam'—yoga is skill in action. The other options may be associated with yoga conceptually, but 'Action' is the direct completion here."
+  },
+  {
+    "question": "“Yogah Karmashu Kaushalam “is the excerpt from which chapter of the Bhagavad Gita?",
+    "options": [
+      "2.50",
+      "2.48",
+      "2.50",
+      "6.14"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks 2.50, which is the standard source of 'yogaḥ karmasu kauśalam.' The other references do not match the exact excerpt."
+  },
+  {
+    "question": "“Samatvam Yog Uchyate” means-",
+    "options": [
+      "Not be attached to action",
+      "Equanimity is called Yog",
+      "This is called Yog",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "The phrase means 'equanimity is called yoga.' The other options are either too vague or shift the meaning away from equanimity."
+  },
+  {
+    "question": "The core teaching of the Bhagavad Gita remains to overcome the duality of pleasure/pain, success/failure, Profit/Loss, etc.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true because equanimity amid dualities is a repeated core teaching of the Gita. 'False' contradicts one of its central themes."
+  },
+  {
+    "question": "mā te saṅgo’stv- ______",
+    "options": [
+      "Akarmaṇi",
+      "Karmaṇi",
+      "Karmeṣu",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The verse completes as 'mā te saṅgo 'stv akarmaṇi'—do not become attached to inaction. The other choices do not fit the original verse."
+  },
+  {
+    "question": "As per Bhagavad Gita, one should discard reward-seeking behavior. As this will bind the individual with the results, good or bad.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true in the karma yoga framework of the Gita. Attachment to results leads to bondage. 'False' contradicts that teaching."
+  },
+  {
+    "question": "How many chapters are there in Bhagavad Gita-",
+    "options": [
+      "16",
+      "18",
+      "12",
+      "20"
+    ],
+    "correctIndex": 1,
+    "description": "The Bhagavad Gita has 18 chapters. The other numbers are incorrect."
+  },
+  {
+    "question": "Bhagavad Gita is a conversation between -",
+    "options": [
+      "Shri Krishna and Arjuna",
+      "Sanjaya and Dhritarashtra",
+      "Shri Krishna and the world",
+      "Shri Krishna and the Abhimanyu"
+    ],
+    "correctIndex": 0,
+    "description": "The main teaching dialogue of the Gita is between Shri Krishna and Arjuna. Sanjaya narrates it to Dhritarashtra, but they are not the primary dialogue pair."
+  },
+  {
+    "question": "Who is the author of Hatha Yoga Pradipika",
+    "options": [
+      "Sage Swatmaram Suri",
+      "Sage Gherand",
+      "Sage Matsyendranath",
+      "Sage Kuvalayananda"
+    ],
+    "correctIndex": 0,
+    "description": "Hatha Yoga Pradipika was authored by Swatmarama. Gheranda authored Gheranda Samhita, Matsyendranath is a revered Nath figure, and Kuvalayananda is a modern yoga scholar."
+  },
+  {
+    "question": "Which Asana is considered the most important asana in HYP",
+    "options": [
+      "Padmasana",
+      "Bhadrasana",
+      "Siddhasana",
+      "Vajrasana"
+    ],
+    "correctIndex": 2,
+    "description": "Siddhasana is especially exalted in Hatha Yoga Pradipika. The others are important, but Siddhasana is the keyed answer here."
+  },
+  {
+    "question": "Which asana is not mentioned in HYP?",
+    "options": [
+      "Veerasana",
+      "Bhujangasana",
+      "Paschimottanasana",
+      "Shavasana"
+    ],
+    "correctIndex": 1,
+    "description": "As per the answer key, Bhujangasana is the one not mentioned here. The other listed asanas are part of the text's discussed set in this exam context."
+  },
+  {
+    "question": "Prayasa is mentioned as one of the -",
+    "options": [
+      "Sadhaka Tattva (Cause of Success)",
+      "Badhak Tattva (Cause of Failure)",
+      "Practice of Nauli",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "Excessive effort (prayasa) is classically treated as an obstacle or cause of failure, not a success factor. It is also not a Nauli practice."
+  },
+  {
+    "question": "Basti is done in which Asana",
+    "options": [
+      "Utkatasana",
+      "Malasana",
+      "Mandukasana",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks Utkatasana here. The other options are not the expected answer in this quiz."
+  },
+  {
+    "question": "Which pranayama helps in removing the worms?",
+    "options": [
+      "Kapalbhati",
+      "SuryaBheda",
+      "Ujjayi",
+      "Bhastrika"
+    ],
+    "correctIndex": 1,
+    "description": "The answer sheet identifies SuryaBheda as the intended answer. The other pranayamas have different primary uses in the traditional descriptions."
+  },
+  {
+    "question": "Which mudra is performed during Sheetali Pranayama?",
+    "options": [
+      "Khechari Mudra",
+      "Kaki Mudra",
+      "Ashwini Mudra",
+      "A & B both"
+    ],
+    "correctIndex": 1,
+    "description": "The answer key marks Kaki Mudra. Khechari and Ashwini are different practices, and 'A & B both' is not the keyed choice."
+  },
+  {
+    "question": "In Kapalbhati air is inhaled and exhaled repeatedly through the nostrils like a pair of bellows being pumped.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false because the bellows-like description is more accurately associated with Bhastrika, not Kapalbhati in this exam framing. So 'True' is not a fit."
+  },
+  {
+    "question": "Match the following - Arambha - Avastha (Beginning Stage) / Ghata- Avastha (Vessel Stage) / Parichaya - Avastha (Stage of Increase) / Nishpatti - Avastha (Stage of consummation) with kettledrum / drum / flute, veena / tinkling sound",
+    "options": [
+      "A-D, B-A, C-B, D-C",
+      "A-A, B-D, C-B, D-C",
+      "A-C, B-A, C-D, D-B",
+      "A-D, B-A, C-C, D-D"
+    ],
+    "correctIndex": 0,
+    "description": "According to the answer sheet, the correct matching pattern is A-D, B-A, C-B, D-C. The other patterns do not match the keyed sequence."
+  },
+  {
+    "question": "Vipaceeta Karani is type of",
+    "options": [
+      "Asana",
+      "Mudra",
+      "Bandha",
+      "Sthula Vyayama"
+    ],
+    "correctIndex": 1,
+    "description": "Viparita Karani is treated here as a mudra in the traditional hatha context. The other options do not match the answer key."
+  },
+  {
+    "question": "What is Prashthanatrayi?",
+    "options": [
+      "The Upanishads, the Bhagavad Gita, and the Brahma Sutras",
+      "The Upanishads, the Bhagavad Gita, and the Vedas",
+      "The Upanishads, Shad Darshana, and the Brahma Sutras",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Prasthanatrayi traditionally refers to the Upanishads, Bhagavad Gita, and Brahma Sutras. The other groupings are incorrect."
+  },
+  {
+    "question": "Which one is known as Sruti Prasthana?",
+    "options": [
+      "The Brahma Sutra",
+      "The Upanishad",
+      "Samkhya",
+      "Shad Darshana"
+    ],
+    "correctIndex": 2,
+    "description": "The answer key marks Samkhya as correct for this quiz. Even though traditional classifications are often taught differently, this JSON follows your provided answer sheet strictly."
+  },
+  {
+    "question": "Which is known as Yukti Prasthan?",
+    "options": [
+      "Bhagavad Gita",
+      "Nyaya Darshana",
+      "Vedanta",
+      "None of the above"
+    ],
+    "correctIndex": 3,
+    "description": "The answer sheet marks 'None of the above.' This file follows your answer key exactly, even where the item may differ from other references."
+  },
+  {
+    "question": "In the context of Prasthan Trayi, Bhagavad Gita is also referred as-",
+    "options": [
+      "Shruti Prasthana",
+      "Smriti Prasthana",
+      "Yukti Prasthana",
+      "Karma Yoga Shastra"
+    ],
+    "correctIndex": 1,
+    "description": "Bhagavad Gita is referred to as Smriti Prasthana in the Prasthanatrayi framework. The other labels do not fit this classification."
+  },
+  {
+    "question": "Which karma should be kept hidden like a golden casket?",
+    "options": [
+      "Trataka",
+      "Basti",
+      "Bahishkrit",
+      "Moola Shodhan"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks Trataka as the intended answer. The other kriyas do not match the keyed choice."
+  },
+  {
+    "question": "Epileptics should not do Trataka.",
+    "options": [
+      "They shouldn’t gaze at a flickering object such as a candle",
+      "They should choose a steady object",
+      "True",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "According to the answer key, both A and B are relevant, so 'A & B' is correct. The single statements alone are incomplete compared with the keyed option."
+  },
+  {
+    "question": "Moorchha pranayama is highly advisable for general people suffering from anxiety / mental tension.",
+    "options": [
+      "This is an advanced pranayama, not recommended for a general practitioner.",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "The correct answer is the cautionary statement: Moorchha is advanced and not generally recommended for everyone. 'True' is therefore not appropriate."
+  },
+  {
+    "question": "In Ujjayi pranayama, the exhale should be done through-",
+    "options": [
+      "Ida",
+      "Pingala",
+      "Both the nostrils",
+      "Mouth"
+    ],
+    "correctIndex": 0,
+    "description": "The answer sheet marks Ida as correct. The other options do not match the keyed answer used in your material."
+  },
+  {
+    "question": "Which pranayama helps in curbing hunger and thirst?",
+    "options": [
+      "Seetkari",
+      "Sheetali",
+      "Anuloma-Viloma",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "The keyed answer is 'A & B', meaning both Seetkari and Sheetali are associated with reducing hunger and thirst. Choosing only one would be incomplete."
+  },
+  {
+    "question": "How many mudras are mentioned in HYP?",
+    "options": [
+      "6",
+      "10",
+      "5",
+      "8"
+    ],
+    "correctIndex": 1,
+    "description": "The answer key marks 10. The other numbers do not match the count expected in this quiz."
+  },
+  {
+    "question": "As per the concept of Mitahara, how much food should be taken?",
+    "options": [
+      "3/4th of the stomach",
+      "1/4th of the stomach",
+      "Full stomach",
+      "½ of the stomach"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks 3/4th of the stomach. The remaining options do not match the keyed understanding used in your text."
+  },
+  {
+    "question": "Kulattha (horse gram) is a prescribed food in HYP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "description": "This is false according to the answer key. The file follows your answer sheet strictly."
+  },
+  {
+    "question": "The yogi should take nourishing and sweet food mixed with ghee and milk, it should nourish the Dhatus and should be pleasing and suitable",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true in the classical hatha diet context used in the quiz. 'False' contradicts the prescribed dietary guideline reflected here."
+  },
+  {
+    "question": "Bhagavad Gita considers the Right food very important as only then individuals can mitigate all sorrows.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks this as true. It aligns with the larger traditional emphasis on food quality and guna-based diet."
+  },
+  {
+    "question": "What is panch Shaka as per Gherand Samhita?",
+    "options": [
+      "Patolak Phala, Kalsak, Vastak, Himlochika, Balsak",
+      "Patolak Phala, harit Shaka, Vastak, Himlochika, Balsak",
+      "Palkya, Kembukam, Vastak, Himlochika, Balsak",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "According to the answer key, the first combination is correct. The other lists do not match the keyed set."
+  },
+  {
+    "question": "Divyam Udkam refers to",
+    "options": [
+      "Amrit",
+      "Rain Water",
+      "The nectar drops which fall on Sharad Purnima",
+      "Earth-Water"
+    ],
+    "correctIndex": 1,
+    "description": "The answer sheet marks Rain Water as correct. The other options may sound related poetically, but they are not the keyed answer here."
+  },
+  {
+    "question": "As per HYP which food should not be eaten?",
+    "options": [
+      "Reheated",
+      "Devoid of natural oils",
+      "Too many mixed vegetables",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "The answer key marks 'All of the above', meaning all listed food types are to be avoided in this question’s framework. Choosing only one would be incomplete."
+  },
+  {
+    "question": "Which is the prescribed food in HYP for a yogi?",
+    "options": [
+      "Navnita",
+      "Sita",
+      "Madhuni",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "The answer key gives 'All of the above', so all listed items are treated as prescribed here. Picking one alone would not match the key."
+  },
+  {
+    "question": "Which is the prohibited food in HYP for a yogi?",
+    "options": [
+      "Dadhi",
+      "Takra",
+      "Kulattha",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "The answer key marks 'All of the above'. Therefore all listed items are treated as prohibited in this question context."
+  },
+  {
+    "question": "yuktāhāra-vihārasya ________ yukta-svapnāvabodhasya yogo bhavati duḥkha-hā",
+    "options": [
+      "yukta-ceṣṭasya karmasu",
+      "yukta karmani Karmashu",
+      "yukta karmani Kaushalam",
+      "Yukta karmani uchyate"
+    ],
+    "correctIndex": 0,
+    "description": "The Bhagavad Gita verse completes with 'yukta-ceṣṭasya karmasu.' The other options mix phrases from other teachings and do not complete this verse correctly."
+  }
+]

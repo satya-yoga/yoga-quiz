@@ -1,0 +1,662 @@
+[
+  {
+    "question": "According to Patanjali “Trayam Ektra” is-",
+    "options": [
+      "Sanshaya",
+      "Sayamah",
+      "Samadhi",
+      "Gunah"
+    ],
+    "correctIndex": 1,
+    "description": "Sayamah is correct as per the answer key. The other options refer to different yogic or philosophical terms and do not match the expected answer for this question."
+  },
+  {
+    "question": "What is kriya yoga ?",
+    "options": [
+      "Raga, Dvesha, Abhinivesha",
+      "Pratyahara, Dharana, Dhyana",
+      "Tapas, Swadhyaya, Ishvara Pranidhana",
+      "Asana, Pranayama, Dharana"
+    ],
+    "correctIndex": 2,
+    "description": "Kriya Yoga in Patanjali consists of Tapas, Swadhyaya, and Ishvara Pranidhana. The other options describe either kleshas or different limbs/practices of yoga."
+  },
+  {
+    "question": "Which of the following asana enhances appetite?",
+    "options": [
+      "Siddhasana",
+      "Baddha-Padmasana",
+      "Shavasana",
+      "Paschimottanasana"
+    ],
+    "correctIndex": 3,
+    "description": "Paschimottanasana is the keyed answer here and is traditionally associated with stimulating digestion and appetite. The other asanas do not fit this question as closely."
+  },
+  {
+    "question": "Name three types of Sharira-",
+    "options": [
+      "Sthula, Sukshma, Karana",
+      "Sukshma, Turiya, Ekagra",
+      "Karana, karma, Niruddha",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The three shariras are Sthula, Sukshma, and Karana Sharira. The other options mix unrelated states or concepts and are not the standard classification."
+  },
+  {
+    "question": "Which Kosha is responsible for all the physical and mental functions.",
+    "options": [
+      "Annamaya Kosha",
+      "Manomaya Kosha",
+      "Pranamaya Kosha",
+      "All"
+    ],
+    "correctIndex": 3,
+    "description": "All is correct here because the kosha framework is being treated in this quiz as together covering physical and mental functioning. Choosing only one kosha would be incomplete in this exam context."
+  },
+  {
+    "question": "Sadhana Chatushtaya helps in the preparation of -------- and --------.",
+    "options": [
+      "Jnana, Karma, Bhakti Yoga",
+      "Tapa, Swadhyaya, Ishvarpranidhana",
+      "Sravana, Manana, Nididhyasana",
+      "Intellect, Emotion and Will"
+    ],
+    "correctIndex": 3,
+    "description": "According to the answer key, Sadhana Chatushtaya prepares intellect, emotion, and will. The other options refer to different paths or practices, not the intended preparatory set here."
+  },
+  {
+    "question": "Which Guna is dominated in the “Moodha” state of Chitta?",
+    "options": [
+      "Tamo Guna",
+      "Rajo Guna",
+      "Satva Guna",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Moodha Chitta is dominated by Tamo Guna, which is associated with dullness, inertia, and confusion. Rajas and Sattva do not define this state."
+  },
+  {
+    "question": "According to Hathayoga Pradipika which one is considered as a Kapalbhati?",
+    "options": [
+      "Vata Karma",
+      "Vyut Karma",
+      "Sheet Karma",
+      "All"
+    ],
+    "correctIndex": 0,
+    "description": "Vata Karma is the answer marked in your key as a form of Kapalbhati in this quiz. The other options are different kriya classifications or an inclusive option not chosen in the key."
+  },
+  {
+    "question": "Which is true?",
+    "options": [
+      "Annamaya Kosha is a mental vehicle,",
+      "Annamaya Kosha is a physical vehicle,",
+      "Manomaya Kosha is a physical vehicle.",
+      "All"
+    ],
+    "correctIndex": 1,
+    "description": "Annamaya Kosha is the physical sheath, so option B is correct. The mental vehicle corresponds more to subtler sheaths, making the other statements incorrect."
+  },
+  {
+    "question": "Swadhyaya and Ishvarpranidhana are classified under-",
+    "options": [
+      "Niyama",
+      "Asana",
+      "Yama",
+      "Samadhi"
+    ],
+    "correctIndex": 0,
+    "description": "Swadhyaya and Ishvarapranidhana are part of Niyama in Ashtanga Yoga. They are not classified under Asana, Yama, or Samadhi."
+  },
+  {
+    "question": "Tamas Guna is responsible for-",
+    "options": [
+      "Laziness and lethargy",
+      "All activities in the body",
+      "Knowledge, Concentration, Awareness",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "description": "Tamas is associated with laziness and lethargy. Activity, knowledge, concentration, and awareness are not qualities of Tamas."
+  },
+  {
+    "question": "Which Chaturanga Yogas are propounded by Swami Swatmaram?",
+    "options": [
+      "Asana, Pranayama",
+      "Mudra & Nadanusandhana",
+      "A&B",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "description": "A & B is correct because Swami Swatmaram presents both Asana–Pranayama and Mudra–Nadanusandhana groupings in the practical structure of Hatha Yoga."
+  },
+  {
+    "question": "Which one is not an element of Indian Philosophy?",
+    "options": [
+      "Sankhya",
+      "Yoga",
+      "Jainism",
+      "Nyaya"
+    ],
+    "correctIndex": 2,
+    "description": "Jainism is the option marked as not being one of the classical elements listed here. Sankhya, Yoga, and Nyaya are well-known Indian philosophical systems."
+  },
+  {
+    "question": "Which of these refer to set personal discipline?",
+    "options": [
+      "Niyama",
+      "Dhyana",
+      "Yama",
+      "Dharna"
+    ],
+    "correctIndex": 0,
+    "description": "Niyama refers to personal discipline and observances. Yama relates more to social restraints, while Dhyana and Dharana are meditative limbs."
+  },
+  {
+    "question": "In which of the following texts the concept of Ashtanga Yoga is highlighted?",
+    "options": [
+      "Patanjali Yoga Darshan",
+      "Bhagwad-Gita",
+      "Hatha Yoga Pradipika",
+      "Gherand Samhita"
+    ],
+    "correctIndex": 0,
+    "description": "The concept of Ashtanga Yoga is highlighted in Patanjali Yoga Darshan. The other texts are important, but this system is classically identified with Patanjali."
+  },
+  {
+    "question": "The human skeletal system is made up of which elements?",
+    "options": [
+      "Bones",
+      "Ligaments",
+      "Tendons",
+      "All"
+    ],
+    "correctIndex": 3,
+    "description": "All is correct because the skeletal system is built from bones and is functionally supported by ligaments and tendons in this quiz framing. The inclusive option best matches the answer key."
+  },
+  {
+    "question": "Which of the following statements regarding Shatkarma is correct?",
+    "options": [
+      "Neti cleanses the digestive tract",
+      "Dhauti massages abdomen",
+      "Nauli cleanses nasal passages",
+      "Kapalbhati purifies the frontal brain"
+    ],
+    "correctIndex": 3,
+    "description": "Kapalbhati purifies the frontal brain is the correct statement. The other statements incorrectly describe the actions of Neti, Dhauti, or Nauli."
+  },
+  {
+    "question": "Sutra number 1.5 is –",
+    "options": [
+      "Yogascha Chitta Vritti Nirodhah",
+      "Vrittayah Panchatayah Klishta Aklishta",
+      "Pramana Viparyaya Vikalpa Nidra Smritayah",
+      "Atha Yoga Anusasanam"
+    ],
+    "correctIndex": 1,
+    "description": "Yoga Sutra 1.5 is 'Vrittayah Panchatayah Klishta Aklishta.' The other sutras belong to different verse numbers."
+  },
+  {
+    "question": "Yoga is --------",
+    "options": [
+      "Exercise",
+      "Religion",
+      "Therapy",
+      "Discipline"
+    ],
+    "correctIndex": 3,
+    "description": "In this exam context, Yoga is best identified as discipline. The other options may capture partial modern views, but the answer key selects discipline."
+  },
+  {
+    "question": "The term “yoga” is derived by ________ in the 6th century.",
+    "options": [
+      "Patanjali",
+      "Panini",
+      "Kabila",
+      "Vyasa"
+    ],
+    "correctIndex": 1,
+    "description": "The term 'yoga' is marked here as derived by Panini. The other names are important figures but not the keyed answer in this question."
+  },
+  {
+    "question": "The productive cause of all Triguna is ________",
+    "options": [
+      "Manas",
+      "Buddhi",
+      "Ahamkara",
+      "Chitta"
+    ],
+    "correctIndex": 2,
+    "description": "Ahamkara is the keyed answer here as the productive cause of all Triguna in this quiz’s framework. The other terms do not match the provided key."
+  },
+  {
+    "question": "In the Sanskrit word Guru- ru means-",
+    "options": [
+      "Destroy",
+      "Darkness",
+      "Teach",
+      "Illumination"
+    ],
+    "correctIndex": 3,
+    "description": "The answer key marks illumination here. The other options do not match the provided exam key."
+  },
+  {
+    "question": "According to Jnana Yoga “Not losing sight of ultimate goal” refers to-",
+    "options": [
+      "Shraddha",
+      "Vairagya",
+      "Samadhan",
+      "Uparati"
+    ],
+    "correctIndex": 2,
+    "description": "Samadhan refers to keeping the mind steadily fixed on the goal and not losing sight of the ultimate aim. The other options are related but different concepts."
+  },
+  {
+    "question": "Foremost pioneer of Yoga______",
+    "options": [
+      "Patanjali",
+      "Hiranyagarbha",
+      "Gherand",
+      "Gorakhnath"
+    ],
+    "correctIndex": 1,
+    "description": "Hiranyagarbha is traditionally regarded as the foremost pioneer of Yoga. The other figures are major contributors, but the key marks Hiranyagarbha."
+  },
+  {
+    "question": "Third 25 years of “Ashrama” life is__",
+    "options": [
+      "Sanyasi",
+      "Brahmacharya",
+      "Grihastha",
+      "Vanaprastha"
+    ],
+    "correctIndex": 3,
+    "description": "The third 25 years of Ashrama life is Vanaprastha. Brahmacharya is the first, Grihastha the second, and Sanyasa the final stage."
+  },
+  {
+    "question": "A Yogic diet is—",
+    "options": [
+      "Lacto-vegetarian",
+      "Vegetarian",
+      "Raw food",
+      "Fruits"
+    ],
+    "correctIndex": 1,
+    "description": "According to the answer key, a yogic diet is vegetarian. The other options may be subsets or variations, but they are not the selected answer here."
+  },
+  {
+    "question": "The spicy foods are_____ quality",
+    "options": [
+      "Sattvics",
+      "Rajasics",
+      "Tamasics",
+      "Sampoorna"
+    ],
+    "correctIndex": 1,
+    "description": "Spicy foods are categorized as Rajasic because they stimulate and excite the system. They are not Sattvic or Tamasic in this question’s classification."
+  },
+  {
+    "question": "Inhalation and exhalation are both done forcefully and rapidly is referred as-",
+    "options": [
+      "Kapalbhati",
+      "Bhastrika",
+      "Sheetali",
+      "Ujjayi"
+    ],
+    "correctIndex": 1,
+    "description": "Bhastrika involves forceful inhalation and forceful exhalation. Kapalbhati emphasizes active exhalation more specifically, so it is not the best fit here."
+  },
+  {
+    "question": "Lord Krishna explains_____ paths of yoga to Arjuna.",
+    "options": [
+      "Three",
+      "Eight",
+      "18",
+      "Seven"
+    ],
+    "correctIndex": 2,
+    "description": "The answer key marks 18 paths of yoga to Arjuna in this question’s exam framing. The other numbers do not match the provided key."
+  },
+  {
+    "question": "Ligaments belong to ____ system.",
+    "options": [
+      "Muscular",
+      "Skeletal",
+      "Nervous",
+      "Endocrine"
+    ],
+    "correctIndex": 1,
+    "description": "Ligaments belong to the skeletal system because they connect bone to bone and stabilize joints. They are not part of the muscular, nervous, or endocrine systems."
+  },
+  {
+    "question": "Cardiac, skeletal and ____ are three types of muscles-",
+    "options": [
+      "Endocrine",
+      "Respiratory",
+      "Hard",
+      "Smooth"
+    ],
+    "correctIndex": 3,
+    "description": "The three muscle types are cardiac, skeletal, and smooth. The other options are not muscle tissue categories."
+  },
+  {
+    "question": "Around the Yoga practices area, it is best to have ____ walls.",
+    "options": [
+      "Plain",
+      "Decorated",
+      "Asana pictures",
+      "Instructions"
+    ],
+    "correctIndex": 0,
+    "description": "Plain walls are preferred around the yoga practice area to reduce distraction. Decorated walls, pictures, or written instructions can disturb focus."
+  },
+  {
+    "question": "Greeva-Sanachalasana is to increase the flexibility of –",
+    "options": [
+      "Trunk",
+      "Shoulders",
+      "Neck",
+      "Ankle"
+    ],
+    "correctIndex": 2,
+    "description": "Greeva-Sanchalana is a neck movement practice, so it increases flexibility of the neck. The other body parts do not match the name or function."
+  },
+  {
+    "question": "Which practice removes blocks and tightness in muscles and strengthens them?",
+    "options": [
+      "Asana",
+      "Sukshma Vyayama",
+      "Shad Kriya",
+      "Pranayama"
+    ],
+    "correctIndex": 0,
+    "description": "According to the answer key, Asana is correct. The other options may support the body differently, but they are not the selected answer here."
+  },
+  {
+    "question": "In which purificatory process cloth is used?",
+    "options": [
+      "Basti",
+      "Trataka",
+      "Dhauti",
+      "Neti"
+    ],
+    "correctIndex": 2,
+    "description": "Dhauti is the purification process in which cloth is used. Basti, Trataka, and Neti involve different cleansing methods."
+  },
+  {
+    "question": "In which traditional text “Surya Namaskara” practice is explained?",
+    "options": [
+      "HYP",
+      "GS",
+      "Hatha Ratnavali",
+      "None of the above"
+    ],
+    "correctIndex": 3,
+    "description": "According to the answer key, none of the listed texts is the correct source here. So option D must be selected even if related practices are discussed elsewhere."
+  },
+  {
+    "question": "Breath through teeth in-",
+    "options": [
+      "Sheetali",
+      "Seetkari",
+      "Nadishuddi",
+      "Ujjayi"
+    ],
+    "correctIndex": 1,
+    "description": "Seetkari is performed by drawing breath through the teeth. Sheetali uses the rolled tongue, while Nadi Shuddhi and Ujjayi are different pranayama methods."
+  },
+  {
+    "question": "Shankha Prakshalana’ is one of-",
+    "options": [
+      "Asana",
+      "Kriya",
+      "Pranayama",
+      "Niyama"
+    ],
+    "correctIndex": 1,
+    "description": "Shankha Prakshalana is a cleansing practice, so it is categorized as a Kriya. It is not an asana, pranayama, or niyama."
+  },
+  {
+    "question": "Retaining the breath after the exhalation phase is called",
+    "options": [
+      "Kumbhaka",
+      "Bahya Kumbhaka",
+      "Antar Kumbhaka",
+      "Kevala kumbhaka"
+    ],
+    "correctIndex": 1,
+    "description": "Retention after exhalation is called Bahya Kumbhaka. Antar Kumbhaka is after inhalation, and Kevala Kumbhaka is spontaneous retention."
+  },
+  {
+    "question": "Tapas, Swadhyaya, and Ishwara Pranidhana are specified as___yoga",
+    "options": [
+      "Antaranga",
+      "Bahiranga",
+      "Ashtanga",
+      "Kriya"
+    ],
+    "correctIndex": 3,
+    "description": "Tapas, Swadhyaya, and Ishvara Pranidhana together are called Kriya Yoga in Patanjali. The other categories do not match this triad."
+  },
+  {
+    "question": "‘Aparigraha’ is one of the",
+    "options": [
+      "Yama",
+      "Niyama",
+      "Dharana",
+      "Kriya"
+    ],
+    "correctIndex": 0,
+    "description": "Aparigraha is one of the Yamas. It is not a Niyama, Dharana, or Kriya."
+  },
+  {
+    "question": "Om Savitre Namah’ in this “Savitre” meant for",
+    "options": [
+      "Possesses rays",
+      "Son of Aditi",
+      "Nourishes all",
+      "Produces everything"
+    ],
+    "correctIndex": 3,
+    "description": "According to the provided answer key, 'Om Savitre Namah' is keyed as 'Produces everything.' The other options are not the selected answer in this exam."
+  },
+  {
+    "question": "Mother Teresa is",
+    "options": [
+      "Karma Yogi",
+      "Jnana Yogi",
+      "Raja Yogi",
+      "Bhakti Yogi"
+    ],
+    "correctIndex": 0,
+    "description": "Mother Teresa is best identified here as a Karma Yogi because of her life of selfless service. The other yogic labels are not the keyed answer."
+  },
+  {
+    "question": "Which one of the following is a female sex hormone?",
+    "options": [
+      "Estrogen",
+      "Insulin",
+      "Oxytocin",
+      "Androgen"
+    ],
+    "correctIndex": 0,
+    "description": "Estrogen is the female sex hormone asked for here. Insulin and oxytocin have different functions, and androgen is primarily associated with male characteristics."
+  },
+  {
+    "question": "Which one of the following is not a part of the Small Intestine?",
+    "options": [
+      "Jejunum",
+      "ileum",
+      "Caccum",
+      "Duodenum"
+    ],
+    "correctIndex": 2,
+    "description": "Caecum is part of the large intestine, not the small intestine. Jejunum, ileum, and duodenum are all parts of the small intestine."
+  },
+  {
+    "question": "How many types of Karma are mentioned in Bhagavad-Gita:",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 1,
+    "description": "The answer key marks 4 types of Karma in Bhagavad Gita for this question. The other numbers do not match the key."
+  },
+  {
+    "question": "A mineral that the body needs to work properly is:",
+    "options": [
+      "Gold",
+      "Silver",
+      "Lead",
+      "Calcium"
+    ],
+    "correctIndex": 3,
+    "description": "Calcium is the mineral the body needs to function properly in this question. Gold, silver, and lead are not correct nutritional answers here."
+  },
+  {
+    "question": "When shall a Yoga lesson plan be prepared for effective teaching:",
+    "options": [
+      "After completion of the class",
+      "Just before the class",
+      "One week before the class",
+      "One or two days before the class"
+    ],
+    "correctIndex": 1,
+    "description": "A yoga lesson plan should be prepared just before the class according to the answer key provided. The other timings are not the marked response here."
+  },
+  {
+    "question": "Citrus fruits are an excellent source of:",
+    "options": [
+      "Calories",
+      "Calcium",
+      "Vitamin B",
+      "Vitamin C"
+    ],
+    "correctIndex": 3,
+    "description": "Citrus fruits are well known for being rich in Vitamin C. The other nutrients listed are not the best match."
+  },
+  {
+    "question": "The largest part of the Human Brain is:",
+    "options": [
+      "Medulla Oblongata",
+      "Pons",
+      "Cerebellum",
+      "Cerebrum"
+    ],
+    "correctIndex": 3,
+    "description": "The cerebrum is the largest part of the human brain. Medulla, pons, and cerebellum are smaller regions with different roles."
+  },
+  {
+    "question": "According to Patanjali yoga Purusha and Prakriti are called:",
+    "options": [
+      "Soul and God",
+      "Senses and Subjects",
+      "Soul and Mind",
+      "Seer and Scene"
+    ],
+    "correctIndex": 3,
+    "description": "According to Patanjali, Purusha and Prakriti are understood as the Seer and the Seen. The other pairings do not match this classical idea."
+  },
+  {
+    "question": "Which of the following is not an Enzyme:",
+    "options": [
+      "Amylase",
+      "Trypsin",
+      "Somatotropin",
+      "Pepsin"
+    ],
+    "correctIndex": 2,
+    "description": "Somatotropin is a hormone, not an enzyme. Amylase, trypsin, and pepsin are enzymes."
+  },
+  {
+    "question": "When the question-and-answer session shall be held during a Yoga practical teaching:",
+    "options": [
+      "Beginning of the class",
+      "anytime during the class",
+      "At the very End of the lesson",
+      "After introducing the practice"
+    ],
+    "correctIndex": 2,
+    "description": "The answer key marks that the question-and-answer session should be held at the very end of the lesson. The other timings are not selected in your source."
+  },
+  {
+    "question": "The Yoga class usually begins with:",
+    "options": [
+      "Yogic Sukshma Vyayama",
+      "Surya Namaskar",
+      "Yogasana",
+      "Prayer"
+    ],
+    "correctIndex": 3,
+    "description": "A yoga class usually begins with prayer in this quiz set. The other practices may appear later, but the key marks prayer as the opening."
+  },
+  {
+    "question": "The types of food according to Bhagavad-Gita are:",
+    "options": [
+      "Four",
+      "Two",
+      "Six",
+      "Three"
+    ],
+    "correctIndex": 3,
+    "description": "Bhagavad Gita classifies food into three types. The other counts are incorrect."
+  },
+  {
+    "question": "Which of the following is not a factor influencing teaching?",
+    "options": [
+      "Environment",
+      "Student",
+      "Teacher",
+      "Social status of a teacher"
+    ],
+    "correctIndex": 3,
+    "description": "Social status of a teacher is not treated here as a factor influencing teaching. Environment, student, and teacher are directly relevant factors."
+  },
+  {
+    "question": "According to Bhagavad-Gita Non-violence, forgiveness, purity, and Mercy are the characteristics of:",
+    "options": [
+      "Asuri Sampada",
+      "Rajas",
+      "Daivi Sampada",
+      "Satva and Rajas"
+    ],
+    "correctIndex": 2,
+    "description": "Non-violence, forgiveness, purity, and mercy are characteristics of Daivi Sampada, the divine qualities. The other options do not fit these virtues."
+  },
+  {
+    "question": "Freedom from miseries and sufferings",
+    "options": [
+      "Sadhana",
+      "Kaivalya",
+      "Samadhi",
+      "Vibhuti"
+    ],
+    "correctIndex": 1,
+    "description": "Freedom from miseries and suffering is Kaivalya in this question. Sadhana, Samadhi, and Vibhuti refer to different stages or attainments."
+  },
+  {
+    "question": "The process of conscious sleeping is",
+    "options": [
+      "Dhyana",
+      "Samadhi",
+      "Yoga nidra",
+      "Shavasana"
+    ],
+    "correctIndex": 2,
+    "description": "The process of conscious sleeping is Yoga Nidra. Dhyana and Samadhi are meditative states, while Shavasana is a relaxation posture."
+  },
+  {
+    "question": "The proper order for the teaching process-",
+    "options": [
+      "d b e a c",
+      "b d c a e",
+      "a b c d e",
+      "d e b a c"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks option A as the correct order of the teaching process. The other sequences do not match the provided exam key."
+  }
+]

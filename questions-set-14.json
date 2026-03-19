@@ -1,0 +1,532 @@
+[
+  {
+    "question": "Why is Hatha Yoga considered a very practical regimen in modern times?",
+    "options": [
+      "Because it follows a bodily approach",
+      "Because it works on all 5 parameters of physical fitness",
+      "Because it lets you move on to the higher spiritual practices while not ignoring the body",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because Hatha Yoga works through the body, improves overall physical fitness, and also prepares the practitioner for higher spiritual practices. The first three options each describe a true aspect, but only option D includes the full picture."
+  },
+  {
+    "question": "In Hatha yoga, practitioners are supposed to hold a yoga posture with stubbornness even if it is hurting them.",
+    "options": [
+      "False, Hatha basically means the balancing of Ha, and Tha (Ida and Pingala) and not only holding the asana.",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "The statement is false. Hatha Yoga is not about forcing postures through pain. It emphasizes balance, awareness, and proper practice. 'True' is not a fit because stubbornness and pain are against yogic discipline and safety."
+  },
+  {
+    "question": "Hatha Yoga is best suited for young adults.",
+    "options": [
+      "False, anyone from the age of 9 can practice hatha yoga,",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "The statement is false because Hatha Yoga is not limited to young adults. It can be practiced by a broad age range with appropriate guidance. 'True' is too restrictive and does not match the intended teaching."
+  },
+  {
+    "question": "Pregnant women should only practice pranayama and Dhyan. As, Mudra, Bandha, and Asana can be harmful for the child.",
+    "options": [
+      "False, There are specific mudras, Bandhas, and asanas for the healthy development of the child,",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "The statement is false. Pregnancy-specific yogic practices do exist and can be beneficial when properly guided. 'True' is not appropriate because it wrongly treats all mudra, bandha, and asana as harmful."
+  },
+  {
+    "question": "Which asana helps in improving the balance?",
+    "options": [
+      "Mayurasana",
+      "Kukkutasana",
+      "Matsyendrasana",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is correct because both Mayurasana and Kukkutasana demand and improve balance. Matsyendrasana is primarily a twisting posture and is not the best match here."
+  },
+  {
+    "question": "Which asana is considered best for Diabetes-",
+    "options": [
+      "Matsyendrasna",
+      "Veerasana",
+      "Mayurasana",
+      "A & C"
+    ],
+    "correctIndex": 3,
+    "description": "A & C is correct because both Matsyendrasana and Mayurasana are traditionally associated with stimulating abdominal organs and helping metabolic balance. Veerasana is useful but not the best fit among these choices."
+  },
+  {
+    "question": "Which practice is beneficial to get rid of Enlargement of the glands?",
+    "options": [
+      "Dhauti",
+      "Basti",
+      "Nauli",
+      "Bhastrika"
+    ],
+    "correctIndex": 1,
+    "description": "Basti is the keyed answer here. The other practices have different primary applications: Dhauti cleanses, Nauli massages abdominal organs, and Bhastrika is a pranayama. They do not match the answer sheet for this question."
+  },
+  {
+    "question": "Which practice is beneficial to improve the executive functions of the brain?",
+    "options": [
+      "Bhastrika",
+      "Kapalbhati",
+      "Anuloma-Viloma",
+      "Trataka"
+    ],
+    "correctIndex": 1,
+    "description": "Kapalbhati is the keyed answer in your answer sheet. Trataka can improve concentration, but this question specifically maps to Kapalbhati in the provided key. The remaining options are not the designated answer here."
+  },
+  {
+    "question": "What is the average number of breaths per minute?",
+    "options": [
+      "15",
+      "20",
+      "12",
+      "19"
+    ],
+    "correctIndex": 0,
+    "description": "15 is the keyed answer in your sheet. While different references may give a broader resting range, this JSON follows your provided answer key strictly. The other options are therefore not the expected answer here."
+  },
+  {
+    "question": "Which practice helps in stimulating the thyroid gland?",
+    "options": [
+      "Ujjayi",
+      "Savasana",
+      "SuryaBheda",
+      "Kapalbhati"
+    ],
+    "correctIndex": 0,
+    "description": "Ujjayi is the keyed answer. Savasana is primarily for relaxation, SuryaBheda is a heating pranayama, and Kapalbhati is a cleansing kriya-like breathing technique. They are not the answer selected in your sheet."
+  },
+  {
+    "question": "The basic difference between Ashtanga Yoga and the Hatha Yoga can be understood as-",
+    "options": [
+      "Ashtanga Yoga is a mind-oriented approach whereas Hatha Yoga is a body-oriented approach.",
+      "In Hatha Yoga Body is used as a medium to eventually achieve the Raja Yoga. In Ashtanga Yoga, Mind is used as a medium to achieve the Raja Yoga",
+      "Both lineages follow the same approaches",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is correct because both statements together describe the intended distinction in this question. Option C is incorrect because the two lineages are not presented as identical here."
+  },
+  {
+    "question": "Which practice is suggested by Patanjali, in combination with Vairagya to achieve mental balance.",
+    "options": [
+      "Abhyasa",
+      "Ashtanga Yoga",
+      "Pratipaksha Bhavana",
+      "Ishvara Pranidhana"
+    ],
+    "correctIndex": 0,
+    "description": "Abhyasa is correct because Patanjali famously pairs Abhyasa and Vairagya. The other options are important yogic ideas, but they are not the specific pairing asked here."
+  },
+  {
+    "question": "“A feeling of anger towards someone should immediately be replaced by the feeling of love” This practice is known by -",
+    "options": [
+      "Chitta Prasadanam",
+      "Pratipaksha Bhavna",
+      "Santosha",
+      "Aparigraha"
+    ],
+    "correctIndex": 1,
+    "description": "Pratipaksha Bhavana means cultivating the opposite thought to counter a negative one, so it fits this question exactly. The other options are different yogic concepts."
+  },
+  {
+    "question": "One should keep an attitude of mudita (cheerfulness) towards-",
+    "options": [
+      "Happy people",
+      "Virtuous People",
+      "Artharthee",
+      "Jigyasu"
+    ],
+    "correctIndex": 1,
+    "description": "Virtuous people is the keyed answer here. In standard formulations there can be close conceptual neighbors, but this file follows your answer sheet exactly. The other options are therefore not the expected answer."
+  },
+  {
+    "question": "It is suggested in Yoga Sutra to keep the bhava of upekshanam (Avoidance / Indifference) towards people who are evil.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the keyed teaching in the quiz. 'False' does not match the intended Yoga Sutra-based framing here."
+  },
+  {
+    "question": "Patanjali suggests practicing multiple techniques as per the situations to achieve mental balance.",
+    "options": [
+      "False, Patanjali suggests practicing Ekatrva Abhyasa (Practicing one technique) to achieve the highest mental well-being.",
+      "True"
+    ],
+    "correctIndex": 0,
+    "description": "The statement is false according to this key. The first option correctly points to Eka Tattva Abhyasa. 'True' contradicts the answer sheet."
+  },
+  {
+    "question": "The practice of non-possessiveness is part of-",
+    "options": [
+      "Yama",
+      "Niyama",
+      "Kriya Yoga",
+      "Eka Tattva Abhyasa"
+    ],
+    "correctIndex": 0,
+    "description": "Non-possessiveness refers to Aparigraha, which is one of the Yamas. The other options are different categories and therefore do not fit."
+  },
+  {
+    "question": "The Antaryas mentioned in Yoga Sutra can be understood as fundamental causes of mental illness and Sabbhuvas can be understood as the consequences.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the answer sheet. 'False' is not the keyed response."
+  },
+  {
+    "question": "Bhranti Darshana is one of the Antaryas, which means-",
+    "options": [
+      "Being in delusion",
+      "Unable to attain stability",
+      "Unable to maintain stability",
+      "Mental Lethargy"
+    ],
+    "correctIndex": 0,
+    "description": "Bhranti Darshana means deluded or false perception. The other options correspond more closely to different obstacles or effects."
+  },
+  {
+    "question": "Daur Manasya is one of the Sahbhuvas which means-",
+    "options": [
+      "Depression",
+      "Distress",
+      "Eustress",
+      "ADHD"
+    ],
+    "correctIndex": 0,
+    "description": "Depression is the keyed answer. The other options do not match the intended meaning in this quiz."
+  },
+  {
+    "question": "pratyahara is referred to as the bridge between Bahiranga yoga and Antaranga Yoga because-",
+    "options": [
+      "It prepares the mind for Meditation",
+      "The Meditation is only possible when the senses are withdrawn from the outside stimuli",
+      "Before Pratyahara all the practices were possible due to sense involvement. In Pratyahara, a senseless perception is practiced.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because each statement contributes to why Pratyahara is treated as the bridge between the external and internal limbs. Choosing only one would be incomplete."
+  },
+  {
+    "question": "The eligibility of Dharna is -",
+    "options": [
+      "Pratyahara",
+      "Pranayama",
+      "Asana",
+      "Practice"
+    ],
+    "correctIndex": 1,
+    "description": "Pranayama is the keyed answer from your sheet. Even though there are conceptual links with Pratyahara, this JSON follows your provided answer key strictly."
+  },
+  {
+    "question": "Meditation (Dhyana) can be understood as a result of consistent practice of Concentration (Dharana).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true. Dharana matures into Dhyana in the classical progression. 'False' is not consistent with that sequence."
+  },
+  {
+    "question": "Samadhi can be understood as a result of the consistent practice of Dhyana.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the standard yogic progression. Dhyana deepens into Samadhi."
+  },
+  {
+    "question": "Which limb is referred as social constraints-",
+    "options": [
+      "Yama",
+      "Niyama",
+      "Abhyasa",
+      "Kleshas"
+    ],
+    "correctIndex": 0,
+    "description": "Yama governs restraints and conduct in relation to others, so it fits the idea of social constraints. The other options are different categories."
+  },
+  {
+    "question": "Ahimsa (Non-violence) is the practice of-",
+    "options": [
+      "Keeping violent thoughts away from the mind",
+      "Staying away from violent actions",
+      "Not involving in violent conversation",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because Ahimsa applies to thought, word, and deed. Limiting it to only one area would be incomplete."
+  },
+  {
+    "question": "The practice of Shaucha is -",
+    "options": [
+      "Cleanliness of thoughts, body, surrounding, etc.",
+      "Cleanliness of body only",
+      "Cleanliness of toilet",
+      "Cleanliness of house"
+    ],
+    "correctIndex": 0,
+    "description": "Shaucha means broad cleanliness and purity, not merely bodily or external cleaning. The other options are too narrow."
+  },
+  {
+    "question": "Contentment should be practiced all the time irrespective of the situation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true in the context of Santosha. It is an inner disposition, not one that depends entirely on circumstances."
+  },
+  {
+    "question": "Ishwara Pranidhana is a practice of surrendering to -",
+    "options": [
+      "Personal God",
+      "A supreme power",
+      "Self",
+      "Nature"
+    ],
+    "correctIndex": 1,
+    "description": "A supreme power is the keyed answer in your sheet. The other options are not the expected answer for this exam context."
+  },
+  {
+    "question": "Dharana, Dhyana, and Samadhi; collectively is a step-by-step process and when it happens together it is referred to as -",
+    "options": [
+      "Nirbeeja Samadhi",
+      "Sabija Samadhi",
+      "Samyama",
+      "Dharma Megha Samadhi"
+    ],
+    "correctIndex": 2,
+    "description": "Samyama is the combined application of Dharana, Dhyana, and Samadhi. The other options refer to other advanced states, not this combined practice."
+  },
+  {
+    "question": "As per Bhagavad Gita, how many qualities are mentioned as divine virtues?",
+    "options": [
+      "24",
+      "26",
+      "18",
+      "16"
+    ],
+    "correctIndex": 1,
+    "description": "26 is the keyed answer. The other counts do not match the answer sheet."
+  },
+  {
+    "question": "Which of these is mentioned as one of the saintly virtues?",
+    "options": [
+      "Jnana Yoga",
+      "Hatha Yoga",
+      "Vinyasa Yoga",
+      "Bhakti Yoga"
+    ],
+    "correctIndex": 0,
+    "description": "Jnana Yoga is the keyed answer for this question. The other yogas are not the one marked in your answer sheet."
+  },
+  {
+    "question": "Dhṛitiḥ means-",
+    "options": [
+      "Fortitude",
+      "Gratitude",
+      "Modesty",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Dhriti means steadiness or fortitude. The other options do not match the meaning."
+  },
+  {
+    "question": "Bhagavad Gita propounds moderation as the means to mitigate sorrow. Which shloka propounds this concept.",
+    "options": [
+      "2.48",
+      "2.50",
+      "6.17",
+      "6.19"
+    ],
+    "correctIndex": 2,
+    "description": "6.17 is the verse associated with moderation in food, recreation, effort, sleep, and waking. The others are important verses, but not the one keyed here."
+  },
+  {
+    "question": "Achapalam is the opposite of -",
+    "options": [
+      "Laulyam",
+      "Aloluptvam",
+      "Ārjavam",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Laulyam is the keyed opposite here. The other options do not match the answer sheet."
+  },
+  {
+    "question": "Fault finding is considered as one of the",
+    "options": [
+      "Normal human behavior",
+      "Saintly virtues",
+      "Demonic virtue",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "description": "The answer sheet marks demonic virtue. The other options are therefore not the expected answer."
+  },
+  {
+    "question": "Swadhyaya can be considered as -",
+    "options": [
+      "Study of scriptures",
+      "Study of the self",
+      "Study of the supreme",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is correct because Swadhyaya includes self-study and study of scripture. Option C is not part of the keyed answer here."
+  },
+  {
+    "question": "Ārjavam means-",
+    "options": [
+      "Being straightforward",
+      "Being assertive",
+      "Being Arrogant",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "The answer sheet marks A & B. So in this quiz context, both straightforwardness and assertiveness are included. Arrogance is clearly not correct."
+  },
+  {
+    "question": "Qualities like arjavam, akrodhah, ati manita can help in setting healthy boundaries to keep mental peace.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the answer key. 'False' is not the expected answer."
+  },
+  {
+    "question": "Tapah refers to -",
+    "options": [
+      "Secluded practices in the forest",
+      "Austerities",
+      "Giving up the worldly life",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is correct as per the answer sheet. Option C is not included in the keyed response."
+  },
+  {
+    "question": "What would you suggest to someone with a frozen shoulder?",
+    "options": [
+      "Skandha Sanchalana",
+      "Gomukhasana",
+      "Physiotherapy",
+      "Garudasana"
+    ],
+    "correctIndex": 0,
+    "description": "Skandha Sanchalana is the keyed answer. The other options may be useful in other contexts, but they are not the marked answer here."
+  },
+  {
+    "question": "The person in Depression should be given",
+    "options": [
+      "Pranayama",
+      "Surya Namaskar",
+      "Meditation",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is the keyed answer, meaning both Pranayama and Surya Namaskar. Meditation alone is not the selected option in your sheet."
+  },
+  {
+    "question": "The instant relaxation practice would be",
+    "options": [
+      "Yogic Breath",
+      "Yoga Nidra",
+      "Bhramari",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because each can contribute to relaxation in this quiz framework. Selecting only one would be incomplete."
+  },
+  {
+    "question": "Karma yoga is -",
+    "options": [
+      "Selfless service",
+      "Detachment from the action",
+      "Skill in action",
+      "All"
+    ],
+    "correctIndex": 3,
+    "description": "All is correct because Karma Yoga includes selfless action, non-attachment, and skill in action. Each of the first three captures a real aspect."
+  },
+  {
+    "question": "Someone with sluggish digestion should practice-",
+    "options": [
+      "Dhauti",
+      "Basti",
+      "Neti",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is the keyed answer, combining Dhauti and Basti. Neti relates mainly to nasal cleansing and is not the intended match here."
+  },
+  {
+    "question": "Eye fatigue can be prevented/controlled with -",
+    "options": [
+      "Trataka",
+      "Washing the eyes with water",
+      "Yoga Nidra",
+      "Shavasana"
+    ],
+    "correctIndex": 0,
+    "description": "Trataka is the keyed answer. The others may be soothing or useful in a broad sense, but they are not the answer selected in your key."
+  },
+  {
+    "question": "Yoga is a lifestyle based on oneness. It teaches you proper behavior with others as well as with yourself. Which practices are in support of this statement.",
+    "options": [
+      "Yama & Niyama",
+      "Chaturanga Yoga",
+      "Asana & Pranayama",
+      "Abhyasa and Vairagya"
+    ],
+    "correctIndex": 0,
+    "description": "Yama & Niyama directly address behavior, ethics, and self-discipline, so they best support the statement. The other options do not fit as closely."
+  },
+  {
+    "question": "The fundamental cause of illness is an imbalance of doshas. There are yogic practices to balance the doshas and achieve optimum health. Which practices are in support of this statement?",
+    "options": [
+      "Shatkarma",
+      "Pranayama",
+      "Mudra",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because multiple yogic tools can be applied for balancing and health support. Limiting to only one would be incomplete."
+  },
+  {
+    "question": "Which practices should be followed to control anxiety, and panic attacks?",
+    "options": [
+      "Yogic Deep Breathing",
+      "Anuloma Viloma",
+      "Chest opening and Spine stretching asanas",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because each listed practice can help calm the nervous system and reduce anxiety symptoms."
+  },
+  {
+    "question": "Which practices should be followed to boost the contentment within oneself?",
+    "options": [
+      "Self-Analysis",
+      "Accepting oneself",
+      "Karma Yoga",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because all three support inner contentment and maturity. Choosing only one would be incomplete."
+  }
+]

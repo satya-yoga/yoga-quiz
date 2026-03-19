@@ -1,0 +1,317 @@
+[
+  {
+    "question": "_____ is a very good practice for eliminating wind from the food pipe.",
+    "options": ["Bhujangasana", "Vajrasana", "Shalabhasana", "Pavanamuktasana"],
+    "correctIndex": 3,
+    "description": "Pavanamuktasana directly compresses the abdominal region and stimulates Apana Vayu, facilitating the expulsion of trapped intestinal gas. It enhances peristalsis and relieves flatulence effectively. Other poses like Bhujangasana and Vajrasana support digestion but are not specifically designed for gas elimination."
+  },
+  {
+    "question": "_____ is strictly prohibited for cervical spondylosis.",
+    "options": ["Sarvangasana", "Halasana", "Shirshasana", "Bhujangasana"],
+    "correctIndex": 2,
+    "description": "Shirshasana places the entire body weight on the cervical vertebrae, increasing pressure on the neck. In cervical spondylosis, this may aggravate degeneration and nerve compression. Other asanas may require caution but do not load the cervical spine as intensely."
+  },
+  {
+    "question": "_____ Pranayama helps in removing insomnia, anxiety, stress and anger.",
+    "options": ["Bhastrika", "Surya Bhedi", "Brahmari", "Kapalabhati"],
+    "correctIndex": 2,
+    "description": "Brahmari produces a soothing humming vibration that calms the limbic system and enhances parasympathetic dominance. It reduces stress hormones and stabilizes emotional disturbances. Bhastrika and Surya Bhedi are heating, while Kapalabhati is stimulating."
+  },
+  {
+    "question": "By regular practice of _____, the digestive fire is stimulated so much that it can even digest poison.",
+    "options": ["Mayurasana", "Dhanurasana", "Ustrasana", "Matsyasana"],
+    "correctIndex": 0,
+    "description": "Mayurasana exerts strong pressure on abdominal organs and stimulates Jatharagni (digestive fire). Classical Hatha texts praise it for enhancing digestion significantly. Other backbends support digestion but do not intensely activate Agni like Mayurasana."
+  },
+  {
+    "question": "_____ is useful in controlling anger.",
+    "options": ["Kurmasana", "Chakrasana", "Bhastrika", "Surya Namaskar"],
+    "correctIndex": 0,
+    "description": "Kurmasana promotes introversion and withdrawal of the senses, calming emotional agitation. It reduces excess Pitta and mental restlessness. Chakrasana and Surya Namaskar are energizing, while Bhastrika increases heat."
+  },
+  {
+    "question": "_____ should not be performed daily by newly married persons.",
+    "options": ["Vajrasana", "Padmasana", "Siddhasana", "Tadasana"],
+    "correctIndex": 2,
+    "description": "Siddhasana is traditionally associated with Brahmacharya and conservation of reproductive energy. Regular intense practice may suppress natural sexual urges. Other postures do not directly influence reproductive restraint."
+  },
+  {
+    "question": "Dhanurasana is contraindicated in _____.",
+    "options": ["Diabetes", "Hernia", "Asthma", "Constipation"],
+    "correctIndex": 1,
+    "description": "Dhanurasana increases intra-abdominal pressure, which can aggravate hernia by pushing abdominal contents outward. It may benefit constipation and mild respiratory weakness but should be avoided in hernia cases."
+  },
+  {
+    "question": "Annamaya Kosha can be strengthened by _____.",
+    "options": ["Asana", "Pranayama", "Dharana", "Samadhi"],
+    "correctIndex": 0,
+    "description": "Annamaya Kosha represents the physical sheath made of food. Asanas strengthen muscles, bones, and internal organs directly. Pranayama works on Pranamaya Kosha, while Dharana and Samadhi relate to higher mental and spiritual sheaths."
+  },
+  {
+    "question": "According to Hatha Yoga Pradipika, Matsyendrasana helps in removing diseases, awakening Kundalini and proper digestion.",
+    "options": ["Removing diseases", "Awakening Kundalini", "Proper digestion", "All of the above"],
+    "correctIndex": 3,
+    "description": "Hatha Yoga Pradipika states that Matsyendrasana stimulates digestive fire, destroys diseases, and awakens Kundalini. The twisting action massages abdominal organs and balances pranic flow. Hence all statements are correct."
+  },
+  {
+    "question": "_____ Shuddhi Kriya increases digestive fire.",
+    "options": ["Trataka", "Nauli", "Jalaneti", "Kapalabhati"],
+    "correctIndex": 1,
+    "description": "Nauli vigorously churns abdominal muscles and massages digestive organs, enhancing Jatharagni. It regulates Samana Vayu and improves metabolism. Other kriyas focus mainly on nasal cleansing or respiratory purification."
+  },
+  {
+    "question": "_____ Kriya is contraindicated for epilepsy.",
+    "options": ["Trataka", "Kapalabhati", "Vamana Dhauti", "All of the above"],
+    "correctIndex": 3,
+    "description": "These kriyas may overstimulate the nervous system or cause strain, potentially triggering seizures in epileptic individuals. Hence all listed practices are generally contraindicated."
+  },
+  {
+    "question": "_____ Pranayama is useful for people suffering from low BP.",
+    "options": ["Sheetali", "Sheetkari", "Bhastrika", "Surya Bhedi"],
+    "correctIndex": 3,
+    "description": "Surya Bhedi is a heating and stimulating pranayama that activates sympathetic tone and increases circulation. Cooling pranayamas like Sheetali and Sheetkari may lower blood pressure further."
+  },
+  {
+    "question": "Yogic activities help in curing metabolic syndrome.",
+    "options": ["Asanas", "Surya Namaskara", "Pranayama", "All of the above"],
+    "correctIndex": 3,
+    "description": "Integrated yoga practices improve insulin sensitivity, reduce stress hormones and enhance metabolism. Combining asanas, Surya Namaskara and pranayama gives systemic benefits."
+  },
+  {
+    "question": "Deterioration of _____ Vayu causes disorders of lungs and heart.",
+    "options": ["Apana", "Samana", "Prana", "Vyana"],
+    "correctIndex": 2,
+    "description": "Prana Vayu governs respiration and cardiac activity. Its imbalance directly affects lungs and heart function. Other vayus regulate digestion, circulation or elimination."
+  },
+  {
+    "question": "Regular practice of Sheetkari pranayama helps in:",
+    "options": ["Reducing body heat", "Controlling thirst and hunger", "Activating liver and spleen", "All of the above"],
+    "correctIndex": 3,
+    "description": "Sheetkari has cooling effects, reduces excessive heat and helps regulate appetite and internal organ balance. Hence all statements are correct."
+  },
+  {
+    "question": "Benefits of Sheetali pranayama include:",
+    "options": ["Eliminates insomnia", "Helps spleen disorders", "Helps throat disorders", "All of the above"],
+    "correctIndex": 3,
+    "description": "Sheetali cools the body, calms the nervous system and benefits throat and spleen-related imbalances. Its parasympathetic effect supports restful sleep."
+  },
+  {
+    "question": "_____ Pranayama is useful in eliminating diabetes.",
+    "options": ["Anulom Vilom", "Bhastrika", "Sheetali", "Bhramari"],
+    "correctIndex": 1,
+    "description": "Bhastrika improves oxygenation and stimulates pancreatic function, enhancing metabolic efficiency. It supports glucose regulation when practiced regularly."
+  },
+  {
+    "question": "_____ Kriya helps in elimination of Kapha Dosha.",
+    "options": ["Trataka", "Nauli", "Dhauti", "Neti"],
+    "correctIndex": 2,
+    "description": "Dhauti removes excess mucus and toxins from the digestive tract, reducing Kapha imbalance. Other kriyas have localized cleansing effects."
+  },
+  {
+    "question": "When Kapha is less and Pitta is more, _____ disorder occurs.",
+    "options": ["Obesity", "Insomnia", "Lethargy", "Edema"],
+    "correctIndex": 1,
+    "description": "Excess Pitta increases internal heat and restlessness, while low Kapha reduces stability. This imbalance leads to disturbed sleep and irritability."
+  },
+  {
+    "question": "_____ brain waves are more active during meditation.",
+    "options": ["Beta", "Gamma", "Alpha", "Delta"],
+    "correctIndex": 2,
+    "description": "Alpha waves represent relaxed alertness and are commonly observed during meditative states. Beta reflects active thinking, while Delta indicates deep sleep."
+  },
+  {
+    "question": "Meditation is:",
+    "options": ["Self-awareness", "Concentration", "One-pointedness", "All of the above"],
+    "correctIndex": 3,
+    "description": "Meditation integrates sustained concentration, awareness and one-pointed focus. It refines attention and deepens self-awareness."
+  },
+  {
+    "question": "Methods used during cyclic meditation include:",
+    "options": ["IRT", "DRT", "QRT", "All of the above"],
+    "correctIndex": 3,
+    "description": "Cyclic meditation combines stimulation and relaxation phases such as Instant, Deep and Quick Relaxation Techniques. All are integral components."
+  },
+  {
+    "question": "_____ must be practiced after Jalaneti.",
+    "options": ["Bhastrika", "Kapalabhati", "Sheetali", "Ujjayi"],
+    "correctIndex": 1,
+    "description": "Kapalabhati forcefully expels residual water from nasal passages after Jalaneti. This prevents sinus blockage and ensures proper cleansing."
+  },
+  {
+    "question": "Length of cloth used in Vastra Dhauti is:",
+    "options": ["10 feet", "15 feet", "22.5 feet", "30 feet"],
+    "correctIndex": 2,
+    "description": "Traditional Hatha texts mention approximately 22.5 feet long cloth for Vastra Dhauti. This length ensures adequate internal cleansing."
+  },
+  {
+    "question": "_____ Kriya increases memory power.",
+    "options": ["Nauli", "Trataka", "Neti", "Dhauti"],
+    "correctIndex": 1,
+    "description": "Trataka enhances concentration by steady gazing, strengthening Dharana. Improved focus directly enhances memory and cognitive clarity."
+  },
+  {
+    "question": "Sequence of asanas performed during Shankhaprakshalana Kriya includes:",
+    "options": [
+      "Tadasana, Tiryaka Tadasana, Kati Chakrasana, Tiryaka Bhujangasana, Udarakarshanasana",
+      "Surya Namaskar sequence",
+      "Pawanmuktasana series",
+      "Standing balancing poses"
+    ],
+    "correctIndex": 0,
+    "description": "This classical sequence is designed to facilitate the movement of saline water through the gastrointestinal tract during Shankhaprakshalana. Each posture alternately stretches and compresses the abdomen to guide water downward. Other sequences do not specifically aid intestinal cleansing."
+  },
+  {
+    "question": "Regular practice of Jalaneti removes disorders related to:",
+    "options": ["Nose", "Ear", "Eye", "All of the above"],
+    "correctIndex": 3,
+    "description": "Jalaneti cleanses the nasal passages and improves sinus drainage. Due to interconnected ENT pathways, it benefits ear and eye health as well. Hence all listed options are correct."
+  },
+  {
+    "question": "Prakshalana means:",
+    "options": ["To heat", "To clean", "To stretch", "To rotate"],
+    "correctIndex": 1,
+    "description": "The Sanskrit term 'Prakshalana' means thorough cleansing or washing. It is used in yogic context for complete internal purification processes."
+  },
+  {
+    "question": "Regular practice of Mula Bandha:",
+    "options": [
+      "Unites Apana Vayu and Prana Vayu",
+      "Helps in removing constipation and piles",
+      "Helps in maintaining Brahmacharya",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Mula Bandha contracts the perineal muscles, directing Apana upward to unite with Prana. It improves pelvic circulation, aids elimination, and supports conservation of reproductive energy. Therefore all statements are correct."
+  },
+  {
+    "question": "Regular practice of _____ prevents problems of navel displacement.",
+    "options": ["Uttana Padasana", "Padmasana", "Vajrasana", "Tadasana"],
+    "correctIndex": 0,
+    "description": "Uttana Padasana strengthens abdominal muscles and stabilizes the umbilical region. This helps prevent conditions related to navel imbalance. Other postures do not specifically strengthen the lower abdomen."
+  },
+  {
+    "question": "_____ is known as the king of asanas.",
+    "options": ["Sarvangasana", "Shirshasana", "Padmasana", "Halasana"],
+    "correctIndex": 1,
+    "description": "Shirshasana is called the king of asanas due to its profound systemic benefits. It improves cerebral circulation and balances endocrine functions. Other asanas are beneficial but do not have this classical title."
+  },
+  {
+    "question": "Paschimo in Paschimottanasana means:",
+    "options": ["Front side", "Right side", "Back side", "Twist"],
+    "correctIndex": 2,
+    "description": "Paschima means west or back side of the body. Paschimottanasana stretches the entire posterior chain including spine and hamstrings."
+  },
+  {
+    "question": "_____ is a balanced yoga posture.",
+    "options": ["Vrikshasana", "Bhujangasana", "Dhanurasana", "Halasana"],
+    "correctIndex": 0,
+    "description": "Vrikshasana develops physical and mental balance by requiring neuromuscular coordination and steady gaze. Other poses are not primarily balancing postures."
+  },
+  {
+    "question": "_____ is an anti-gravitational asana.",
+    "options": ["Tadasana", "Shirshasana", "Paschimottanasana", "Vajrasana"],
+    "correctIndex": 1,
+    "description": "Shirshasana reverses gravitational effects by inverting the body, improving venous return and cerebral circulation. Other asanas maintain upright or seated positions."
+  },
+  {
+    "question": "Complementary posture of Halasana is:",
+    "options": ["Chakrasana", "Bhujangasana", "Padmasana", "Tadasana"],
+    "correctIndex": 0,
+    "description": "Halasana is a forward bending inversion, while Chakrasana is a backward bending posture. Practicing them sequentially balances spinal flexion and extension."
+  },
+  {
+    "question": "Practice of asanas includes:",
+    "options": ["Breathing awareness", "Mental awareness", "Physical awareness", "All of the above"],
+    "correctIndex": 3,
+    "description": "Proper asana practice integrates body alignment, breath synchronization and mindful awareness. Yoga is not merely physical exercise but a holistic discipline."
+  },
+  {
+    "question": "Cat pose is known as:",
+    "options": ["Marjaryasana", "Bitilasana", "Simhasana", "Matsyasana"],
+    "correctIndex": 0,
+    "description": "Marjaryasana resembles the stretching posture of a cat. It improves spinal flexibility and coordinates movement with breathing."
+  },
+  {
+    "question": "_____ makes a wonderful combination of Bhujangasana and Shalabhasana.",
+    "options": ["Dhanurasana", "Ustrasana", "Setubandhasana", "Padmasana"],
+    "correctIndex": 0,
+    "description": "Dhanurasana integrates spinal extension and leg lift similar to Bhujangasana and Shalabhasana. It strengthens the back and stimulates abdominal organs."
+  },
+  {
+    "question": "Stimulation followed by _____ is the key essence of yoga practice.",
+    "options": ["Tension", "Relaxation", "Speed", "Force"],
+    "correctIndex": 1,
+    "description": "Yoga emphasizes effort balanced with relaxation. After stimulation through asana, relaxation normalizes heart rate and nervous activity, promoting recovery and integration."
+  },
+  {
+    "question": "_____ Pranayama can be practiced while moving, standing, sitting or walking.",
+    "options": ["Bhastrika", "Sheetali", "Ujjayi", "Kapalabhati"],
+    "correctIndex": 2,
+    "description": "Ujjayi Pranayama involves controlled throat constriction and can be performed in various positions. Classical Hatha texts describe it as adaptable and beneficial in multiple situations."
+  },
+  {
+    "question": "_____ Pranayama is a heating pranayama.",
+    "options": ["Sheetali", "Sheetkari", "Ujjayi", "Chandra Bhedi"],
+    "correctIndex": 2,
+    "description": "Ujjayi generates internal heat by controlled breathing with glottis contraction. Sheetali and Sheetkari are cooling pranayamas."
+  },
+  {
+    "question": "During Surya Bhedi Pranayama, inhalation (Puraka) is done through:",
+    "options": ["Left nostril", "Both nostrils", "Right nostril", "Mouth"],
+    "correctIndex": 2,
+    "description": "Surya Bhedi activates Pingala Nadi associated with solar energy. Hence inhalation is done through the right nostril."
+  },
+  {
+    "question": "Ujjayi Pranayama helps in removing disorders of:",
+    "options": ["Kapha", "Dhatus", "Nervous system", "All of the above"],
+    "correctIndex": 3,
+    "description": "Ujjayi regulates respiratory rhythm, improves circulation and balances Kapha. It also supports nervous system stability and tissue nourishment."
+  },
+  {
+    "question": "During Ujjayi Pranayama, Puraka is performed through:",
+    "options": ["Left nostril", "Right nostril", "Both nostrils", "Mouth"],
+    "correctIndex": 2,
+    "description": "In Ujjayi, inhalation and exhalation are performed through both nostrils with slight throat constriction, producing a soft sound."
+  },
+  {
+    "question": "_____ Bandha is performed during Ujjayi Pranayama.",
+    "options": ["Mula Bandha", "Uddiyana Bandha", "Jalandhara Bandha", "Maha Bandha"],
+    "correctIndex": 2,
+    "description": "Jalandhara Bandha (chin lock) is commonly applied during retention in Ujjayi to regulate pranic flow and protect the heart and brain."
+  },
+  {
+    "question": "Practice of Pratyahara makes a sadhaka:",
+    "options": ["Extrovert to introvert", "Weak to strong", "Active to passive", "Rigid to flexible"],
+    "correctIndex": 0,
+    "description": "Pratyahara withdraws the senses from external objects and directs awareness inward. It marks the transition from external to internal yoga practices."
+  },
+  {
+    "question": "_____ Mudra enhances blood circulation in the body.",
+    "options": ["Jnana Mudra", "Pranava Mudra", "Chin Mudra", "Apana Mudra"],
+    "correctIndex": 1,
+    "description": "Pranava Mudra balances pranic flow and supports improved circulation. Other mudras have specific mental or eliminatory benefits."
+  },
+  {
+    "question": "Lukewarm salt water is used during Shuddhi Kriyas because:",
+    "options": [
+      "It matches the tonicity of internal body fluids",
+      "It increases body heat",
+      "It tastes better",
+      "It cools the stomach"
+    ],
+    "correctIndex": 0,
+    "description": "Lukewarm saline water is isotonic with body fluids, preventing irritation and ensuring effective cleansing. Plain water may cause discomfort."
+  },
+  {
+    "question": "_____ Kriya helps in purification of the anus.",
+    "options": ["Nauli", "Neti", "Moolashuddhi", "Trataka"],
+    "correctIndex": 2,
+    "description": "Moolashuddhi specifically cleanses the anal region and improves hygiene. Other kriyas cleanse different parts of the body."
+  },
+  {
+    "question": "Minimum gap between meal and Shankhaprakshalana Kriya should be:",
+    "options": ["1 hour", "2 hours", "3 hours", "Immediately after meal"],
+    "correctIndex": 2,
+    "description": "At least 3 hours gap ensures stomach emptiness before performing intense intestinal cleansing. Performing earlier may cause discomfort or nausea."
+  }
+]

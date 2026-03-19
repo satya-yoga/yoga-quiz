@@ -1,0 +1,548 @@
+[
+  {
+    "question": "The powerhouse of the cell is called as-",
+    "options": [
+      "Organelles",
+      "Mitochondria",
+      "Cytoplasm",
+      "Cell wall"
+    ],
+    "correctIndex": 1,
+    "description": "Mitochondria are called the powerhouse of the cell because they generate most of the cell's usable energy in the form of ATP. Organelles is only a broad category, cytoplasm is the fluid medium of the cell, and the cell wall provides structure in certain cells but does not produce energy."
+  },
+  {
+    "question": "The largest bone in the body is -",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Femur",
+      "Spine"
+    ],
+    "correctIndex": 2,
+    "description": "The femur, or thigh bone, is the largest and strongest bone in the human body. Tibia and fibula are lower-leg bones, and the spine is a column made of multiple vertebrae rather than one single bone."
+  },
+  {
+    "question": "The total number of bones in the vertebrae column is-",
+    "options": [
+      "26",
+      "34",
+      "35",
+      "36"
+    ],
+    "correctIndex": 0,
+    "description": "In the adult human body, the vertebral column is counted as 26 bones because several vertebrae fuse together. The higher numbers do not match the standard adult anatomical count."
+  },
+  {
+    "question": "Which one of these is the hip bone?",
+    "options": [
+      "Sacrum",
+      "Ilium",
+      "Carpal",
+      "Phalanges"
+    ],
+    "correctIndex": 1,
+    "description": "The ilium is one of the main bones forming the hip bone. Sacrum is part of the pelvis but not the hip bone itself in this question's framing, carpals are wrist bones, and phalanges are finger or toe bones."
+  },
+  {
+    "question": "The structure which attaches muscle to a bone is called-",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Joint",
+      "Fascia"
+    ],
+    "correctIndex": 0,
+    "description": "A tendon connects muscle to bone. A ligament connects bone to bone, a joint is where bones meet, and fascia is connective tissue that surrounds muscles and organs."
+  },
+  {
+    "question": "What is also called a voice box?",
+    "options": [
+      "Pharynx",
+      "Larynx",
+      "Tonsils",
+      "Trachea"
+    ],
+    "correctIndex": 1,
+    "description": "The larynx is commonly called the voice box because it contains the vocal cords. The pharynx is the throat region, tonsils are lymphatic tissues, and the trachea is the windpipe."
+  },
+  {
+    "question": "What is the function of the artery",
+    "options": [
+      "To transport the oxygen-rich blood from the heart to the body",
+      "To transport the oxygen-poor blood from the body to the heart",
+      "To participate in gas exchange",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Arteries generally carry oxygen-rich blood away from the heart to the body. Option B describes the role of veins, option C mainly applies to capillaries in the lungs and tissues, and option D is incorrect because option A is correct."
+  },
+  {
+    "question": "What is the function of the Pulmonary Artery?",
+    "options": [
+      "To transport the oxygen-poor blood from the heart to the lungs",
+      "To transport the oxygen-rich blood from the lungs to the heart",
+      "It act as a parent artery which helps in supplying oxygen-rich blood to other arteries and then to the body.",
+      "B & C"
+    ],
+    "correctIndex": 0,
+    "description": "The pulmonary artery carries oxygen-poor blood from the heart to the lungs for oxygenation. Option B describes the pulmonary vein, option C refers more to the aorta, and option D is wrong because both B and C are incorrect here."
+  },
+  {
+    "question": "What is a coronary circuit?",
+    "options": [
+      "A channel that provides blood to the heart",
+      "A channel that provides between the heart and lungs,",
+      "A channel that provides blood for the Corona patient",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "The coronary circulation supplies blood to the heart muscle itself. Option B describes the pulmonary circuit more than the coronary circuit, option C is unrelated, and option D is incorrect because option A is correct."
+  },
+  {
+    "question": "Which part of the brain is also known as the “center of respiration”",
+    "options": [
+      "Cerebrum",
+      "Hypothalamus",
+      "Medulla Oblongata",
+      "Midbrain"
+    ],
+    "correctIndex": 2,
+    "description": "The medulla oblongata contains vital respiratory control centers. The cerebrum handles higher functions, the hypothalamus regulates many autonomic and hormonal activities, and the midbrain has other major roles but is not the primary respiratory center."
+  },
+  {
+    "question": "The oxygen-rich blood gets pumped into the body from the heart through-",
+    "options": [
+      "Aorta",
+      "Superior Vena Cava",
+      "Capillaries",
+      "Arteriole Capillaries"
+    ],
+    "correctIndex": 0,
+    "description": "The aorta is the main artery carrying oxygen-rich blood from the heart to the body. The superior vena cava brings oxygen-poor blood back to the heart, while capillaries and arterioles are smaller vessels downstream."
+  },
+  {
+    "question": "What is the pH level of blood?",
+    "options": [
+      "6.1",
+      "7.4",
+      "8.2",
+      "6.4"
+    ],
+    "correctIndex": 1,
+    "description": "Normal blood pH is about 7.4, slightly alkaline. The other values are too acidic or too alkaline to represent normal blood."
+  },
+  {
+    "question": "Which system triggers the Fight / Flight response?",
+    "options": [
+      "Sympathetic Nervous System",
+      "Parasympathetic Nervous System",
+      "Autonomic Nervous System",
+      "Central Nervous System"
+    ],
+    "correctIndex": 0,
+    "description": "The sympathetic nervous system specifically activates the fight-or-flight response. The parasympathetic system is associated more with rest-and-digest functions, autonomic nervous system is the broader division containing both, and the central nervous system is broader still."
+  },
+  {
+    "question": "The action of swallowing food is known as-",
+    "options": [
+      "Propulsion",
+      "Ingestion",
+      "Eating",
+      "Absorption"
+    ],
+    "correctIndex": 0,
+    "description": "Swallowing is part of propulsion in digestive physiology, as food is moved along the digestive tract. Ingestion is taking food into the mouth, eating is informal and broad, and absorption happens later in digestion."
+  },
+  {
+    "question": "Which organ is not the part of Digestive System-",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Large Intestine",
+      "Kidney"
+    ],
+    "correctIndex": 3,
+    "description": "The kidney belongs to the urinary system, not the digestive system. The pancreas, liver, and large intestine all play digestive roles."
+  },
+  {
+    "question": "An example of ductless glands is -",
+    "options": [
+      "Sebaceous",
+      "Mammary Gland",
+      "Parathyroid Gland",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "description": "Parathyroid glands are endocrine, meaning ductless. Sebaceous and mammary glands are exocrine and use ducts."
+  },
+  {
+    "question": "What is the major role of calcium in the body?",
+    "options": [
+      "To provide the electrical energy for the nervous and muscular system,",
+      "To strengthen the bones,",
+      "To help in growing,",
+      "To help in the thyroid gland’s health"
+    ],
+    "correctIndex": 0,
+    "description": "According to your answer sheet, option A is the keyed answer. Calcium is indeed crucial in nerve and muscle function through electrical signaling. Option B is also biologically important, but the key provided marks A as correct, so this file follows that mapping strictly."
+  },
+  {
+    "question": "The prime hormones released by Adrenal Glands are-",
+    "options": [
+      "Epinephrine (Adrenaline)",
+      "non-Epinephrine (nor-adrenaline)",
+      "Cortisol",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the listed substances are associated with adrenal gland function. Choosing only one would be incomplete, so 'All of the above' is the best fit."
+  },
+  {
+    "question": "Which organ has exocrine and endocrine both functionalities?",
+    "options": [
+      "Adrenal",
+      "Parathyroid",
+      "Pancreas",
+      "Gonads"
+    ],
+    "correctIndex": 2,
+    "description": "The pancreas has both exocrine and endocrine roles. It releases digestive enzymes exocrinely and hormones like insulin and glucagon endocrinely. The other options do not match this dual role in the same way."
+  },
+  {
+    "question": "Islets of Langerhans is -",
+    "options": [
+      "Endocrine part of the Pancreas",
+      "Exocrine part of the Pancreas",
+      "Part of the Adrenal Medulla,",
+      "Part of Hypothalamus"
+    ],
+    "correctIndex": 0,
+    "description": "The Islets of Langerhans are the endocrine portion of the pancreas. They secrete hormones such as insulin and glucagon. The other options are anatomically incorrect."
+  },
+  {
+    "question": "As per PYS, one should aspire to have an attitude of friendship towards people who are -",
+    "options": [
+      "Happy",
+      "Virtuous",
+      "Kind",
+      "Warrior"
+    ],
+    "correctIndex": 0,
+    "description": "In the classic Yoga Sutra teaching of maitri, karuna, mudita, and upeksha, friendship is cultivated toward the happy. The other options correspond to different emotional attitudes or are not part of the original sequence."
+  },
+  {
+    "question": "The attitude of indifference (Upekshanam) helps you set healthy boundaries-",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true in the intended meaning of upeksha: not coldness, but wise non-entanglement. It supports emotional balance and healthy boundaries."
+  },
+  {
+    "question": "Mudita means-",
+    "options": [
+      "Cheerfulness",
+      "Kindness",
+      "Balanced",
+      "Neutral"
+    ],
+    "correctIndex": 0,
+    "description": "Mudita means joyfulness or cheerful appreciation, especially toward the good in others. The other options are related qualities but not the correct term here."
+  },
+  {
+    "question": "A group of organs that work together to carry out a particular function, is referred as-",
+    "options": [
+      "Organism",
+      "Organ System",
+      "Cell",
+      "Tissue"
+    ],
+    "correctIndex": 1,
+    "description": "A group of organs working together is called an organ system. Organism refers to the whole living being, cell is the basic unit of life, and tissue is a group of similar cells."
+  },
+  {
+    "question": "The prime hormone secreted by Testicles is-",
+    "options": [
+      "Growth hormone",
+      "Testosterone",
+      "Estrogen",
+      "Estradiol"
+    ],
+    "correctIndex": 1,
+    "description": "Testosterone is the primary hormone secreted by the testes. The other hormones are either secreted elsewhere or are not the main testicular hormone."
+  },
+  {
+    "question": "Which hormone is crucial for female growth such as breast development, fallopian tube development, uterus development etc.",
+    "options": [
+      "Estrogen",
+      "Estradiol",
+      "Estriol",
+      "All of the above"
+    ],
+    "correctIndex": 1,
+    "description": "According to your answer key, estradiol is the correct answer. It is a major estrogen active in female reproductive development. While the others relate to estrogenic function, the key specifically marks estradiol."
+  },
+  {
+    "question": "The liver can store glycogen up to",
+    "options": [
+      "5% of its mass",
+      "10% of its mass",
+      "7% of its mass",
+      "As much as it can hold."
+    ],
+    "correctIndex": 0,
+    "description": "The answer sheet marks 5% of its mass as correct. The other options do not match the keyed value."
+  },
+  {
+    "question": "Whenever there is a rise in the blood sugar level, Pancreas releases-",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Glycogen",
+      "Epinephrine"
+    ],
+    "correctIndex": 0,
+    "description": "Insulin is released when blood sugar rises, helping glucose enter cells and lowering blood glucose levels. Glucagon acts in the opposite direction, glycogen is a storage form, and epinephrine is not the main pancreatic response here."
+  },
+  {
+    "question": "Which hormone prevents blood glucose levels from dropping too low.",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Glycogen",
+      "Epinephrine"
+    ],
+    "correctIndex": 1,
+    "description": "Glucagon raises blood sugar when it becomes too low by stimulating glycogen breakdown and glucose release. Insulin lowers blood sugar, glycogen is not a hormone, and epinephrine is not the primary answer here."
+  },
+  {
+    "question": "The lymphatic system is part of -",
+    "options": [
+      "Cardiovascular system",
+      "Circulatory System",
+      "The nervous system",
+      "A & C"
+    ],
+    "correctIndex": 1,
+    "description": "The lymphatic system is generally considered part of the circulatory system because it transports lymph and supports fluid balance and immunity. It is not part of the nervous system, so option D is incorrect."
+  },
+  {
+    "question": "How many Bhavas are there?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "Unlimited"
+    ],
+    "correctIndex": 1,
+    "description": "According to the provided answer key, the correct answer is 8. The other counts do not match your source."
+  },
+  {
+    "question": "One of the reasons why yoga practice should be done with mindfulness is because it intensifies the current bhava.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the keyed answer. It reflects the idea that the mental-emotional state present during practice can be reinforced."
+  },
+  {
+    "question": "Match the following- Dharma — Wisdom; Jnana — Strength; Vairagya — Detachment; Aishwarya — Virtue",
+    "options": [
+      "a-d b-a c-c d-b",
+      "a-d b-a c-b d-c",
+      "a-a b-b c-c d-b",
+      "a-c b-d c-a d-b"
+    ],
+    "correctIndex": 0,
+    "description": "The answer sheet marks the first matching pattern as correct. The other matching patterns do not align with the provided key."
+  },
+  {
+    "question": "Match the following- Adharma — Ignorance; Ajnana — Vice; Raga — Weakness; An-Aishwarya — Attachment",
+    "options": [
+      "a-b b-a c-d d-c",
+      "a-c b-a c-d d-b",
+      "a-b b-c c-d d-a",
+      "a-b b-a c-c d-d"
+    ],
+    "correctIndex": 0,
+    "description": "The answer sheet marks the first matching arrangement as correct. The other arrangements do not match the keyed answer."
+  },
+  {
+    "question": "Discipline is another aspect of -?",
+    "options": [
+      "Aishwarya",
+      "Jnana",
+      "Dharma",
+      "Vairagya"
+    ],
+    "correctIndex": 2,
+    "description": "The key marks Dharma. The other qualities represent different concepts and do not match the answer sheet."
+  },
+  {
+    "question": "Twisting, lateral and upward postures help in strengthening which Bhava?",
+    "options": [
+      "Dharma",
+      "Jnana",
+      "Vairagya",
+      "Aishwarya"
+    ],
+    "correctIndex": 1,
+    "description": "According to the answer key, Jnana is correct. The other options are not the keyed answer."
+  },
+  {
+    "question": "Forward bendings help in strengthening which Bhava?",
+    "options": [
+      "Vairagya",
+      "Jnana",
+      "Dharma",
+      "Raga"
+    ],
+    "correctIndex": 0,
+    "description": "The answer sheet marks Vairagya. The other options do not match the key."
+  },
+  {
+    "question": "Ajnana means-?",
+    "options": [
+      "Devoid of knowledge",
+      "Knowing the opposite of the truth",
+      "External knowledge",
+      "Not knowing the scriptures"
+    ],
+    "correctIndex": 1,
+    "description": "The answer key marks 'Knowing the opposite of the truth' as correct. The other options are plausible-sounding but do not match the given key."
+  },
+  {
+    "question": "Abhyasa ______ tan nirodhah?",
+    "options": [
+      "Vairagyabhyam",
+      "Vairagya",
+      "Vairagi",
+      "Chittah"
+    ],
+    "correctIndex": 0,
+    "description": "The correct completion is 'Vairagyabhyam,' as in the well-known Yoga Sutra idea that practice and dispassion lead to restraint of mental modifications. The other options do not complete the phrase correctly."
+  },
+  {
+    "question": "How many Kleshas are there?",
+    "options": [
+      "5",
+      "4",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0,
+    "description": "There are 5 kleshas in Patanjali Yoga: avidya, asmita, raga, dvesha, and abhinivesha. The other numbers are incorrect."
+  },
+  {
+    "question": "Nasya is -",
+    "options": [
+      "Putting oil in the nose",
+      "Oil-pulling",
+      "Jala Neti",
+      "Blowing the nose first thing in the morning"
+    ],
+    "correctIndex": 0,
+    "description": "Nasya refers to administering oil or herbal preparation through the nose. Oil pulling is oral care, Jala Neti is nasal cleansing with water, and blowing the nose is not Nasya."
+  },
+  {
+    "question": "Kshaura Karma is -",
+    "options": [
+      "Defecation and urination",
+      "Regular cutting of hair, nail, etc,",
+      "Deodorants, perfumes, face-pack, etc",
+      "Body massage with oil"
+    ],
+    "correctIndex": 1,
+    "description": "Kshaura Karma refers to grooming actions like cutting hair and nails. The other options describe different activities and do not fit the term."
+  },
+  {
+    "question": "Which kriya helps in ensuring mouth health?",
+    "options": [
+      "Oil Pulling",
+      "Gargling",
+      "Smoke inhaling",
+      "Herbs chewing"
+    ],
+    "correctIndex": 0,
+    "description": "According to the answer key, Oil Pulling is the correct answer. The other options may be associated with oral care in some traditions, but the key specifically marks oil pulling."
+  },
+  {
+    "question": "As per Ayurveda, Vata is dominating between-",
+    "options": [
+      "6 AM – 10 AM and 6 PM – 10 PM",
+      "2 AM – 6 AM and 2 PM – 6 PM",
+      "10 AM – 2 PM and 10 PM – 2 AM",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "description": "The answer sheet marks 2 AM–6 AM and 2 PM–6 PM as the Vata-dominant periods. The other time windows correspond to other doshic patterns."
+  },
+  {
+    "question": "The best time to eat the largest meal of the day is -",
+    "options": [
+      "Pitta dominating 10 Am -2 PM,",
+      "Vata dominating- 2 PM -6PM,",
+      "Pitta dominating- 6 AM to 10 AM,",
+      "Kapha dominating- 6 PM to 10 PM"
+    ],
+    "correctIndex": 0,
+    "description": "Midday, the Pitta-dominant time, is considered best for the heaviest meal because digestive fire is strongest then. The other time periods are less ideal."
+  },
+  {
+    "question": "Vasant Ritu (Spring) occurs -",
+    "options": [
+      "Mid-March to Mid-May",
+      "Mid-May to Mid-July",
+      "Mid-Jan to Mid-March",
+      "Mid-July to Mid-September"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks Mid-March to Mid-May. The other periods refer to different seasons."
+  },
+  {
+    "question": "Vata dosha aggravates during which season?",
+    "options": [
+      "Sharad Ritu",
+      "Vasant Ritu",
+      "Varsha Ritu",
+      "Grishma Ritu"
+    ],
+    "correctIndex": 2,
+    "description": "According to the answer key, Vata aggravates during Varsha Ritu. The other seasons are not the keyed answer in your material."
+  },
+  {
+    "question": "Pitta Auto-pacifies during which season?",
+    "options": [
+      "Hemant Ritu",
+      "Varsha Ritu",
+      "Grishma Ritu",
+      "Sharad Ritu"
+    ],
+    "correctIndex": 0,
+    "description": "The answer key marks Hemant Ritu. The other seasons do not match the provided key."
+  },
+  {
+    "question": "How many kaals are there in a year?",
+    "options": [
+      "12",
+      "6",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "description": "The answer sheet marks 2 as correct. The other numbers do not match the provided key."
+  },
+  {
+    "question": "Dinacharya and Ritucharya is for -",
+    "options": [
+      "Males",
+      "Grihastha",
+      "Vidyarthi",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "The key marks 'All of the above,' indicating these routines are relevant broadly and not restricted to only one category."
+  }
+]

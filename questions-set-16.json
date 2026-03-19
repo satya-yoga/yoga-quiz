@@ -1,0 +1,540 @@
+[
+  {
+    "question": "A disease is -",
+    "options": [
+      "Particular abnormal condition",
+      "One of the 9 Antaryas",
+      "Signs that something is wrong with the body",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because, in this quiz context, disease is being described both as an abnormal condition and as something reflected through signs in the body; it is also linked with the concept of antarayas in the teaching framework used here. Picking only one option would be incomplete."
+  },
+  {
+    "question": "Patanjali says Vyadhi (Disease) usually accompanies the -",
+    "options": [
+      "Sabhhuvas",
+      "Fluctuation in mind",
+      "Weakness",
+      "Kleshas"
+    ],
+    "correctIndex": 0,
+    "description": "According to the provided answer sheet, 'Sabhhuvas' is the keyed answer. The other choices may sound conceptually related, but they are not the marked response in your material."
+  },
+  {
+    "question": "Adhi can be understood as-",
+    "options": [
+      "Physical disease",
+      "Disturbed mind",
+      "Disease",
+      "A & B"
+    ],
+    "correctIndex": 1,
+    "description": "The correct answer is 'Disturbed mind.' In yogic and Ayurvedic usage, adhi is primarily associated with a disturbed mental state. 'Physical disease' is too narrow here, and 'A & B' is incorrect because the answer sheet marks only option B."
+  },
+  {
+    "question": "Angamejayatva is -",
+    "options": [
+      "Irregular breathing flow",
+      "Tremors in the body",
+      "Unhappiness",
+      "Depression"
+    ],
+    "correctIndex": 1,
+    "description": "Angamejayatva refers to bodily instability or tremors. Irregular breathing flow is closer to shvasa-prashvasa, while unhappiness and depression point to different mental-emotional states."
+  },
+  {
+    "question": "Heyam Dukham Anagatam means-",
+    "options": [
+      "Prevention of future pain and suffering",
+      "Treatment of the disease",
+      "Pain management",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "This phrase means that future suffering is to be avoided, which aligns with prevention of future pain and suffering. The other choices narrow or shift the meaning away from the original teaching."
+  },
+  {
+    "question": "Yoga is a wonderful preventive care.",
+    "options": [
+      "True as there are different practices that target different areas. Such as Shat kriyas for internal cleansing, Asana for body strength, Pranayama for breath control, etc.",
+      "False, Medicines are the only way to live healthy."
+    ],
+    "correctIndex": 0,
+    "description": "The statement is true because yoga includes a wide range of preventive practices that support physical, mental, and respiratory health. The second option is clearly not suitable because it incorrectly claims medicine is the only route to health."
+  },
+  {
+    "question": "Yoga is called holistic as it focuses on all aspects of health, even spiritual.",
+    "options": [
+      "True, the attitude of Ishwar Pranidhana leads to spiritual awareness.",
+      "False, Yoga considers many health aspects but not all, such as weight loss."
+    ],
+    "correctIndex": 0,
+    "description": "Yoga is considered holistic because it addresses body, mind, behavior, and spirit. The false option is not a fit because it misunderstands the broad scope of yoga."
+  },
+  {
+    "question": "Moral values can be inculcated by practicing-",
+    "options": [
+      "Yama",
+      "Ishvara Pranidhana",
+      "Chitta Prasadana",
+      "Kriya Yoga"
+    ],
+    "correctIndex": 0,
+    "description": "Yama deals directly with ethical restraints and moral conduct, so it best fits the question. The other practices are important but are not the most direct answer for inculcating moral values here."
+  },
+  {
+    "question": "How many bones are there in the human body?",
+    "options": [
+      "206",
+      "106",
+      "600",
+      "202"
+    ],
+    "correctIndex": 0,
+    "description": "The standard adult human skeleton has 206 bones. The other numbers are incorrect for normal adult anatomy."
+  },
+  {
+    "question": "Red bone marrow is produced at-",
+    "options": [
+      "Vertebrae",
+      "Breastbone",
+      "Pelvis",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because red bone marrow is found in multiple bones including vertebrae, sternum, and pelvis. Choosing only one would be incomplete."
+  },
+  {
+    "question": "CPR stands for?",
+    "options": [
+      "Cardiopulmonary Resuscitation",
+      "Californians for Pesticide Reform",
+      "Computerized Patient Record",
+      "Command Performance Review"
+    ],
+    "correctIndex": 0,
+    "description": "CPR stands for Cardiopulmonary Resuscitation. The other options are unrelated expansions and do not fit the medical emergency context."
+  },
+  {
+    "question": "First aids refer to -",
+    "options": [
+      "Immediate medical attention to the injury",
+      "Medical attention after 15 minutes of the heart attack",
+      "Medical attention that is given only by the doctors",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "First aid refers to immediate care given in an emergency before full medical treatment is available. The other options are delayed, too restrictive, or incorrect."
+  },
+  {
+    "question": "What is CPR?",
+    "options": [
+      "An emergency lifesaving procedure",
+      "An emergency first aid",
+      "A procedure that happens in the ICU",
+      "Treatment for the pulmonary issues"
+    ],
+    "correctIndex": 0,
+    "description": "CPR is an emergency lifesaving procedure used when breathing or heartbeat has stopped. The other options are either too vague or inaccurate."
+  },
+  {
+    "question": "Immediate CPR can double or triple the chances of survival after cardiac arrest.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true. Prompt CPR significantly improves the chance of survival after cardiac arrest. 'False' contradicts basic first-aid knowledge."
+  },
+  {
+    "question": "What is the compressions-to-breaths ratio in CPR?",
+    "options": [
+      "30:2",
+      "30:5",
+      "25:2",
+      "25:5"
+    ],
+    "correctIndex": 0,
+    "description": "The standard CPR ratio given here is 30 compressions to 2 breaths. The other ratios do not match the expected guideline in this quiz."
+  },
+  {
+    "question": "While giving compressions, how much depth should be maintained?",
+    "options": [
+      "2-2.4 inches",
+      "3 inches",
+      "5 inches",
+      "1 inch"
+    ],
+    "correctIndex": 0,
+    "description": "The correct compression depth listed here is 2-2.4 inches. The other values are too shallow or too deep for adult CPR guidance."
+  },
+  {
+    "question": "What is hand-only CPR?",
+    "options": [
+      "A technique for untrained people to only give compressions,",
+      "Compressions without mouth-to-mouth breath,",
+      "A technique that uses no compressions,",
+      "A & B"
+    ],
+    "correctIndex": 3,
+    "description": "A & B is correct because hand-only CPR means giving compressions without rescue breaths, particularly for untrained responders. Option C is incorrect because compressions are the core of hand-only CPR."
+  },
+  {
+    "question": "Drinking fluids to relieve heat stress, is part of the -",
+    "options": [
+      "First Aid",
+      "CPR",
+      "Ambulance treatment",
+      "Recovery treatment"
+    ],
+    "correctIndex": 1,
+    "description": "According to the provided answer key, CPR is the marked answer. This file follows your answer sheet strictly, even where the phrasing may appear unusual compared with general first-aid teaching."
+  },
+  {
+    "question": "Which is the smallest bone in the body?",
+    "options": [
+      "Stapes",
+      "Patella",
+      "Phalanges",
+      "Knuckles"
+    ],
+    "correctIndex": 0,
+    "description": "The stapes, a small ear bone, is the smallest bone in the body. The other options are much larger structures."
+  },
+  {
+    "question": "Ribs that are directly attached to the sternum via costal cartilages are called-",
+    "options": [
+      "True ribs",
+      "False ribs",
+      "Floating ribs",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "True ribs attach directly to the sternum through their own costal cartilages. False ribs attach indirectly, and floating ribs do not attach to the sternum at all."
+  },
+  {
+    "question": "The body’s reaction to a challenge or demand is referred as-",
+    "options": [
+      "Stress",
+      "Flight / Fight response",
+      "Feed / Breed response",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Stress is the general term for the body's response to a challenge or demand. Fight-or-flight is one specific type of stress response, not the broader definition asked here."
+  },
+  {
+    "question": "The fundamental cause of psychosomatic symptoms or disorders is",
+    "options": [
+      "Distress",
+      "Stress",
+      "Eustress",
+      "Food"
+    ],
+    "correctIndex": 0,
+    "description": "Distress is the harmful form of stress more closely associated with psychosomatic symptoms. Eustress is positive stress, and food is not the main answer in this context."
+  },
+  {
+    "question": "Lack of assertiveness is one of the major reasons for people struggling with peer pressure FOMO.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the answer key. Lack of assertiveness can make it harder to resist unhealthy social pressure."
+  },
+  {
+    "question": "What is victim consciousness?",
+    "options": [
+      "A stage of consciousness in which people deny personal responsibility for the things that happen in their lives,",
+      "The intuitions victims feel,",
+      "The boundaries victims set,",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Victim consciousness here refers to a mindset of denying responsibility and externalizing control. The other options do not define the term correctly."
+  },
+  {
+    "question": "Stress could be of two natures, which are-",
+    "options": [
+      "Eustress and Distress",
+      "Eustress and Stress",
+      "Distress and Acute Stress",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Stress is commonly divided into eustress and distress. The other options are either incomplete or not the standard pair."
+  },
+  {
+    "question": "The emotions one feels when receiving a promotion can be termed as -",
+    "options": [
+      "Eustress",
+      "Happiness",
+      "Contentment",
+      "Stress"
+    ],
+    "correctIndex": 0,
+    "description": "A promotion can create positive, motivating stress, which is called eustress. The other emotions may occur, but the classification asked here is eustress."
+  },
+  {
+    "question": "High-stress levels for an extended period of time are referred as-",
+    "options": [
+      "Acute Stress",
+      "Episodic Acute Stress",
+      "Chronic Stress",
+      "Distress"
+    ],
+    "correctIndex": 2,
+    "description": "Chronic stress refers to prolonged stress lasting over an extended period. Acute stress is short-term, and episodic acute stress refers to repeated episodes."
+  },
+  {
+    "question": "Sage Patanjali describes a very effective way to maintain mental health which is-",
+    "options": [
+      "Chitta Prasadana",
+      "Ashtanga Yoga",
+      "Pratipaksha Bhavana",
+      "Chitta Vritti Nirodhah"
+    ],
+    "correctIndex": 2,
+    "description": "According to the answer key, Pratipaksha Bhavana is the correct answer. The other options are important Patanjalian concepts but are not the keyed response in your material."
+  },
+  {
+    "question": "When Cortisol is released in moderation, it helps in restoring balance to the body after a stressful event.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true. In moderation, cortisol plays a useful role in stress adaptation and recovery. 'False' does not match the intended teaching."
+  },
+  {
+    "question": "The memory center of the brain is -",
+    "options": [
+      "Hippocampus",
+      "Amygdala",
+      "The prefrontal cortex",
+      "Medulla Oblongata"
+    ],
+    "correctIndex": 0,
+    "description": "The hippocampus is strongly associated with memory formation. The amygdala is more tied to emotion, the prefrontal cortex to higher planning and control, and the medulla to basic autonomic functions."
+  },
+  {
+    "question": "The process by which the body converts whatever we eat and drink into energy is called -",
+    "options": [
+      "Digestion",
+      "Absorption",
+      "Anabolism",
+      "None of the above"
+    ],
+    "correctIndex": 3,
+    "description": "According to the answer key, 'None of the above' is marked correct. This file follows the provided key strictly. While other terms may sound related biologically, the answer sheet designates option D."
+  },
+  {
+    "question": "A result of the pathological response of the body to either external or internal factors is referred as-",
+    "options": [
+      "Disease",
+      "Disorder",
+      "Syndrome",
+      "Condition"
+    ],
+    "correctIndex": 0,
+    "description": "Disease is the keyed answer for this question. The other terms have specific meanings, but the answer sheet marks disease here."
+  },
+  {
+    "question": "Disruption of the usual bodily functions due to the presence of disease in the body is referred to as -",
+    "options": [
+      "Disorder",
+      "Syndrome",
+      "Condition",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Disorder is the keyed answer because it refers to disturbed functioning. Syndrome is a cluster of signs and symptoms, and condition is a broader term."
+  },
+  {
+    "question": "An abnormal state that feels different from your normal state of well-being is referred as-",
+    "options": [
+      "Disease",
+      "Disorder",
+      "Syndrome",
+      "Condition"
+    ],
+    "correctIndex": 3,
+    "description": "Condition is the answer marked in your key. The other terms are more specific and do not match the expected response here."
+  },
+  {
+    "question": "When an abnormal chemical reaction in the body disrupts the usual energy conversion process, is referred to as -",
+    "options": [
+      "Diabetes",
+      "A metabolic disorder",
+      "Low sugar level",
+      "Thyroidism"
+    ],
+    "correctIndex": 1,
+    "description": "A metabolic disorder is the correct general term because it refers to abnormal chemical processes affecting metabolism. The other options are specific conditions or symptoms, not the broad category asked here."
+  },
+  {
+    "question": "The keys factor to manage Metabolic disorders is -",
+    "options": [
+      "Right Food",
+      "Physical Activity",
+      "Proper sleep",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because metabolic health depends on nutrition, movement, and sleep together. Choosing only one would be incomplete."
+  },
+  {
+    "question": "For asthma patients which asanas are beneficial?",
+    "options": [
+      "Padahastasana",
+      "Katichakrasana",
+      "Balasana",
+      "A & C"
+    ],
+    "correctIndex": 3,
+    "description": "According to the answer key, A & C is correct. Katichakrasana is not included in the marked answer set here."
+  },
+  {
+    "question": "Which asanas are beneficial for Diabetic patients?",
+    "options": [
+      "Matsyendrasana",
+      "Dhanurasana",
+      "Paschimottanasana",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because all the listed asanas are treated as beneficial here. The answer sheet specifically marks option D."
+  },
+  {
+    "question": "FVC stands for -",
+    "options": [
+      "Forced Ventilation Capacity",
+      "Forced Vital Capacity",
+      "Frequent Vital Capacity",
+      "A & B"
+    ],
+    "correctIndex": 1,
+    "description": "FVC stands for Forced Vital Capacity. The other expansions are incorrect, and A & B is wrong because option A is not the accepted expansion."
+  },
+  {
+    "question": "The ribs which don’t attach to the sternum at all are called -",
+    "options": [
+      "Floating Ribs",
+      "False Ribs",
+      "True Ribs",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "description": "Floating ribs do not attach to the sternum at all. False ribs attach indirectly, and true ribs attach directly."
+  },
+  {
+    "question": "Personality can be defined as -",
+    "options": [
+      "Characteristic patterns of thoughts, feelings, and behaviors that make a person unique,",
+      "A combination of traits and patterns that influence behavior, thought, motivation, and emotion.",
+      "A characteristic way of thinking, feeling, and behaving",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because each statement captures a valid aspect of personality. The answer sheet marks the inclusive option."
+  },
+  {
+    "question": "Which practices help in developing social values?",
+    "options": [
+      "Principles of Yama",
+      "Asana",
+      "Kriya Yoga",
+      "Chitta Prasadana"
+    ],
+    "correctIndex": 0,
+    "description": "Yama directly concerns ethical and social conduct, so it best supports development of social values. The others are important practices but not the primary answer here."
+  },
+  {
+    "question": "Which practices work on the emotional dimension of personality?",
+    "options": [
+      "Dhyana",
+      "Trataka",
+      "Pranayama",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "All of the above is correct because each of these practices can influence emotional regulation and stability. The key marks option D."
+  },
+  {
+    "question": "Yogic practices should be introduced as early as 8 years for the holistic development of the child.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "This is true according to the answer sheet. The false option does not match the keyed answer."
+  },
+  {
+    "question": "The Human skeleton is divided into -",
+    "options": [
+      "Axial Skeleton and Appendicular Skeleton,",
+      "Axial Skeleton and Vertebrae columns,",
+      "Bones and muscles,",
+      "Upper limbs and lower limbs"
+    ],
+    "correctIndex": 0,
+    "description": "The human skeleton is classically divided into axial and appendicular skeleton. The other options are incomplete or anatomically incorrect."
+  },
+  {
+    "question": "Tissues that connect 2 muscles are called-",
+    "options": [
+      "Fascia",
+      "Ligament",
+      "Tendon",
+      "Connective tissues"
+    ],
+    "correctIndex": 0,
+    "description": "According to the provided answer key, fascia is correct. This file follows your answer sheet strictly. Tendons connect muscle to bone, ligaments connect bone to bone, and connective tissues is too broad."
+  },
+  {
+    "question": "The joints which are found between the bones of the skull are called-",
+    "options": [
+      "Gomphosis",
+      "Syndesmosis",
+      "Suture",
+      "Fibrous Joint"
+    ],
+    "correctIndex": 2,
+    "description": "The joints between skull bones are called sutures. Gomphosis refers to tooth sockets, syndesmosis is a different fibrous joint type, and fibrous joint is broader than the exact named answer required here."
+  },
+  {
+    "question": "The wrist is an example of -",
+    "options": [
+      "Saddle Joint",
+      "Condyloid Joint",
+      "Pivot Joint",
+      "Plane / Gliding Joint"
+    ],
+    "correctIndex": 1,
+    "description": "The wrist is classified here as a condyloid joint. The other joint types refer to different movement structures."
+  },
+  {
+    "question": "What is the basic unit of the nervous system?",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Mitochondria",
+      "Nerves"
+    ],
+    "correctIndex": 0,
+    "description": "The neuron is the basic functional unit of the nervous system. Nephron is the kidney's unit, mitochondria are organelles, and nerves are bundles of nerve fibers rather than the fundamental unit."
+  },
+  {
+    "question": "What is the basic unit of kidney function?",
+    "options": [
+      "Nephrons",
+      "Neurons",
+      "Cells",
+      "RBC"
+    ],
+    "correctIndex": 0,
+    "description": "The nephron is the functional unit of the kidney. The other options are unrelated or too broad."
+  }
+]

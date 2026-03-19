@@ -1,0 +1,551 @@
+[
+  {
+    "question": "Psychology is the study of –",
+    "options": [
+      "Human behaviour",
+      "Mental processes",
+      "Cognitive processes",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Psychology is a scientific study that deals with understanding human behaviour, mental processes (like perception, memory, emotion, etc.), and cognitive functions (such as thinking, reasoning, and problem-solving). Option (a) and (b) cover only parts of it. Option (c) is a subset of mental processes. Hence, 'All of the above' best represents the complete scope of psychology."
+  },
+  {
+    "question": "___ is the author of Gheranda Samhita",
+    "options": [
+      "Gheranda",
+      "Patanjali",
+      "Svetasvatara",
+      "Bhaskara"
+    ],
+    "correctIndex": 0,
+    "description": "Gheranda Samhita is authored by Gheranda, a classical text on Hatha Yoga. It is one of the three main Hatha Yoga texts along with Hatha Yoga Pradipika and Shiva Samhita."
+  },
+  {
+    "question": "Gurupurnima day is celebrated on the occasion of the birthday of ____",
+    "options": [
+      "Vedavyas",
+      "Patanjali",
+      "Shankaracharya",
+      "Gheranda"
+    ],
+    "correctIndex": 0,
+    "description": "Gurupurnima is celebrated in honor of Vedavyas, who is considered the compiler of Vedas and the Guru of Gurus. It is a day to pay respect to teachers and mentors."
+  },
+  {
+    "question": "Sri Aurobindo was not a –",
+    "options": [
+      "Yogi",
+      "Poet",
+      "Revolutionary",
+      "A traditional Acharya"
+    ],
+    "correctIndex": 3,
+    "description": "Sri Aurobindo was a Yogi, poet, and revolutionary, but he was not a traditional Acharya who strictly followed classical rituals or teachings. His approach was modern and integral."
+  },
+  {
+    "question": "Mahatma Buddha was born in ____",
+    "options": [
+      "Lumbini",
+      "Bodh Gaya",
+      "Sarnath",
+      "Kushinagar"
+    ],
+    "correctIndex": 0,
+    "description": "Mahatma Buddha was born in Lumbini, which is in present-day Nepal, around 563 BCE."
+  },
+  {
+    "question": "Buddha approved Vedas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "description": "According to Buddhist texts, Buddha accepted the Vedas as authoritative for spiritual practices. He did not reject the Vedas completely but emphasized practical methods for reducing suffering."
+  },
+  {
+    "question": "Which gland is responsible for stress response?",
+    "options": [
+      "Adrenal gland",
+      "Pituitary gland",
+      "Thyroid gland",
+      "Pancreas"
+    ],
+    "correctIndex": 0,
+    "description": "The adrenal glands secrete hormones like cortisol and adrenaline during stress. These hormones prepare the body for 'fight or flight' response. Pituitary gland regulates other endocrine glands but adrenal is primary for stress."
+  },
+  {
+    "question": "Etymology of Psychology",
+    "options": [
+      "Psyche + Logos",
+      "Bodhi + Vijnana",
+      "Manas + Shastra",
+      "Cognition + Science"
+    ],
+    "correctIndex": 0,
+    "description": "The word 'Psychology' comes from Greek 'Psyche' meaning mind or soul and 'Logos' meaning study or science. It literally means the study of the mind."
+  },
+  {
+    "question": "Who is known as Guru of Gurus according to PYS?",
+    "options": [
+      "Hiranyagarbha",
+      "Brahma",
+      "Shiva",
+      "Vedavyas"
+    ],
+    "correctIndex": 0,
+    "description": "According to Patanjali Yoga Sutras, Hiranyagarbha is considered the 'Guru of Gurus', representing the universal consciousness and the source of all knowledge."
+  },
+  {
+    "question": "According to Buddha, main reason for sorrow and suffering in human life?",
+    "options": [
+      "Desire",
+      "Karma",
+      "Ignorance",
+      "Attachment"
+    ],
+    "correctIndex": 0,
+    "description": "Buddha taught that Trishna (desire, craving) is the root cause of human suffering. By overcoming desires, one can reduce sorrow and achieve Nirvana."
+  },
+  {
+    "question": "Buddha discovered which Dhyana?",
+    "options": [
+      "Samadhi Dhyana",
+      "Vipassana",
+      "Dhyana as per Patanjali",
+      "Zen Meditation"
+    ],
+    "correctIndex": 1,
+    "description": "Buddha discovered Vipassana meditation, which focuses on insight and awareness of reality, leading to mindfulness and liberation from suffering."
+  },
+  {
+    "question": "Sri T Krishnamacharya was born in –",
+    "options": [
+      "Mysore",
+      "Tirunelveli",
+      "Chennai",
+      "Bangalore"
+    ],
+    "correctIndex": 1,
+    "description": "T. Krishnamacharya, the father of modern yoga, was born in Tirunelveli, Tamil Nadu in 1888. He trained many famous yoga teachers like B.K.S. Iyengar and Pattabhi Jois."
+  },
+  {
+    "question": "Which affects personality of a person?",
+    "options": [
+      "Family",
+      "Society",
+      "Education",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Personality is influenced by multiple factors including family, society, and education. All of these contribute to shaping an individual's behavior, values, and attitudes."
+  },
+  {
+    "question": "Areas in which evaluation of a yoga instructor or teacher can be done?",
+    "options": [
+      "Knowledge",
+      "Attitudes",
+      "Interests",
+      "Skills"
+    ],
+    "correctIndex": 3,
+    "description": "A yoga instructor can be evaluated on knowledge, attitudes, interests, and practical skills. Skills indicate how well they can demonstrate and guide students."
+  },
+  {
+    "question": "Causes of social stress?",
+    "options": [
+      "Job insecurity",
+      "Low income",
+      "Relationship issues",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Social stress arises from multiple factors such as job insecurity, low income, and relationship issues. These can cause mental and physical health problems."
+  },
+  {
+    "question": "Which asana is good for eliminating wind from food pipe?",
+    "options": [
+      "Pawanamuktasana",
+      "Bhujangasana",
+      "Dhanurasana",
+      "Vajrasana"
+    ],
+    "correctIndex": 0,
+    "description": "Pawanamuktasana (Wind-Relieving Pose) helps expel gas, improves digestion, and relieves bloating in the digestive tract."
+  },
+  {
+    "question": "Which is king of asanas?",
+    "options": [
+      "Shirshasana",
+      "Padmasana",
+      "Sirsasana",
+      "Sarvangasana"
+    ],
+    "correctIndex": 0,
+    "description": "Shirshasana (Headstand) is considered the king of asanas because of its overall benefits including improved blood circulation to the brain and strengthening the body."
+  },
+  {
+    "question": "Which makes a wonderful combination of Bhujangasana and Shalabhasana?",
+    "options": [
+      "Dhanurasana",
+      "Matsyasana",
+      "Setubandhasana",
+      "Kurmasana"
+    ],
+    "correctIndex": 0,
+    "description": "Dhanurasana combines the back-bending effect of Bhujangasana and the leg lift of Shalabhasana, stimulating the abdomen, spine, and chest."
+  },
+  {
+    "question": "Cat Pose asana name?",
+    "options": [
+      "Marjariasana",
+      "Bitilasana",
+      "Adho Mukha Svanasana",
+      "Bhujangasana"
+    ],
+    "correctIndex": 0,
+    "description": "Marjariasana, or Cat Pose, is used for spinal flexibility and gently massaging the abdominal organs."
+  },
+  {
+    "question": "Practice of asana induces –",
+    "options": [
+      "Breathing awareness",
+      "Mental awareness",
+      "Physical awareness",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Asana practice develops awareness of breathing, mind, and body, enhancing overall concentration and physical coordination."
+  },
+  {
+    "question": "___ must be practiced after Jalaneti",
+    "options": [
+      "Kapalabhati",
+      "Trataka",
+      "Bhastrika",
+      "Ujjayi"
+    ],
+    "correctIndex": 0,
+    "description": "Kapalabhati is generally practiced after Jalaneti because it complements the cleansing of nasal passages and lungs, helping improve respiratory efficiency."
+  },
+  {
+    "question": "___ kriya increases memory power",
+    "options": [
+      "Neti",
+      "Trataka",
+      "Nauli",
+      "Bhastrika"
+    ],
+    "correctIndex": 1,
+    "description": "Trataka kriya enhances concentration and mental focus, which directly improves memory power and cognitive clarity."
+  },
+  {
+    "question": "Regular practice of Jalaneti kriya removes the disorders related to which parts?",
+    "options": [
+      "Nose",
+      "Ear",
+      "Eye",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Jalaneti cleanses nasal passages and helps in proper breathing. This indirectly benefits ear and eye health by maintaining sinus and nervous system balance."
+  },
+  {
+    "question": "__ shouldn't be performed daily by a newly married person",
+    "options": [
+      "Siddhasana",
+      "Padmasana",
+      "Vajrasana",
+      "Shirshasana"
+    ],
+    "correctIndex": 0,
+    "description": "Siddhasana is traditionally recommended to be avoided daily by newly married individuals, as per classical texts, due to its intense effect on the reproductive energy."
+  },
+  {
+    "question": "___ is a balancing Yoga Posture",
+    "options": [
+      "Vrikshasana",
+      "Tadasana",
+      "Padmasana",
+      "Vajrasana"
+    ],
+    "correctIndex": 0,
+    "description": "Vrikshasana (Tree Pose) requires balance and focus, improving stability and coordination, and is therefore considered a balancing posture."
+  },
+  {
+    "question": "During practice of Jalaneti one should –",
+    "options": [
+      "Check temperature of water",
+      "Mix proper amount of salt in the water",
+      "Use proper posture",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Safe practice of Jalaneti requires correct water temperature, appropriate salt concentration, and maintaining proper posture to prevent discomfort or injury."
+  },
+  {
+    "question": "During the practice of Ujjayi pranayama, puraka is done through –",
+    "options": [
+      "Both nostrils",
+      "Right nostril",
+      "Left nostril",
+      "Mouth"
+    ],
+    "correctIndex": 0,
+    "description": "In Ujjayi Pranayama, inhalation (Puraka) and exhalation (Rechaka) are done through both nostrils with slight constriction in the throat, producing a soft hissing sound."
+  },
+  {
+    "question": "Which pranayama can be done while moving, standing, sitting, walking etc.?",
+    "options": [
+      "Ujjayi",
+      "Bhramari",
+      "Kapalabhati",
+      "Sheetali"
+    ],
+    "correctIndex": 0,
+    "description": "Ujjayi Pranayama is flexible and can be practiced in motion as well as while standing or sitting, making it adaptable for various activities."
+  },
+  {
+    "question": "Which pranayama is very useful in eliminating diabetes?",
+    "options": [
+      "Bhastrika",
+      "Kapalabhati",
+      "Anulom Vilom",
+      "Ujjayi"
+    ],
+    "correctIndex": 0,
+    "description": "Bhastrika Pranayama improves metabolism and stimulates pancreas function, which helps regulate blood sugar levels, making it beneficial for diabetes management."
+  },
+  {
+    "question": "Which wave is activated more in the human brain during meditation?",
+    "options": [
+      "Alpha wave",
+      "Beta wave",
+      "Delta wave",
+      "Theta wave"
+    ],
+    "correctIndex": 0,
+    "description": "Alpha waves are predominant in the brain during meditation, indicating a relaxed yet alert state of mind."
+  },
+  {
+    "question": "Methods used during cyclic meditation –",
+    "options": [
+      "IRT",
+      "DRT",
+      "QRT",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Cyclic meditation uses IRT (Immediate Relaxation Technique), DRT (Deep Relaxation Technique), and QRT (Quick Relaxation Technique) sequentially for effective stress relief."
+  },
+  {
+    "question": "Anti-gravitational asana?",
+    "options": [
+      "Sarvangasana",
+      "Shirshasana",
+      "Mayurasana",
+      "Vrikshasana"
+    ],
+    "correctIndex": 2,
+    "description": "Mayurasana (Peacock Pose) is considered an anti-gravitational asana as it requires arm balance and supports the body horizontally, defying gravity."
+  },
+  {
+    "question": "Which asana is useful in controlling anger?",
+    "options": [
+      "Kurmasana",
+      "Padmasana",
+      "Vrikshasana",
+      "Shirshasana"
+    ],
+    "correctIndex": 0,
+    "description": "Kurmasana (Tortoise Pose) calms the mind and nervous system, helping in controlling anger and reducing mental agitation."
+  },
+  {
+    "question": "Which pranayama helps in removing insomnia, anxiety, stress and anger?",
+    "options": [
+      "Anulom Vilom",
+      "Bhramari",
+      "Kapalabhati",
+      "Sheetali"
+    ],
+    "correctIndex": 1,
+    "description": "Bhramari Pranayama (Bee Breath) soothes the nervous system and calms the mind, making it effective for reducing insomnia, anxiety, stress, and anger."
+  },
+  {
+    "question": "Which asana is strictly prohibited for cervical spondylosis?",
+    "options": [
+      "Shirshasana",
+      "Sarvangasana",
+      "Dhanurasana",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Shirshasana, Sarvangasana, and Dhanurasana put pressure on the cervical spine and are contraindicated for individuals with cervical spondylosis."
+  },
+  {
+    "question": "Regular practice of ___ stimulates digestive fire so much that it can even digest poison",
+    "options": [
+      "Mayurasana",
+      "Dhanurasana",
+      "Pawanamuktasana",
+      "Vajrasana"
+    ],
+    "correctIndex": 0,
+    "description": "Mayurasana (Peacock Pose) compresses the abdomen and stimulates digestive fire (Agni), which is believed in classical texts to be capable of digesting even toxins."
+  },
+  {
+    "question": "According to Haṭha Yoga Pradīpikā, the practice of Matsyendrāsana helps in –",
+    "options": [
+      "Removing diseases",
+      "Awakening Kundalini",
+      "Proper digestion",
+      "Strengthening the spine and stimulating circulation",
+      "All of the above"
+    ],
+    "correctIndex": 4,
+    "description": "Matsyendrāsana, a spinal twisting pose, aids in digestion, removes diseases, strengthens the spine, stimulates blood circulation, and helps awaken Kundalini energy."
+  },
+  {
+    "question": "Which Śuddhi Kriya increases the digestive fire?",
+    "options": [
+      "Nauli Kriya",
+      "Kapalabhati",
+      "Basti Kriya",
+      "Trataka"
+    ],
+    "correctIndex": 0,
+    "description": "Nauli Kriya massages abdominal organs and increases digestive fire (Agni), improving metabolism and gastrointestinal health."
+  },
+  {
+    "question": "Dhanurasana contraindicated in ___",
+    "options": [
+      "Hernia",
+      "Pregnancy",
+      "Severe back injury",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Dhanurasana is a deep backbend that stresses the abdomen and spine, and is therefore contraindicated in hernia, pregnancy, or severe back injuries."
+  },
+  {
+    "question": "Which pranayama is very useful for people suffering from low BP?",
+    "options": [
+      "Sheetali",
+      "Shitkari",
+      "Surya Bhedana",
+      "Bhramari"
+    ],
+    "correctIndex": 2,
+    "description": "Surya Bhedana pranayama (Right Nostril Breathing) stimulates the sympathetic nervous system, energizes the body, and helps increase low blood pressure."
+  },
+  {
+    "question": "Yogic practices help in curing metabolic syndrome –",
+    "options": [
+      "Asanas",
+      "Surya Namaskara",
+      "Pranayama",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "description": "Combination of asanas, Surya Namaskara, and pranayama improves metabolism, reduces obesity, stress, and insulin resistance, aiding in management of metabolic syndrome."
+  },
+  {
+    "question": "Blood in our body is which type of tissue?",
+    "options": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Muscular tissue",
+      "Nervous tissue"
+    ],
+    "correctIndex": 1,
+    "description": "Blood is a specialized connective tissue with cells suspended in plasma. It is responsible for transport of nutrients, gases, and waste, and plays a key role in immunity."
+  },
+    {
+    "question": "Homeostasis means maintaining ____ in the body",
+    "options": [
+      "Stable environment",
+      "Blood pressure",
+      "Heart rate",
+      "Respiration rate"
+    ],
+    "correctIndex": 0,
+    "description": "Homeostasis refers to the body's ability to maintain a stable internal environment despite external changes. While blood pressure, heart rate, and respiration are components of it, 'Stable environment' covers the overall concept."
+  },
+  {
+    "question": "How many chambers does the heart have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "description": "The human heart has four chambers: two atria and two ventricles. This structure ensures proper separation of oxygenated and deoxygenated blood for efficient circulation."
+  },
+  {
+    "question": "How many bones are there in the human face?",
+    "options": [
+      "14",
+      "18",
+      "22",
+      "28"
+    ],
+    "correctIndex": 0,
+    "description": "The human face is formed by 14 bones, including the maxilla, mandible, zygomatic, nasal, lacrimal, palatine, inferior nasal concha, and vomer bones."
+  },
+  {
+    "question": "Metabolism rate of the human body does not increase during –",
+    "options": [
+      "Exercise",
+      "Fasting",
+      "Eating",
+      "Shivering"
+    ],
+    "correctIndex": 1,
+    "description": "Fasting slows down the metabolism because the body conserves energy in the absence of food. Metabolic rate increases during exercise, eating, and shivering to provide energy and heat."
+  },
+  {
+    "question": "Which Śuddhi Kriya helps in purification of the anus?",
+    "options": [
+      "Basti Kriya",
+      "Neti Kriya",
+      "Nauli Kriya",
+      "Kapalabhati"
+    ],
+    "correctIndex": 0,
+    "description": "Basti Kriya cleanses the lower colon and anus region. It is considered an important Śuddhi Kriya for digestive and excretory purification. Moola Shodhana is a Śuddhi Kriya that purifies the anal and lower colon region. In Hatha Yoga texts, it is also referred to as Basti Kriya. It is important for digestive and excretory cleansing."
+  },
+  {
+    "question": "The practice of Pratyahara makes a Sadhaka –",
+    "options": [
+      "Extrovert",
+      "Introvert",
+      "Energetic",
+      "Physically strong"
+    ],
+    "correctIndex": 1,
+    "description": "Pratyahara is the withdrawal of senses from external objects, which promotes inward focus and develops an introverted state in the practitioner."
+  },
+  {
+    "question": "Map Glands and Chakras:",
+    "options": [
+      "Anahata – Thymus, Ajna – Pituitary, Vishuddhi – Thyroid, Manipura – Pancreas",
+      "Anahata – Pituitary, Ajna – Thyroid, Vishuddhi – Pancreas, Manipura – Thymus",
+      "Anahata – Pancreas, Ajna – Thymus, Vishuddhi – Pituitary, Manipura – Thyroid",
+      "Anahata – Thyroid, Ajna – Pancreas, Vishuddhi – Thymus, Manipura – Pituitary"
+    ],
+    "correctIndex": 0,
+    "description": "Classical mapping associates Anahata chakra with Thymus, Ajna with Pituitary, Vishuddhi with Thyroid, and Manipura with Pancreas. This mapping links endocrine glands with energy centers."
+  },
+  {
+    "question": "Voluntary muscles in human body are –",
+    "options": [
+      "Skeletal muscles",
+      "Smooth muscles",
+      "Cardiac muscles",
+      "Involuntary muscles"
+    ],
+    "correctIndex": 0,
+    "description": "Voluntary muscles are skeletal muscles that can be consciously controlled to produce movement. Smooth and cardiac muscles are involuntary and function without conscious control."
+  }
+]
