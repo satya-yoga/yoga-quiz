@@ -1,17 +1,17 @@
 [
   {
-    "question": "According to Patanjali “Trayam Ektra” is-",
+    "question": "According to Patanjali 'Trayam Ektra' is-",
     "options": [
       "Sanshaya",
-      "Sayamah",
+      "Samyama",
       "Samadhi",
       "Gunah"
     ],
     "correctIndex": 1,
-    "description": "Sayamah is correct as per the answer key. The other options refer to different yogic or philosophical terms and do not match the expected answer for this question."
+    "description": "Trayam ekatra saṁyamaḥ (PYS 3.4). It means the integration of the three: Dharana (concentration), Dhyana (meditation), and Samadhi (absorption) - focused on a single object. When these three happen together seamlessly, it is called Samyama, leading to deeper knowledge and insight."
   },
   {
-    "question": "What is kriya yoga ?",
+    "question": "What is Kriya Yoga ?",
     "options": [
       "Raga, Dvesha, Abhinivesha",
       "Pratyahara, Dharana, Dhyana",
@@ -19,10 +19,10 @@
       "Asana, Pranayama, Dharana"
     ],
     "correctIndex": 2,
-    "description": "Kriya Yoga in Patanjali consists of Tapas, Swadhyaya, and Ishvara Pranidhana. The other options describe either kleshas or different limbs/practices of yoga."
+    "description": "Tapaḥ svādhyāya īśvara-praṇidhānāni kriyā-yogaḥ (PYS 2.1). Kriya Yoga is the path of discipline (Tapas), self-study (Svadhyaya), and surrender to the Divine (Ishvara Pranidhana). It helps purify the mind, reduce suffering (kleshas), and prepare the practitioner for higher states of meditation.. The other options describe either kleshas or different limbs/practices of yoga."
   },
   {
-    "question": "Which of the following asana enhances appetite?",
+    "question": "Which of the following Asana enhances appetite?",
     "options": [
       "Siddhasana",
       "Baddha-Padmasana",
@@ -30,10 +30,10 @@
       "Paschimottanasana"
     ],
     "correctIndex": 3,
-    "description": "Paschimottanasana is the keyed answer here and is traditionally associated with stimulating digestion and appetite. The other asanas do not fit this question as closely."
+    "description": "Asanas that involve compression, stretching, or twisting of the abdomen stimulate digestive organs and improve digestive fire (Agni), thereby enhancing appetite. Examples include Paschimottanasana, Bhujangasana, Dhanurasana, Pavanamuktasana, and Ardha Matsyendrasana. In contrast, meditative and relaxation postures do not directly contribute to increasing appetite."
   },
   {
-    "question": "Name three types of Sharira-",
+    "question": "Name three types of Sharira:",
     "options": [
       "Sthula, Sukshma, Karana",
       "Sukshma, Turiya, Ekagra",
@@ -41,7 +41,7 @@
       "None of the above"
     ],
     "correctIndex": 0,
-    "description": "The three shariras are Sthula, Sukshma, and Karana Sharira. The other options mix unrelated states or concepts and are not the standard classification."
+    "description": "As per Vedanta, the three types of Śarīra (bodies) are:\n1. Sthūla Śarīra (Gross Body) – The physical body made of the five elements (what we see and experience).\n2. Sūkṣma Śarīra (Subtle Body) – Includes mind, intellect, ego, and prāṇa (inner functioning).\n3. Kāraṇa Śarīra (Causal Body) – The seed form; source of impressions (saṁskāras) and ignorance."
   },
   {
     "question": "Which Kosha is responsible for all the physical and mental functions.",
@@ -52,7 +52,7 @@
       "All"
     ],
     "correctIndex": 3,
-    "description": "All is correct here because the kosha framework is being treated in this quiz as together covering physical and mental functioning. Choosing only one kosha would be incomplete in this exam context."
+    "description": "All three koshas are involved in functioning:\nAnnamaya Kosha: handles physical structure and functions\nPranamaya Kosha: provides energy for all activities\nManomaya Kosha: governs mental functions and thoughts"
   },
   {
     "question": "Sadhana Chatushtaya helps in the preparation of -------- and --------.",
@@ -63,7 +63,7 @@
       "Intellect, Emotion and Will"
     ],
     "correctIndex": 3,
-    "description": "According to the answer key, Sadhana Chatushtaya prepares intellect, emotion, and will. The other options refer to different paths or practices, not the intended preparatory set here."
+    "description": "Sādhana Chatuṣṭaya (from Vedanta) helps in the preparation of the mind (Antaḥkaraṇa) and intellect (Buddhi). It consists of four disciplines:\nViveka (discrimination) → refines the Intellect (Buddhi)\nVairagya (detachment) → purifies Emotions (Manas)\nṢaṭsampatti (six virtues like śama, dama, etc.) → stabilizes the Mind\nMumukṣutva (desire for liberation) → strengthens the Will"
   },
   {
     "question": "Which Guna is dominated in the “Moodha” state of Chitta?",
@@ -74,7 +74,7 @@
       "All of the above"
     ],
     "correctIndex": 0,
-    "description": "Moodha Chitta is dominated by Tamo Guna, which is associated with dullness, inertia, and confusion. Rajas and Sattva do not define this state."
+    "description": "In yogic philosophy (based on Samkhya philosophy and reflected in Yoga Sutras of Patanjali), the three Guṇas describe the nature of the mind. Sattva brings clarity, peace, and balance; Rajas creates activity, restlessness, and desire; Tamas causes inertia, dullness, and ignorance.\nA balanced mind evolves from Tamas → Rajas → Sattva, leading toward higher awareness and inner harmony."
   },
   {
     "question": "According to Hathayoga Pradipika which one is considered as a Kapalbhati?",
@@ -90,13 +90,13 @@
   {
     "question": "Which is true?",
     "options": [
-      "Annamaya Kosha is a mental vehicle,",
-      "Annamaya Kosha is a physical vehicle,",
-      "Manomaya Kosha is a physical vehicle.",
+      "Annamaya Kosha is a mental vehicle",
+      "Annamaya Kosha is a physical vehicle",
+      "Manomaya Kosha is a physical vehicle",
       "All"
     ],
     "correctIndex": 1,
-    "description": "Annamaya Kosha is the physical sheath, so option B is correct. The mental vehicle corresponds more to subtler sheaths, making the other statements incorrect."
+    "description": "Annamaya Kosha is the gross physical body, made of food (Anna), hence it is a physical vehicle.\nManomaya Kosha represents the mind and emotions, not physical."
   },
   {
     "question": "Swadhyaya and Ishvarpranidhana are classified under-",
@@ -107,7 +107,7 @@
       "Samadhi"
     ],
     "correctIndex": 0,
-    "description": "Swadhyaya and Ishvarapranidhana are part of Niyama in Ashtanga Yoga. They are not classified under Asana, Yama, or Samadhi."
+    "description": "In Yoga Sutras of Patanjali (2.32), Niyamas include:\n1. Śaucha\n2. Santoṣa\n3. Tapas\n4. Svādhyāya\n5. Īśvara Praṇidhāna"
   },
   {
     "question": "Tamas Guna is responsible for-",
@@ -118,18 +118,18 @@
       "None of these"
     ],
     "correctIndex": 0,
-    "description": "Tamas is associated with laziness and lethargy. Activity, knowledge, concentration, and awareness are not qualities of Tamas."
+    "description": "Tamas Guṇa is responsible for: inertia, laziness, ignorance, and dullness of the mind. In yogic philosophy (from Samkhya philosophy), Tamas represents darkness and inactivity, leading to confusion, sleep, and lack of awareness."
   },
   {
     "question": "Which Chaturanga Yogas are propounded by Swami Swatmaram?",
     "options": [
       "Asana, Pranayama",
       "Mudra & Nadanusandhana",
-      "A&B",
+      "A & B",
       "None of these"
     ],
     "correctIndex": 2,
-    "description": "A & B is correct because Swami Swatmaram presents both Asana–Pranayama and Mudra–Nadanusandhana groupings in the practical structure of Hatha Yoga."
+    "description": "t refers to four main limbs/practices of Hatha Yoga:\nAsana\nPranayama\nMudra\nNadanusandhana (Nada Yoga)."
   },
   {
     "question": "Which one is not an element of Indian Philosophy?",
@@ -140,7 +140,7 @@
       "Nyaya"
     ],
     "correctIndex": 2,
-    "description": "Jainism is the option marked as not being one of the classical elements listed here. Sankhya, Yoga, and Nyaya are well-known Indian philosophical systems."
+    "description": "Sankhya, Yoga, and Nyaya are among the Āstika Darśanas (Ṣaḍ-Darśanas (six orthodox systems)), while Jainism is a Nāstika Darśana, but all are part of Indian philosophy."
   },
   {
     "question": "Which of these refer to set personal discipline?",
@@ -148,7 +148,7 @@
       "Niyama",
       "Dhyana",
       "Yama",
-      "Dharna"
+      "Dharana"
     ],
     "correctIndex": 0,
     "description": "Niyama refers to personal discipline and observances. Yama relates more to social restraints, while Dhyana and Dharana are meditative limbs."
@@ -173,7 +173,7 @@
       "All"
     ],
     "correctIndex": 3,
-    "description": "All is correct because the skeletal system is built from bones and is functionally supported by ligaments and tendons in this quiz framing. The inclusive option best matches the answer key."
+    "description": "The human skeletal system includes:\nBones → provide structure and support\nLigaments → connect bones to bones and stabilize joints\nTendons → connect muscles to bones, enabling movement\nAll these components work together in the skeletal system"
   },
   {
     "question": "Which of the following statements regarding Shatkarma is correct?",
