@@ -422,7 +422,7 @@
       "Chittah"
     ],
     "correctIndex": 0,
-    "description": "The correct completion is 'Vairagyabhyam,' as in the well-known Yoga Sutra idea that practice and dispassion lead to restraint of mental modifications. The other options do not complete the phrase correctly."
+    "description": "The correct completion is 'Vairagyabhyam,' as in the well-known Yoga Sutra idea that practice and dispassion lead to restraint of mental modifications."
   },
   {
     "question": "How many Kleshas are there?",
@@ -433,7 +433,7 @@
       "6"
     ],
     "correctIndex": 0,
-    "description": "There are 5 kleshas in Patanjali Yoga: avidya, asmita, raga, dvesha, and abhinivesha. The other numbers are incorrect."
+    "description": "There are 5 kleshas in Patanjali Yoga: Avidya, Asmita, Raga, Dvesha, and Abhinivesha."
   },
   {
     "question": "Nasya is -",
@@ -532,17 +532,6 @@
       "3"
     ],
     "correctIndex": 2,
-    "description": "The answer sheet marks 2 as correct. The other numbers do not match the provided key."
-  },
-  {
-    "question": "Dinacharya and Ritucharya is for -",
-    "options": [
-      "Males",
-      "Grihastha",
-      "Vidyarthi",
-      "All of the above"
-    ],
-    "correctIndex": 3,
-    "description": "The key marks 'All of the above,' indicating these routines are relevant broadly and not restricted to only one category."
+    "description": "In Yoga, a year is mainly divided into 2 Kālas: 1. Uttarayana Kāla (Northern movement of Sun) 2. Dakshinayana Kāla (Southern movement of Sun). Uttarayana: Mid-January → Mid-July.  Energy moves upward & outward. Body becomes weaker (energy gets depleted). Includes: Shishira (late winter), Vasanta (spring), Grishma (summer). In yoga: Practice should be moderate. Avoid over-exertion. Focus on cooling & balancing practices. Dakshinayana: Mid-July → Mid-January. Energy moves inward & downward. Body becomes stronger & nourished. Includes: Varsha (monsoon), Sharad (autumn), Hemanta (early winter). In yoga: Good time for strong practice. Build strength, stamina, deeper sadhana."
   }
 ]
