@@ -3,12 +3,12 @@
     "question": "A disease is -",
     "options": [
       "Particular abnormal condition",
-      "One of the 9 Antaryas",
+      "One of the 9 Antarayas",
       "Signs that something is wrong with the body",
       "All of the above"
     ],
     "correctIndex": 3,
-    "description": "All of the above is correct because, in this quiz context, disease is being described both as an abnormal condition and as something reflected through signs in the body; it is also linked with the concept of antarayas in the teaching framework used here. Picking only one option would be incomplete."
+    "description": "All of the above is correct because, in this quiz context, disease is being described both as an abnormal condition and as something reflected through signs in the body; it is also linked with the concept of Antarayas in the teaching framework used here. Picking only one option would be incomplete."
   },
   {
     "question": "Patanjali says Vyadhi (Disease) usually accompanies the -",
@@ -328,7 +328,7 @@
       "None of the above"
     ],
     "correctIndex": 3,
-    "description": "According to the answer key, 'None of the above' is marked correct. This file follows the provided key strictly. While other terms may sound related biologically, the answer sheet designates option D."
+    "description": "Correct term = Metabolism"
   },
   {
     "question": "A result of the pathological response of the body to either external or internal factors is referred as-",
@@ -350,7 +350,7 @@
       "None of the above"
     ],
     "correctIndex": 0,
-    "description": "Disorder is the keyed answer because it refers to disturbed functioning. Syndrome is a cluster of signs and symptoms, and condition is a broader term."
+    "description": "Disorder is functional disturbance in body systems. Syndrome is a cluster of signs and symptoms."
   },
   {
     "question": "An abnormal state that feels different from your normal state of well-being is referred as-",
@@ -361,7 +361,7 @@
       "Condition"
     ],
     "correctIndex": 3,
-    "description": "Condition is the answer marked in your key. The other terms are more specific and do not match the expected response here."
+    "description": "General term for any state of health (normal or abnormal)"
   },
   {
     "question": "When an abnormal chemical reaction in the body disrupts the usual energy conversion process, is referred to as -",
@@ -372,7 +372,7 @@
       "Thyroidism"
     ],
     "correctIndex": 1,
-    "description": "A metabolic disorder is the correct general term because it refers to abnormal chemical processes affecting metabolism. The other options are specific conditions or symptoms, not the broad category asked here."
+    "description": "A metabolic disorder is the correct general term because it refers to abnormal chemical processes affecting metabolism. Problems in metabolism (energy conversion).The other options are specific conditions or symptoms."
   },
   {
     "question": "The keys factor to manage Metabolic disorders is -",
@@ -386,7 +386,7 @@
     "description": "All of the above is correct because metabolic health depends on nutrition, movement, and sleep together. Choosing only one would be incomplete."
   },
   {
-    "question": "For asthma patients which asanas are beneficial?",
+    "question": "For asthma patients which Asanas are beneficial?",
     "options": [
       "Padahastasana",
       "Katichakrasana",
@@ -394,10 +394,10 @@
       "A & C"
     ],
     "correctIndex": 3,
-    "description": "According to the answer key, A & C is correct. Katichakrasana is not included in the marked answer set here."
+    "description": "Padahastasana → improves lung capacity; Balasana → relaxes chest and breathing; Katichakrasana → more for spine mobility"
   },
   {
-    "question": "Which asanas are beneficial for Diabetic patients?",
+    "question": "Which Asanas are beneficial for Diabetic patients?",
     "options": [
       "Matsyendrasana",
       "Dhanurasana",
@@ -405,7 +405,7 @@
       "All of the above"
     ],
     "correctIndex": 3,
-    "description": "All of the above is correct because all the listed asanas are treated as beneficial here. The answer sheet specifically marks option D."
+    "description": "All of the above is correct because all the listed asanas are treated as beneficial - stimulate pancreas, improve metabolism."
   },
   {
     "question": "FVC stands for -",
@@ -416,7 +416,7 @@
       "A & B"
     ],
     "correctIndex": 1,
-    "description": "FVC stands for Forced Vital Capacity. The other expansions are incorrect, and A & B is wrong because option A is not the accepted expansion."
+    "description": "FVC stands for Forced Vital Capacity - the total volume of air a person can forcefully exhale from their lungs after taking the deepest breath possible.  It is a key measure of lung function, used to assess respiratory health, diagnose lung diseases such as asthma and COPD, and monitor the effectiveness of treatments."
   },
   {
     "question": "The ribs which don’t attach to the sternum at all are called -",
@@ -427,7 +427,7 @@
       "None of the above"
     ],
     "correctIndex": 0,
-    "description": "Floating ribs do not attach to the sternum at all. False ribs attach indirectly, and true ribs attach directly."
+    "description": "Floating ribs (11-12) do not attach to the sternum at all. False ribs (8-10) attach indirectly (via rib above), and true ribs (1-7) attach directly to sternum (via cartilage)."
   },
   {
     "question": "Personality can be defined as -",
@@ -438,7 +438,7 @@
       "All of the above"
     ],
     "correctIndex": 3,
-    "description": "All of the above is correct because each statement captures a valid aspect of personality. The answer sheet marks the inclusive option."
+    "description": "All of the above is correct because each statement captures a valid aspect of personality."
   },
   {
     "question": "Which practices help in developing social values?",
@@ -449,7 +449,7 @@
       "Chitta Prasadana"
     ],
     "correctIndex": 0,
-    "description": "Yama directly concerns ethical and social conduct, so it best supports development of social values. The others are important practices but not the primary answer here."
+    "description": "Yama directly concerns ethical and social conduct, so it best supports development of social values. The others are important practices but not related here."
   },
   {
     "question": "Which practices work on the emotional dimension of personality?",
@@ -460,7 +460,7 @@
       "All of the above"
     ],
     "correctIndex": 3,
-    "description": "All of the above is correct because each of these practices can influence emotional regulation and stability. The key marks option D."
+    "description": "All of the above is correct because each of these practices can influence emotional regulation and stability."
   },
   {
     "question": "Yogic practices should be introduced as early as 8 years for the holistic development of the child.",
@@ -469,7 +469,7 @@
       "False"
     ],
     "correctIndex": 0,
-    "description": "This is true according to the answer sheet. The false option does not match the keyed answer."
+    "description": "Helps physical, mental, and emotional growth."
   },
   {
     "question": "The Human skeleton is divided into -",
@@ -480,7 +480,7 @@
       "Upper limbs and lower limbs"
     ],
     "correctIndex": 0,
-    "description": "The human skeleton is classically divided into axial and appendicular skeleton. The other options are incomplete or anatomically incorrect."
+    "description": "The human skeleton is classically divided into axial and appendicular skeleton. Axial → skull, vertebral column, ribs; Appendicular → limbs and girdles."
   },
   {
     "question": "Tissues that connect 2 muscles are called-",
@@ -491,7 +491,7 @@
       "Connective tissues"
     ],
     "correctIndex": 0,
-    "description": "According to the provided answer key, fascia is correct. This file follows your answer sheet strictly. Tendons connect muscle to bone, ligaments connect bone to bone, and connective tissues is too broad."
+    "description": "Fascia → muscles to muscles; Tendon → muscle to bone; Ligament → bone to bone."
   },
   {
     "question": "The joints which are found between the bones of the skull are called-",
@@ -524,7 +524,7 @@
       "Nerves"
     ],
     "correctIndex": 0,
-    "description": "The neuron is the basic functional unit of the nervous system. Nephron is the kidney's unit, mitochondria are organelles, and nerves are bundles of nerve fibers rather than the fundamental unit."
+    "description": "Neuron is the structural and functional unit that transmits nerve impulses. Nephron is the kidney's unit, mitochondria are organelles, and nerves are bundles of nerve fibers rather than the fundamental unit."
   },
   {
     "question": "What is the basic unit of kidney function?",
@@ -535,6 +535,6 @@
       "RBC"
     ],
     "correctIndex": 0,
-    "description": "The nephron is the functional unit of the kidney. The other options are unrelated or too broad."
+    "description": "Nephrons are the functional units of the kidney that filter blood and form urine."
   }
 ]

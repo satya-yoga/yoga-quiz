@@ -184,7 +184,7 @@
       "Kapalbhati purifies the frontal brain"
     ],
     "correctIndex": 3,
-    "description": "Kapalbhati purifies the frontal brain is the correct statement. The other statements incorrectly describe the actions of Neti, Dhauti, or Nauli."
+    "description": "In Hatha Yoga Pradipika: Neti → cleanses nasal passages, not digestive tract. Dhauti → cleanses digestive tract, not just massages. Nauli → massages and strengthens abdominal organs, not nasal passages. Kapalbhati → literally means “shining skull”, helps purify the frontal brain."
   },
   {
     "question": "Sutra number 1.5 is –",
@@ -195,7 +195,7 @@
       "Atha Yoga Anusasanam"
     ],
     "correctIndex": 1,
-    "description": "Yoga Sutra 1.5 is 'Vrittayah Panchatayah Klishta Aklishta.' The other sutras belong to different verse numbers."
+    "description": "Sutra 1.5 states: \"Vṛttayaḥ Pañcatayaḥ Kliṣṭa Akliṣṭāḥ\" - The modifications of the mind are of five types and are either painful (kliṣṭa) or non-painful (akliṣṭa). 1.1 → Atha Yoga Anusasanam.\n1.2 → Yogas Chitta Vritti Nirodhah.\n1.6 → Pramana Viparyaya Vikalpa Nidra Smritayah."
   },
   {
     "question": "Yoga is --------",
@@ -206,7 +206,7 @@
       "Discipline"
     ],
     "correctIndex": 3,
-    "description": "In this exam context, Yoga is best identified as discipline. The other options may capture partial modern views, but the answer key selects discipline."
+    "description": "According to Yoga Sutras of Patanjali, Yoga is a systematic discipline for controlling the mind and attaining higher awareness (“Yogaḥ Citta Vṛtti Nirodhaḥ” – 1.2). It is not merely exercise, religion, or therapy, but a comprehensive discipline of body and mind."
   },
   {
     "question": "The term “yoga” is derived by ________ in the 6th century.",
@@ -217,7 +217,7 @@
       "Vyasa"
     ],
     "correctIndex": 1,
-    "description": "The term 'yoga' is marked here as derived by Panini. The other names are important figures but not the keyed answer in this question."
+    "description": "The term 'Yoga' is derived from the Sanskrit root “Yuj” (to join/union), and its grammatical derivation is explained by Panini (around 6th century BCE)."
   },
   {
     "question": "The productive cause of all Triguna is ________",
@@ -228,7 +228,7 @@
       "Chitta"
     ],
     "correctIndex": 2,
-    "description": "Ahamkara is the keyed answer here as the productive cause of all Triguna in this quiz’s framework. The other terms do not match the provided key."
+    "description": "In Samkhya philosophy, the three Guṇas (Sattva, Rajas, Tamas) manifest through evolutes of Prakriti. Ahamkara (ego principle) is the stage from which various functional aspects (including mind and senses influenced by the Guṇas) further evolve. Prakriti = root of Gunas. Ahamkara = practical source (among given options)."
   },
   {
     "question": "In the Sanskrit word Guru- ru means-",
@@ -238,8 +238,8 @@
       "Teach",
       "Illumination"
     ],
-    "correctIndex": 3,
-    "description": "The answer key marks illumination here. The other options do not match the provided exam key."
+    "correctIndex": 0,
+    "description": "In the Sanskrit word 'Guru':\nGu = darkness\nRu = remover / destroyer\nSo, Guru literally means 'destroyer of darkness (ignorance)'.\n'Teach/Illumination. → function of a Guru, not literal meaning"
   },
   {
     "question": "According to Jnana Yoga “Not losing sight of ultimate goal” refers to-",
@@ -272,7 +272,7 @@
       "Vanaprastha"
     ],
     "correctIndex": 3,
-    "description": "The third 25 years of Ashrama life is Vanaprastha. Brahmacharya is the first, Grihastha the second, and Sanyasa the final stage."
+    "description": "In the traditional Āśrama system of Hindu philosophy: 1. Brahmacharya (0–25 years): Student life, learning, and discipline. 2. Grihastha (25–50 years): Householder life, family responsibilities. 3. Vanaprastha (50–75 years): Retirement, detachment, preparation for spiritual life. 4. Sannyasa (75+ years): Renunciation and complete spiritual focus."
   },
   {
     "question": "A Yogic diet is—",
@@ -286,7 +286,7 @@
     "description": "According to the answer key, a yogic diet is vegetarian. The other options may be subsets or variations, but they are not the selected answer here."
   },
   {
-    "question": "The spicy foods are_____ quality",
+    "question": "The spicy foods are _____ quality",
     "options": [
       "Sattvics",
       "Rajasics",
@@ -294,7 +294,7 @@
       "Sampoorna"
     ],
     "correctIndex": 1,
-    "description": "Spicy foods are categorized as Rajasic because they stimulate and excite the system. They are not Sattvic or Tamasic in this question’s classification."
+    "description": "In Samkhya philosophy and yogic dietary principles:\nRajas foods → spicy, salty, sour, stimulating.\nEffect → agitation, restlessness, increased desire.\nSattvic foods → pure, light, nourishing.\nTamas foods → heavy, stale, or over-processed.\nSpicy foods increase Rajas guna, causing activity and restlessness."
   },
   {
     "question": "Inhalation and exhalation are both done forcefully and rapidly is referred as-",
@@ -305,7 +305,7 @@
       "Ujjayi"
     ],
     "correctIndex": 1,
-    "description": "Bhastrika involves forceful inhalation and forceful exhalation. Kapalbhati emphasizes active exhalation more specifically, so it is not the best fit here."
+    "description": "In yogic pranayama (from Hatha Yoga Pradipika): Bhastrika → both inhalation and exhalation are forceful and rapid, like bellows, energizing the body and mind. Kapalabhati → only exhalation is forceful, inhalation is passive. Sheetali → cooling breath (through rolled tongue). Ujjayi → slow, deep, audible breath."
   },
   {
     "question": "Lord Krishna explains_____ paths of yoga to Arjuna.",
@@ -327,10 +327,10 @@
       "Endocrine"
     ],
     "correctIndex": 1,
-    "description": "Ligaments belong to the skeletal system because they connect bone to bone and stabilize joints. They are not part of the muscular, nervous, or endocrine systems."
+    "description": "Ligaments are fibrous connective tissues that connect bones to other bones, providing joint stability. They are an essential part of the skeletal system, along with bones and cartilage. Muscular system → muscles. Nervous system → nerves, brain, spinal cord. Endocrine system → glands and hormones."
   },
   {
-    "question": "Cardiac, skeletal and ____ are three types of muscles-",
+    "question": "Cardiac, Skeletal and ____ are three types of muscles-",
     "options": [
       "Endocrine",
       "Respiratory",
@@ -338,7 +338,7 @@
       "Smooth"
     ],
     "correctIndex": 3,
-    "description": "The three muscle types are cardiac, skeletal, and smooth. The other options are not muscle tissue categories."
+    "description": "The three types of muscles in the human body are: 1.Cardiac muscle → found in the heart, involuntary. 2. Skeletal muscle → attached to bones, voluntary. 3. Smooth muscle → found in walls of internal organs (stomach, intestines, blood vessels), involuntary."
   },
   {
     "question": "Around the Yoga practices area, it is best to have ____ walls.",
@@ -349,7 +349,7 @@
       "Instructions"
     ],
     "correctIndex": 0,
-    "description": "Plain walls are preferred around the yoga practice area to reduce distraction. Decorated walls, pictures, or written instructions can disturb focus."
+    "description": "Plain walls → reduce distractions, help focus and concentration during practice. Decorated walls, pictures, or instructions → may distract the mind and disturb the meditative atmosphere. A calm, uncluttered environment supports Sattvic conditions for yoga."
   },
   {
     "question": "Greeva-Sanachalasana is to increase the flexibility of –",
@@ -360,7 +360,7 @@
       "Ankle"
     ],
     "correctIndex": 2,
-    "description": "Greeva-Sanchalana is a neck movement practice, so it increases flexibility of the neck. The other body parts do not match the name or function."
+    "description": "Greeva-Sanachalasana is a yoga asana specifically designed to increase flexibility and mobility of the neck (Greeva = neck). It helps relieve stiffness, improve posture, and strengthen neck muscles."
   },
   {
     "question": "Which practice removes blocks and tightness in muscles and strengthens them?",
@@ -382,7 +382,7 @@
       "Neti"
     ],
     "correctIndex": 2,
-    "description": "Dhauti is the purification process in which cloth is used. Basti, Trataka, and Neti involve different cleansing methods."
+    "description": "Basti → uses water or decoction for colon cleansing. Trataka → gazing at a point/candle, no cloth used. Dhauti → cleansing of stomach/oesophagus, usually using a long strip of cloth (Vastra Dhauti). Neti → cleansing nasal passages, can use cotton thread (Sutra Neti) or water (Jala Neti)."
   },
   {
     "question": "In which traditional text “Surya Namaskara” practice is explained?",
@@ -404,10 +404,10 @@
       "Ujjayi"
     ],
     "correctIndex": 1,
-    "description": "Seetkari is performed by drawing breath through the teeth. Sheetali uses the rolled tongue, while Nadi Shuddhi and Ujjayi are different pranayama methods."
+    "description": "Seetkari Pranayama → breath is drawn in through the teeth with the tongue tip touching the palate, producing a hissing sound, and exhaled normally. Sheetali → breath through a rolled tongue, cooling effect. Nadishuddhi (Nadi Shodhana) → alternate nostril breathing. Ujjayi → slow, deep, audible breath through the throat."
   },
   {
-    "question": "Shankha Prakshalana’ is one of-",
+    "question": "Shankha Prakshalana is one of the",
     "options": [
       "Asana",
       "Kriya",
@@ -415,7 +415,7 @@
       "Niyama"
     ],
     "correctIndex": 1,
-    "description": "Shankha Prakshalana is a cleansing practice, so it is categorized as a Kriya. It is not an asana, pranayama, or niyama."
+    "description": "Shankha Prakshalana is a yogic cleansing technique that purifies the entire digestive tract using water and specific movements. It is part of Shatkarma / Shatkriya (six purificatory techniques), which are classified as Kriyas, not asanas or pranayama. Asana → postures. Pranayama → breath control. Niyama → personal discipline."
   },
   {
     "question": "Retaining the breath after the exhalation phase is called",
@@ -429,7 +429,7 @@
     "description": "Retention after exhalation is called Bahya Kumbhaka. Antar Kumbhaka is after inhalation, and Kevala Kumbhaka is spontaneous retention."
   },
   {
-    "question": "Tapas, Swadhyaya, and Ishwara Pranidhana are specified as___yoga",
+    "question": "Tapas, Swadhyaya, and Ishwara Pranidhana are specified as ___ yoga",
     "options": [
       "Antaranga",
       "Bahiranga",
@@ -437,10 +437,10 @@
       "Kriya"
     ],
     "correctIndex": 3,
-    "description": "Tapas, Swadhyaya, and Ishvara Pranidhana together are called Kriya Yoga in Patanjali. The other categories do not match this triad."
+    "description": "Tapas, Swadhyaya, and Ishvara Pranidhana together are called Kriya Yoga as per Yoga Sutras of Patanjali."
   },
   {
-    "question": "‘Aparigraha’ is one of the",
+    "question": "Aparigraha is one of the",
     "options": [
       "Yama",
       "Niyama",
@@ -448,7 +448,7 @@
       "Kriya"
     ],
     "correctIndex": 0,
-    "description": "Aparigraha is one of the Yamas. It is not a Niyama, Dharana, or Kriya."
+    "description": "Yamas = ethical restraints or social disciplines:\n1. Ahimsa – non-violence;\n2. Satya – truthfulness;\n3. Asteya – non-stealing;\n4. Brahmacharya – moderation;\n5. Aparigraha – non-possessiveness."
   },
   {
     "question": "Om Savitre Namah’ in this “Savitre” meant for",
@@ -459,7 +459,7 @@
       "Produces everything"
     ],
     "correctIndex": 3,
-    "description": "According to the provided answer key, 'Om Savitre Namah' is keyed as 'Produces everything.' The other options are not the selected answer in this exam."
+    "description": "1. Mitra → Friend, friendly;\n2. Ravi → Sun, shining one;\n3. Sūrya → Sun, all-pervading;\n4. Bhānu / Bhānav → Illuminator, radiance;\n5. Khaga → Sky-traveler, moving across the sky;\n6. Pūṣa → Nourisher, sustainer;\n7. Hiraṇyagarbha → Golden womb, cosmic source;\n8. Mārīci → Ray, originator of light;\n9. Āditya → Son of Aditi, Sun deity;\n10. Savitr → Creative, life-producer;\n11. Arka → Brightener, that which illuminates;\n12. Bhaskara → All-enlightening, light-maker."
   },
   {
     "question": "Mother Teresa is",
@@ -470,7 +470,7 @@
       "Bhakti Yogi"
     ],
     "correctIndex": 0,
-    "description": "Mother Teresa is best identified here as a Karma Yogi because of her life of selfless service. The other yogic labels are not the keyed answer."
+    "description": "Mother Teresa is known for her selfless service to humanity, especially the poor and sick. Karma Yoga → path of selfless action (Seva) without expectation of reward. Her life perfectly reflects service-oriented action, which defines a Karma Yogi."
   },
   {
     "question": "Which one of the following is a female sex hormone?",
@@ -481,7 +481,7 @@
       "Androgen"
     ],
     "correctIndex": 0,
-    "description": "Estrogen is the female sex hormone asked for here. Insulin and oxytocin have different functions, and androgen is primarily associated with male characteristics."
+    "description": "Estrogen → primary female sex hormone, responsible for development of female reproductive system and secondary sexual characteristics. Insulin → regulates blood sugar. Oxytocin → involved in childbirth and bonding. Androgen → primarily male sex hormone."
   },
   {
     "question": "Which one of the following is not a part of the Small Intestine?",
@@ -492,10 +492,10 @@
       "Duodenum"
     ],
     "correctIndex": 2,
-    "description": "Caecum is part of the large intestine, not the small intestine. Jejunum, ileum, and duodenum are all parts of the small intestine."
+    "description": "The small intestine consists of: Duodenum, Jejunum, Ileum. Caecum is part of the large intestine (absorption of water and formation of feces), not the small intestine (digestion and absorption of nutrients)."
   },
   {
-    "question": "How many types of Karma are mentioned in Bhagavad-Gita:",
+    "question": "How many types of Karma are mentioned in Bhagavad-Gita ?",
     "options": [
       "2",
       "4",
@@ -514,7 +514,7 @@
       "Calcium"
     ],
     "correctIndex": 3,
-    "description": "Calcium is the mineral the body needs to function properly in this question. Gold, silver, and lead are not correct nutritional answers here."
+    "description": "Essential for bones, teeth, nerve, and muscle function. Gold, Silver, Lead → not required for body function."
   },
   {
     "question": "When shall a Yoga lesson plan be prepared for effective teaching:",
@@ -536,7 +536,7 @@
       "Vitamin C"
     ],
     "correctIndex": 3,
-    "description": "Citrus fruits are well known for being rich in Vitamin C. The other nutrients listed are not the best match."
+    "description": "Citrus fruits are well known for being rich in Vitamin C. Boosts immunity, skin health, and antioxidant protection. The other nutrients listed are not the best match."
   },
   {
     "question": "The largest part of the Human Brain is:",
@@ -547,7 +547,7 @@
       "Cerebrum"
     ],
     "correctIndex": 3,
-    "description": "The cerebrum is the largest part of the human brain. Medulla, pons, and cerebellum are smaller regions with different roles."
+    "description": "The cerebrum is the largest part of the human brain. Responsible for thought, memory, voluntary actions, and senses.\nMedulla, Pons, Cerebellum → smaller parts with specific functions."
   },
   {
     "question": "According to Patanjali yoga Purusha and Prakriti are called:",
@@ -558,7 +558,7 @@
       "Seer and Scene"
     ],
     "correctIndex": 3,
-    "description": "According to Patanjali, Purusha and Prakriti are understood as the Seer and the Seen. The other pairings do not match this classical idea."
+    "description": "Draṣṭṛ–dṛśyayoḥ saṁyogaḥ heya-hetuḥ (PYS 2.17). The union of the Seer (Purusha) and the Seen (Prakriti) is the cause of suffering."
   },
   {
     "question": "Which of the following is not an Enzyme:",
@@ -569,18 +569,18 @@
       "Pepsin"
     ],
     "correctIndex": 2,
-    "description": "Somatotropin is a hormone, not an enzyme. Amylase, trypsin, and pepsin are enzymes."
+    "description": "Somatotropin = growth hormone, not an enzyme.\nAmylase, Trypsin, Pepsin → digestive enzymes."
   },
   {
     "question": "When the question-and-answer session shall be held during a Yoga practical teaching:",
     "options": [
       "Beginning of the class",
-      "anytime during the class",
+      "Anytime during the class",
       "At the very End of the lesson",
       "After introducing the practice"
     ],
     "correctIndex": 2,
-    "description": "The answer key marks that the question-and-answer session should be held at the very end of the lesson. The other timings are not selected in your source."
+    "description": "At the very End of the lesson. Ensures students practice first, then clarify doubts."
   },
   {
     "question": "The Yoga class usually begins with:",
@@ -591,7 +591,7 @@
       "Prayer"
     ],
     "correctIndex": 3,
-    "description": "A yoga class usually begins with prayer in this quiz set. The other practices may appear later, but the key marks prayer as the opening."
+    "description": "Prayer - sets a calm, focused, Sattvic atmosphere."
   },
   {
     "question": "The types of food according to Bhagavad-Gita are:",
@@ -602,7 +602,7 @@
       "Three"
     ],
     "correctIndex": 3,
-    "description": "Bhagavad Gita classifies food into three types. The other counts are incorrect."
+    "description": "Sattvic → pure, nourishing; Rajasik → stimulating; Tamasik → heavy, stale, or impure."
   },
   {
     "question": "Which of the following is not a factor influencing teaching?",
@@ -613,7 +613,7 @@
       "Social status of a teacher"
     ],
     "correctIndex": 3,
-    "description": "Social status of a teacher is not treated here as a factor influencing teaching. Environment, student, and teacher are directly relevant factors."
+    "description": "Teaching effectiveness depends on environment, teacher skill, and student readiness, not social status."
   },
   {
     "question": "According to Bhagavad-Gita Non-violence, forgiveness, purity, and Mercy are the characteristics of:",
@@ -621,7 +621,7 @@
       "Asuri Sampada",
       "Rajas",
       "Daivi Sampada",
-      "Satva and Rajas"
+      "Sattva and Rajas"
     ],
     "correctIndex": 2,
     "description": "Non-violence, forgiveness, purity, and mercy are characteristics of Daivi Sampada, the divine qualities. The other options do not fit these virtues."
@@ -635,7 +635,7 @@
       "Vibhuti"
     ],
     "correctIndex": 1,
-    "description": "Freedom from miseries and suffering is Kaivalya in this question. Sadhana, Samadhi, and Vibhuti refer to different stages or attainments."
+    "description": "Kaivalya - Ultimate liberation and isolation from material suffering. Sadhana → practice, Samadhi → meditative absorption, Vibhuti → divine powers."
   },
   {
     "question": "The process of conscious sleeping is",
@@ -646,7 +646,7 @@
       "Shavasana"
     ],
     "correctIndex": 2,
-    "description": "The process of conscious sleeping is Yoga Nidra. Dhyana and Samadhi are meditative states, while Shavasana is a relaxation posture."
+    "description": "Yoga Nidra - deep relaxation where the body sleeps but the mind remains aware/conscious. Dhyana → meditation, Samadhi → deep absorption, Shavasana → relaxation posture."
   },
   {
     "question": "The proper order for the teaching process-",
